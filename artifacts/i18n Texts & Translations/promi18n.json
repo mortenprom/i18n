@@ -1,0 +1,150 @@
+{
+	"id": "894f663e-384f-45bf-a716-3267184b3178",
+	"createdAt": "2025-11-07T20:01:23.378Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [
+		{
+			"name": "launchpadDescription",
+			"text": "My Launchpad Description",
+			"EN": {
+				"text": "My Launchpad Description"
+			},
+			"type": "XTXT",
+			"id": "397c7353-4678-47ae-8288-e065b14fda70"
+		},
+		{
+			"name": "launchpadLoginSubtitle",
+			"text": "My Login Subtitle",
+			"EN": {
+				"text": "My Login Subtitle"
+			},
+			"type": "XTXT",
+			"id": "61a8089e-0a77-4cfe-f23d-0cd2ea0ecddf"
+		},
+		{
+			"name": "launchpadLoginTitle",
+			"text": "My Login Title",
+			"EN": {
+				"text": "My Login Title"
+			},
+			"type": "XTXT",
+			"id": "a4514c07-7e1a-4530-f683-b51a6317a578"
+		},
+		{
+			"name": "launchpadTitle",
+			"text": "My Launchpad",
+			"EN": {
+				"text": "My Launchpad"
+			},
+			"type": "XTXT",
+			"id": "3cd9f4ae-4de9-4054-b3cf-1e21bfdbcf24"
+		},
+		{
+			"name": "tileBtnIcon",
+			"text": "sap-icon://nep/api-client",
+			"EN": {
+				"text": "sap-icon://nep/api-client"
+			},
+			"type": "XTXT",
+			"id": "bd89f63d-b6ec-4c56-de2c-625c69de8ae0"
+		},
+		{
+			"name": "tileBtnText",
+			"text": "My Button",
+			"EN": {
+				"text": "My Button"
+			},
+			"type": "XTXT",
+			"id": "fdd97722-16ba-44e3-e73e-0a472ba2b251"
+		},
+		{
+			"name": "tileIcon",
+			"text": "sap-icon://nep/adaptive-designer",
+			"EN": {
+				"text": "sap-icon://nep/adaptive-designer"
+			},
+			"type": "XTXT",
+			"id": "94f26b62-023d-43f0-a0ea-eea5871d56e3"
+		},
+		{
+			"name": "tileStatus",
+			"text": "My tile status",
+			"EN": {
+				"text": "My tile status"
+			},
+			"type": "XTXT",
+			"id": "bd26bb85-8ff5-44a1-ee2e-cc0fb3a39cb5"
+		},
+		{
+			"name": "tileSubtitle",
+			"text": "My Tile Subtitle",
+			"EN": {
+				"text": "My Tile Subtitle"
+			},
+			"type": "XTXT",
+			"id": "ddea194f-c6af-4cdf-b146-69a97fed6f23"
+		},
+		{
+			"name": "tileText",
+			"text": "<h4>My Text</h4><p>What a cool text.</p>",
+			"EN": {
+				"text": "<h4>My Text</h4><p>What a cool text.</p>"
+			},
+			"type": "XTXT",
+			"id": "326fa95d-0704-4019-9b28-29f1456718b1"
+		},
+		{
+			"name": "tileTitle",
+			"text": "My Tile Title",
+			"EN": {
+				"text": "My Tile Title"
+			},
+			"type": "XTXT",
+			"id": "bb012ca3-795b-4c80-c0f2-55bf58277c18"
+		},
+		{
+			"name": "tilegroupMenuText",
+			"text": "MY MENU",
+			"EN": {
+				"text": "MY MENU"
+			},
+			"type": "XTXT",
+			"id": "03032952-575d-4a5e-b065-08bb959113a7"
+		},
+		{
+			"name": "tilegroupSubtitle",
+			"text": "My Tile Group Subtitle",
+			"EN": {
+				"text": "My Tile Group Subtitle"
+			},
+			"type": "XTXT",
+			"id": "aae80512-9039-48e9-d37d-4ac9f82535a5"
+		},
+		{
+			"name": "tilegroupTitle",
+			"text": "My Tile Group Title",
+			"EN": {
+				"text": "My Tile Group Title"
+			},
+			"type": "XTXT",
+			"id": "3c3d7af7-f5e9-4db9-f1ba-98ec20a801a2"
+		}
+	],
+	"locales": [
+		{
+			"isoCode": "EN"
+		}
+	],
+	"name": "promi18n",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": null,
+	"ver": "25.11.08.0053",
+	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"apps": [],
+	"baseModel": null
+}
