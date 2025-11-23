@@ -1,0 +1,167 @@
+{
+	"id": "06969351-39b7-42e9-9c19-7e26a3ebf10a",
+	"createdAt": "2025-11-23T12:08:10.189Z",
+	"createdBy": "morten@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "b65ce3b4-a0fa-467f-89b2-f982b6ad05aa",
+			"fieldName": "App",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "cffb137a-ce56-4e76-fc17-539299252a87",
+					"fieldName": "Page",
+					"fieldParent": "b65ce3b4-a0fa-467f-89b2-f982b6ad05aa",
+					"fieldType": "sap.m.Page",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": [
+						{
+							"fieldNo": "fff76352-9749-47f7-cb80-af13ad43ff43",
+							"fieldName": "FlexBox",
+							"fieldParent": "cffb137a-ce56-4e76-fc17-539299252a87",
+							"fieldType": "sap.m.FlexBox",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "height",
+									"grouping": "Properties",
+									"value": "100%",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "renderType",
+									"grouping": "Properties",
+									"value": "Bare",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "justifyContent",
+									"grouping": "Properties",
+									"value": "Center",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "alignItems",
+									"grouping": "Properties",
+									"value": "Center",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "alignContent",
+									"grouping": "Properties",
+									"value": "Center",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "9c2a14cb-5f2a-48f6-980c-abc2583ebd0a",
+									"fieldName": "myFormattedText",
+									"fieldParent": "fff76352-9749-47f7-cb80-af13ad43ff43",
+									"fieldType": "sap.m.FormattedText",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "htmlText",
+											"grouping": "Properties",
+											"value": "{i18n.promi18n>htmlMsg.paragraph1},{i18n.promi18n>htmlMsg.paragraph2},{i18n.promi18n>htmlMsg.titleMiddle},{i18n.promi18n>htmlMsg.titleTop}",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "htmlText",
+											"grouping": "Formatter",
+											"value": "Anonymous Function",
+											"script": "file://event/sap.m.FormattedText/myFormattedText/htmlText.js",
+											"language": "javascript",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "25.11.23.1353",
+	"application": "prom_i18n_formatter",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_integration": false,
+	"ui5_chart": false,
+	"ui5_theme": "",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
+	"apis": [],
+	"i18n": [
+		{
+			"id": "49fd77b0-8330-498b-9106-ce05a2e97940",
+			"name": "prom_i18n_formatter",
+			"application": "prom_i18n_formatter",
+			"ver": "25.11.23.1353"
+		}
+	]
+}

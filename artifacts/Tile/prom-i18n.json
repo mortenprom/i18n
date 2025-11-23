@@ -3,7 +3,7 @@
 	"createdAt": "2025-11-07T21:41:20.441Z",
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
-	"storeItem": null,
+	"storeItem": {},
 	"settings": {
 		"adaptive": {
 			"id": ""
@@ -15,7 +15,7 @@
 	"categoryID": null,
 	"sort": null,
 	"urlApplication": null,
-	"actionApplication": "dxp_demo_appearance_placeholder",
+	"actionApplication": "prom_i18n",
 	"actionParameters": null,
 	"actionURL": "",
 	"openDialog": false,
@@ -63,7 +63,7 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.11.07.2242",
+	"ver": "25.11.13.1216",
 	"actionWebApp": "",
 	"name": "prom-i18n",
 	"cardWidth": null,
@@ -95,5 +95,13 @@
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"roles": [],
 	"lightTileLayouts": [],
-	"darkTileLayouts": []
+	"darkTileLayouts": [],
+	"i18n": [
+		{
+			"id": "894f663e-384f-45bf-a716-3267184b3178",
+			"name": "promi18n",
+			"application": null,
+			"ver": "25.11.23.1353"
+		}
+	]
 }

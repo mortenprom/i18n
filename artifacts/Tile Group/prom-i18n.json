@@ -101,10 +101,18 @@
 			"id": "78fd7ae8-8829-4914-a599-1b4f0f9904c1",
 			"name": "prom-i18n",
 			"title": "{i18n.promi18n>tileTitle}",
-			"ver": "25.11.07.2242"
+			"ver": "25.11.13.1216"
 		}
 	],
 	"tilegroups": [],
 	"navbarGroups": [],
-	"sidebarGroups": []
+	"sidebarGroups": [],
+	"i18n": [
+		{
+			"id": "894f663e-384f-45bf-a716-3267184b3178",
+			"name": "promi18n",
+			"application": null,
+			"ver": "25.11.23.1353"
+		}
+	]
 }

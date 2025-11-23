@@ -14,7 +14,20 @@
 	"oeVersion": null,
 	"excludeTemplateFiles": false,
 	"roles": [],
-	"apps": [],
+	"apps": [
+		{
+			"id": "a95699d8-100c-4231-86ad-6cdf1ae2cb6f",
+			"application": "prom_i18n",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "06969351-39b7-42e9-9c19-7e26a3ebf10a",
+			"application": "prom_i18n_formatter",
+			"title": "",
+			"description": ""
+		}
+	],
 	"api": [],
 	"odataSource": [],
 	"odataMock": [],
@@ -66,6 +79,16 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"description": null
+		},
+		{
+			"id": "4d5cd7be-5cad-4180-a78c-5d253cbe2a6e",
+			"name": "prom_i18n",
+			"description": null
+		},
+		{
+			"id": "49fd77b0-8330-498b-9106-ce05a2e97940",
+			"name": "prom_i18n_formatter",
+			"description": null
 		}
 	],
 	"events": [],
@@ -80,5 +103,6 @@
 	"ai_prompt": [],
 	"ai_tool": [],
 	"ai_guardrail": [],
-	"path_rewrite": []
+	"path_rewrite": [],
+	"vault": []
 }

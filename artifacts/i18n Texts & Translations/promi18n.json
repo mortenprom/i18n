@@ -4,13 +4,255 @@
 	"createdBy": "morten@neptune-software.com",
 	"attributes": [
 		{
+			"name": "appEmployeeName",
+			"text": "Employee Name",
+			"EN": {
+				"text": "Employee Name"
+			},
+			"type": "XTXT",
+			"id": "5ccc863b-1d4b-4806-ddec-8368185ff4b2",
+			"AR": {
+				"text": "اسم الموظف"
+			},
+			"FR": {
+				"text": "Nom de l'employé"
+			},
+			"DE": {
+				"text": "Name des Mitarbeiters"
+			},
+			"ES": {
+				"text": "Nombre del empleado"
+			},
+			"PT": {
+				"text": "Nome do funcionário"
+			},
+			"NO": {
+				"text": "Ansattnavn"
+			}
+		},
+		{
+			"name": "appEmployeeNumber",
+			"text": "Employee Number",
+			"EN": {
+				"text": "Employee Number"
+			},
+			"type": "XTXT",
+			"id": "ba6de63a-df8d-4c74-eb4e-92d409a89796",
+			"AR": {
+				"text": "رقم الموظف"
+			},
+			"FR": {
+				"text": "Numéro d'employé"
+			},
+			"DE": {
+				"text": "Mitarbeiternummer"
+			},
+			"ES": {
+				"text": "Número de empleado"
+			},
+			"PT": {
+				"text": "Número do funcionário"
+			},
+			"NO": {
+				"text": "Ansattnummer"
+			}
+		},
+		{
+			"name": "appTitle",
+			"text": "Employee Overview",
+			"EN": {
+				"text": "Employee Overview"
+			},
+			"type": "XTXT",
+			"id": "f5fdd287-95b4-4746-fb75-56a89d35d23b",
+			"AR": {
+				"text": "نظرة عامة على الموظف"
+			},
+			"FR": {
+				"text": "Aperçu des employés"
+			},
+			"DE": {
+				"text": "Mitarbeiterübersicht"
+			},
+			"ES": {
+				"text": "Descripción general del empleado"
+			},
+			"PT": {
+				"text": "Visão Geral do Funcionário"
+			},
+			"NO": {
+				"text": "Oversikt over ansatte"
+			}
+		},
+		{
+			"name": "htmlMsg",
+			"text": "HTML Messages",
+			"EN": {
+				"text": "HTML Messages"
+			},
+			"type": "XTXT",
+			"id": "877dd145-979d-46f5-e6e7-45afab13a432",
+			"AR": {
+				"text": "رسائل HTML"
+			},
+			"FR": {
+				"text": "Messages HTML"
+			},
+			"DE": {
+				"text": "HTML-Nachrichten"
+			},
+			"ES": {
+				"text": "Mensajes HTML"
+			},
+			"PT": {
+				"text": "Mensagens HTML"
+			},
+			"NO": {
+				"text": "HTML-meldinger"
+			}
+		},
+		{
+			"parent": "htmlMsg",
+			"parentId": "877dd145-979d-46f5-e6e7-45afab13a432",
+			"name": "htmlMsg.paragraph1",
+			"text": "My very first paragraph. It's a good one.",
+			"EN": {
+				"text": "My very first paragraph. It's a good one."
+			},
+			"type": "XTXT",
+			"id": "15d04d15-3844-4ac7-980e-35b43f84bbaf",
+			"AR": {
+				"text": "أول فقرة لي، جيدة جدًا."
+			},
+			"FR": {
+				"text": "Mon tout premier paragraphe. Il est bon."
+			},
+			"DE": {
+				"text": "Mein allererster Absatz. Der ist gut."
+			},
+			"ES": {
+				"text": "Mi primer párrafo. Es bueno."
+			},
+			"PT": {
+				"text": "Meu primeiro parágrafo. É um bom parágrafo."
+			},
+			"NO": {
+				"text": "Mitt aller første avsnitt. Det er et bra et."
+			}
+		},
+		{
+			"parent": "htmlMsg",
+			"parentId": "877dd145-979d-46f5-e6e7-45afab13a432",
+			"name": "htmlMsg.paragraph2",
+			"text": "My second paragraph. You can be the judge, is it even better?",
+			"EN": {
+				"text": "My second paragraph. You can be the judge, is it even better?"
+			},
+			"type": "XTXT",
+			"id": "7081c804-448a-45be-b2d2-9a11778b9a42",
+			"AR": {
+				"text": "فقرتي الثانية. لك الحكم، أليس كذلك؟"
+			},
+			"FR": {
+				"text": "Mon deuxième paragraphe. À vous de juger, est-il encore meilleur ?"
+			},
+			"DE": {
+				"text": "Mein zweiter Absatz. Urteilen Sie selbst, ist er noch besser?"
+			},
+			"ES": {
+				"text": "Mi segundo párrafo. Puedes juzgarlo tú mismo. ¿Es aún mejor?"
+			},
+			"PT": {
+				"text": "Meu segundo parágrafo. Você decide, ficou ainda melhor?"
+			},
+			"NO": {
+				"text": "Mitt andre avsnitt. Du kan være dommeren, er det enda bedre?"
+			}
+		},
+		{
+			"parent": "htmlMsg",
+			"parentId": "877dd145-979d-46f5-e6e7-45afab13a432",
+			"name": "htmlMsg.titleMiddle",
+			"text": "My Second Title",
+			"EN": {
+				"text": "My Second Title"
+			},
+			"type": "XTXT",
+			"id": "3dbd76fc-df19-425f-ecc9-6bc954c501b5",
+			"AR": {
+				"text": "لقبي الثاني"
+			},
+			"FR": {
+				"text": "Mon deuxième titre"
+			},
+			"DE": {
+				"text": "Mein zweiter Titel"
+			},
+			"ES": {
+				"text": "Mi segundo título"
+			},
+			"PT": {
+				"text": "Meu Segundo Título"
+			},
+			"NO": {
+				"text": "Min andre tittel"
+			}
+		},
+		{
+			"parent": "htmlMsg",
+			"parentId": "877dd145-979d-46f5-e6e7-45afab13a432",
+			"name": "htmlMsg.titleTop",
+			"text": "Top Title",
+			"EN": {
+				"text": "Top Title"
+			},
+			"type": "XTXT",
+			"id": "688d16b6-b7f2-4433-baed-eb9964813ad8",
+			"AR": {
+				"text": "العنوان الأعلى"
+			},
+			"FR": {
+				"text": "Titre principal"
+			},
+			"DE": {
+				"text": "Top-Titel"
+			},
+			"ES": {
+				"text": "Título superior"
+			},
+			"PT": {
+				"text": "Título principal"
+			},
+			"NO": {
+				"text": "Topptittel"
+			}
+		},
+		{
 			"name": "launchpadDescription",
 			"text": "My Launchpad Description",
 			"EN": {
 				"text": "My Launchpad Description"
 			},
 			"type": "XTXT",
-			"id": "397c7353-4678-47ae-8288-e065b14fda70"
+			"id": "397c7353-4678-47ae-8288-e065b14fda70",
+			"AR": {
+				"text": "وصف منصة الإطلاق الخاصة بي"
+			},
+			"FR": {
+				"text": "Description de mon Launchpad"
+			},
+			"DE": {
+				"text": "Meine Launchpad-Beschreibung"
+			},
+			"ES": {
+				"text": "Descripción de mi Launchpad"
+			},
+			"PT": {
+				"text": "Descrição do meu Launchpad"
+			},
+			"NO": {
+				"text": "Beskrivelse av Launchpad-en min"
+			}
 		},
 		{
 			"name": "launchpadLoginSubtitle",
@@ -19,7 +261,25 @@
 				"text": "My Login Subtitle"
 			},
 			"type": "XTXT",
-			"id": "61a8089e-0a77-4cfe-f23d-0cd2ea0ecddf"
+			"id": "61a8089e-0a77-4cfe-f23d-0cd2ea0ecddf",
+			"AR": {
+				"text": "عنوان تسجيل الدخول الخاص بي"
+			},
+			"FR": {
+				"text": "Sous-titre de ma connexion"
+			},
+			"DE": {
+				"text": "Mein Login-Untertitel"
+			},
+			"ES": {
+				"text": "Subtítulo de mi inicio de sesión"
+			},
+			"PT": {
+				"text": "Legenda do meu login"
+			},
+			"NO": {
+				"text": "Min påloggingstekst"
+			}
 		},
 		{
 			"name": "launchpadLoginTitle",
@@ -28,7 +288,25 @@
 				"text": "My Login Title"
 			},
 			"type": "XTXT",
-			"id": "a4514c07-7e1a-4530-f683-b51a6317a578"
+			"id": "a4514c07-7e1a-4530-f683-b51a6317a578",
+			"AR": {
+				"text": "عنوان تسجيل الدخول الخاص بي"
+			},
+			"FR": {
+				"text": "Mon titre de connexion"
+			},
+			"DE": {
+				"text": "Mein Anmeldename"
+			},
+			"ES": {
+				"text": "Mi título de inicio de sesión"
+			},
+			"PT": {
+				"text": "Meu título de login"
+			},
+			"NO": {
+				"text": "Min påloggingstittel"
+			}
 		},
 		{
 			"name": "launchpadTitle",
@@ -37,7 +315,104 @@
 				"text": "My Launchpad"
 			},
 			"type": "XTXT",
-			"id": "3cd9f4ae-4de9-4054-b3cf-1e21bfdbcf24"
+			"id": "3cd9f4ae-4de9-4054-b3cf-1e21bfdbcf24",
+			"AR": {
+				"text": "منصة الإطلاق الخاصة بي"
+			},
+			"FR": {
+				"text": "Ma plateforme de lancement"
+			},
+			"DE": {
+				"text": "Mein Launchpad"
+			},
+			"ES": {
+				"text": "Mi plataforma de lanzamiento"
+			},
+			"PT": {
+				"text": "Meu Launchpad"
+			},
+			"NO": {
+				"text": "Min Launchpad"
+			}
+		},
+		{
+			"name": "nestedTop",
+			"EN": {},
+			"type": "XTXT",
+			"id": "5648ca00-4384-41ba-82b0-8a87ecf66bd9",
+			"AR": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "nestedTop",
+			"parentId": "5648ca00-4384-41ba-82b0-8a87ecf66bd9",
+			"name": "nestedTop.nestedChild",
+			"EN": {},
+			"type": "XTXT",
+			"id": "ce02f6c5-c6e2-4625-ec5a-cd79c2d332b7",
+			"AR": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "nestedTop.nestedChild",
+			"parentId": "ce02f6c5-c6e2-4625-ec5a-cd79c2d332b7",
+			"name": "nestedTop.nestedChild.nestedContent",
+			"text": "My Content",
+			"EN": {
+				"text": "My Content"
+			},
+			"type": "XTXT",
+			"id": "6a8b9168-8d3e-4161-8ff8-07a9a58784a3",
+			"AR": {
+				"text": "محتواي"
+			},
+			"DE": {
+				"text": "Meine Inhalte"
+			},
+			"ES": {
+				"text": "Mi contenido"
+			},
+			"FR": {
+				"text": "Mon contenu"
+			},
+			"NO": {
+				"text": "Mitt innhold"
+			},
+			"PT": {
+				"text": "Meu conteúdo"
+			}
 		},
 		{
 			"name": "tileBtnIcon",
@@ -46,7 +421,25 @@
 				"text": "sap-icon://nep/api-client"
 			},
 			"type": "XTXT",
-			"id": "bd89f63d-b6ec-4c56-de2c-625c69de8ae0"
+			"id": "bd89f63d-b6ec-4c56-de2c-625c69de8ae0",
+			"AR": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			}
 		},
 		{
 			"name": "tileBtnText",
@@ -55,7 +448,25 @@
 				"text": "My Button"
 			},
 			"type": "XTXT",
-			"id": "fdd97722-16ba-44e3-e73e-0a472ba2b251"
+			"id": "fdd97722-16ba-44e3-e73e-0a472ba2b251",
+			"AR": {
+				"text": "زرّي"
+			},
+			"FR": {
+				"text": "Mon bouton"
+			},
+			"DE": {
+				"text": "Mein Knopf"
+			},
+			"ES": {
+				"text": "Mi botón"
+			},
+			"PT": {
+				"text": "Meu botão"
+			},
+			"NO": {
+				"text": "Min knapp"
+			}
 		},
 		{
 			"name": "tileIcon",
@@ -64,7 +475,25 @@
 				"text": "sap-icon://nep/adaptive-designer"
 			},
 			"type": "XTXT",
-			"id": "94f26b62-023d-43f0-a0ea-eea5871d56e3"
+			"id": "94f26b62-023d-43f0-a0ea-eea5871d56e3",
+			"AR": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			}
 		},
 		{
 			"name": "tileStatus",
@@ -73,7 +502,25 @@
 				"text": "My tile status"
 			},
 			"type": "XTXT",
-			"id": "bd26bb85-8ff5-44a1-ee2e-cc0fb3a39cb5"
+			"id": "bd26bb85-8ff5-44a1-ee2e-cc0fb3a39cb5",
+			"AR": {
+				"text": "حالة البلاط الخاص بي"
+			},
+			"FR": {
+				"text": "État de mes tuiles"
+			},
+			"DE": {
+				"text": "Mein Kachelstatus"
+			},
+			"ES": {
+				"text": "Estado de mi mosaico"
+			},
+			"PT": {
+				"text": "Meu status de azulejo"
+			},
+			"NO": {
+				"text": "Statusen min for fliser"
+			}
 		},
 		{
 			"name": "tileSubtitle",
@@ -82,7 +529,25 @@
 				"text": "My Tile Subtitle"
 			},
 			"type": "XTXT",
-			"id": "ddea194f-c6af-4cdf-b146-69a97fed6f23"
+			"id": "ddea194f-c6af-4cdf-b146-69a97fed6f23",
+			"AR": {
+				"text": "عنوان فرعي للبلاط"
+			},
+			"FR": {
+				"text": "Sous-titre de ma tuile"
+			},
+			"DE": {
+				"text": "Mein Kachel-Untertitel"
+			},
+			"ES": {
+				"text": "Mi subtítulo de mosaico"
+			},
+			"PT": {
+				"text": "Legenda do meu azulejo"
+			},
+			"NO": {
+				"text": "Min flis-undertittel"
+			}
 		},
 		{
 			"name": "tileText",
@@ -91,7 +556,25 @@
 				"text": "<h4>My Text</h4><p>What a cool text.</p>"
 			},
 			"type": "XTXT",
-			"id": "326fa95d-0704-4019-9b28-29f1456718b1"
+			"id": "326fa95d-0704-4019-9b28-29f1456718b1",
+			"AR": {
+				"text": "<h4>نصي</h4><p>ما أجمل هذا النص.</p>"
+			},
+			"FR": {
+				"text": "<h4>Mon texte</h4><p>Quel texte cool !</p>"
+			},
+			"DE": {
+				"text": "<h4>Mein Text</h4><p>Was für ein cooler Text.</p>"
+			},
+			"ES": {
+				"text": "<h4>Mi texto</h4><p>¡Qué texto tan genial!</p>"
+			},
+			"PT": {
+				"text": "<h4>Meu texto</h4><p>Que texto legal.</p>"
+			},
+			"NO": {
+				"text": "<h4>Min tekst</h4><p>For en kul tekst.</p>"
+			}
 		},
 		{
 			"name": "tileTitle",
@@ -100,7 +583,25 @@
 				"text": "My Tile Title"
 			},
 			"type": "XTXT",
-			"id": "bb012ca3-795b-4c80-c0f2-55bf58277c18"
+			"id": "bb012ca3-795b-4c80-c0f2-55bf58277c18",
+			"AR": {
+				"text": "عنوان البلاط الخاص بي"
+			},
+			"FR": {
+				"text": "Mon titre de tuile"
+			},
+			"DE": {
+				"text": "Mein Fliesentitel"
+			},
+			"ES": {
+				"text": "Mi título de mosaico"
+			},
+			"PT": {
+				"text": "Título do meu azulejo"
+			},
+			"NO": {
+				"text": "Min flistittel"
+			}
 		},
 		{
 			"name": "tilegroupMenuText",
@@ -109,7 +610,25 @@
 				"text": "MY MENU"
 			},
 			"type": "XTXT",
-			"id": "03032952-575d-4a5e-b065-08bb959113a7"
+			"id": "03032952-575d-4a5e-b065-08bb959113a7",
+			"AR": {
+				"text": "قائمتي"
+			},
+			"FR": {
+				"text": "MON MENU"
+			},
+			"DE": {
+				"text": "MEIN MENU"
+			},
+			"ES": {
+				"text": "MI MENÚ"
+			},
+			"PT": {
+				"text": "MEU CARDÁPIO"
+			},
+			"NO": {
+				"text": "MIN MENY"
+			}
 		},
 		{
 			"name": "tilegroupSubtitle",
@@ -118,7 +637,25 @@
 				"text": "My Tile Group Subtitle"
 			},
 			"type": "XTXT",
-			"id": "aae80512-9039-48e9-d37d-4ac9f82535a5"
+			"id": "aae80512-9039-48e9-d37d-4ac9f82535a5",
+			"AR": {
+				"text": "عنوان فرعي لمجموعة البلاط الخاصة بي"
+			},
+			"FR": {
+				"text": "Sous-titre de My Tile Group"
+			},
+			"DE": {
+				"text": "Meine Kachelgruppe Untertitel"
+			},
+			"ES": {
+				"text": "Subtítulo de mi grupo de mosaicos"
+			},
+			"PT": {
+				"text": "Legenda do meu grupo de azulejos"
+			},
+			"NO": {
+				"text": "Undertittel for min flisegruppe"
+			}
 		},
 		{
 			"name": "tilegroupTitle",
@@ -127,24 +664,67 @@
 				"text": "My Tile Group Title"
 			},
 			"type": "XTXT",
-			"id": "3c3d7af7-f5e9-4db9-f1ba-98ec20a801a2"
+			"id": "3c3d7af7-f5e9-4db9-f1ba-98ec20a801a2",
+			"AR": {
+				"text": "عنوان مجموعة البلاط الخاصة بي"
+			},
+			"FR": {
+				"text": "Titre de mon groupe de carreaux"
+			},
+			"DE": {
+				"text": "Mein Kachelgruppentitel"
+			},
+			"ES": {
+				"text": "Título de mi grupo de azulejos"
+			},
+			"PT": {
+				"text": "Título do meu grupo de azulejos"
+			},
+			"NO": {
+				"text": "Min flisegruppetittel"
+			}
 		}
 	],
 	"locales": [
 		{
 			"isoCode": "EN"
+		},
+		{
+			"isoCode": "AR"
+		},
+		{
+			"isoCode": "FR"
+		},
+		{
+			"isoCode": "DE"
+		},
+		{
+			"isoCode": "ES"
+		},
+		{
+			"isoCode": "PT"
+		},
+		{
+			"isoCode": "NO"
 		}
 	],
 	"name": "promi18n",
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.11.08.0053",
+	"ver": "25.11.23.1353",
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"active": true,
 	"deleted": false,
 	"baseModelId": null,
 	"enhancedBy": [],
-	"apps": [],
-	"baseModel": null
+	"baseModel": null,
+	"apps": [
+		{
+			"id": "a95699d8-100c-4231-86ad-6cdf1ae2cb6f",
+			"application": "prom_i18n",
+			"title": "",
+			"ver": "25.11.23.1304"
+		}
+	]
 }

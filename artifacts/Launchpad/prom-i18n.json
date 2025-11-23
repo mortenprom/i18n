@@ -12,11 +12,71 @@
 		"showAccessibilityFocusIndicator": true,
 		"enableTopMenu": true,
 		"noSubmenuHover": true,
-		"languages": [],
-		"locales": [],
+		"languages": [
+			"EN",
+			"FR",
+			"DE",
+			"AR",
+			"NO",
+			"PT",
+			"ES",
+			"DA"
+		],
+		"locales": [
+			{
+				"ISOCODE": "AR",
+				"LOCALE": "ar,ar-SA",
+				"NAME": "Arabic"
+			},
+			{
+				"ISOCODE": "DA",
+				"LOCALE": "da",
+				"NAME": "Danish"
+			},
+			{
+				"ISOCODE": "DE",
+				"LOCALE": "de,de-DE",
+				"NAME": "German"
+			},
+			{
+				"ISOCODE": "EN",
+				"LOCALE": "en,en-US",
+				"NAME": "English"
+			},
+			{
+				"ISOCODE": "ES",
+				"LOCALE": "es,es-ES",
+				"NAME": "Spanish"
+			},
+			{
+				"ISOCODE": "FR",
+				"LOCALE": "fr,fr-FR",
+				"NAME": "French"
+			},
+			{
+				"ISOCODE": "NO",
+				"LOCALE": "no,no-NO,nb,nb-NO",
+				"NAME": "Norwegian"
+			},
+			{
+				"ISOCODE": "PT",
+				"LOCALE": "pt,pt-BR",
+				"NAME": "Portuguese"
+			}
+		],
 		"enhancement": "",
 		"loginTitle": "{i18n.promi18n>launchpadLoginTitle}",
-		"loginSubTitle": "{i18n.promi18n>launchpadLoginSubtitle}"
+		"loginSubTitle": "{i18n.promi18n>launchpadLoginSubtitle}",
+		"autolock": 0,
+		"pincode": true,
+		"pincodeTries": 5,
+		"pincodeLength": 4,
+		"pincodeKeyIterations": 40000,
+		"fallbackLanguage": "DA",
+		"showLaunchpadTitle": true,
+		"showAppTitle": true,
+		"activeAppsTop": true,
+		"activeAppsSide": false
 	},
 	"enhancement": [],
 	"name": "prom-i18n",
@@ -53,8 +113,8 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.11.08.0127",
-	"pwa_enable": false,
+	"ver": "25.11.13.1403",
+	"pwa_enable": true,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
 	"pwa_customImageAndroidNew": null,
@@ -79,5 +139,13 @@
 			"ver": "25.11.07.2243"
 		}
 	],
-	"roles": []
+	"roles": [],
+	"i18n": [
+		{
+			"id": "894f663e-384f-45bf-a716-3267184b3178",
+			"name": "promi18n",
+			"application": null,
+			"ver": "25.11.23.1353"
+		}
+	]
 }

@@ -1,0 +1,30 @@
+{
+	"id": "4d5cd7be-5cad-4180-a78c-5d253cbe2a6e",
+	"createdAt": "2025-11-13T11:08:04.410Z",
+	"createdBy": "morten@neptune-software.com",
+	"attributes": [],
+	"locales": [
+		{
+			"isoCode": "EN"
+		}
+	],
+	"name": "prom_i18n",
+	"description": null,
+	"fallbackLocale": "EN",
+	"application": "prom_i18n",
+	"ver": "25.11.23.1304",
+	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
+	"active": true,
+	"deleted": false,
+	"baseModelId": null,
+	"enhancedBy": [],
+	"baseModel": null,
+	"apps": [
+		{
+			"id": "a95699d8-100c-4231-86ad-6cdf1ae2cb6f",
+			"application": "prom_i18n",
+			"title": "",
+			"ver": "25.11.23.1304"
+		}
+	]
+}

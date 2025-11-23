@@ -1,0 +1,267 @@
+{
+	"id": "a95699d8-100c-4231-86ad-6cdf1ae2cb6f",
+	"createdAt": "2025-11-13T11:05:31.296Z",
+	"createdBy": "morten@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "d9f9a7e9-df04-435a-d726-f54e355eef25",
+			"fieldName": "App",
+			"fieldParent": 0,
+			"fieldType": "sap.m.App",
+			"script": "",
+			"request": [],
+			"response": [],
+			"attributes": [],
+			"data": [
+				{
+					"fieldNo": "6725ce77-da9e-4026-8e25-f62869c4e91e",
+					"fieldName": "Page",
+					"fieldParent": "d9f9a7e9-df04-435a-d726-f54e355eef25",
+					"fieldType": "sap.m.Page",
+					"script": "",
+					"request": [],
+					"response": [],
+					"attributes": [
+						{
+							"attribute": "title",
+							"grouping": "Properties",
+							"value": "{i18n.promi18n>appTitle}",
+							"script": "",
+							"translation": []
+						}
+					],
+					"data": [
+						{
+							"fieldNo": "8b283d28-55f6-467b-b81b-a548f8938b7e",
+							"fieldName": "FormEmployee",
+							"fieldParent": "6725ce77-da9e-4026-8e25-f62869c4e91e",
+							"fieldType": "sap.ui.layout.form.SimpleForm",
+							"script": "",
+							"request": [],
+							"response": [],
+							"attributes": [
+								{
+									"attribute": "editable",
+									"grouping": "Properties",
+									"value": "true",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "layout",
+									"grouping": "Properties",
+									"value": "ResponsiveGridLayout",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "labelSpanL",
+									"grouping": "Properties",
+									"value": "6",
+									"script": "",
+									"translation": []
+								},
+								{
+									"attribute": "labelSpanM",
+									"grouping": "Properties",
+									"value": "6",
+									"script": "",
+									"translation": []
+								}
+							],
+							"data": [
+								{
+									"fieldNo": "f5ea4778-155f-4a07-f2e2-5ff3be5da802",
+									"fieldName": "lbFormEmployeeNumber",
+									"fieldParent": "8b283d28-55f6-467b-b81b-a548f8938b7e",
+									"fieldType": "sap.m.Label",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "{i18n.promi18n>appEmployeeNumber}",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "253cb702-ac2a-46a5-db3d-e7f0c4c22b71",
+									"fieldName": "inFormEmployeeNumber",
+									"fieldParent": "8b283d28-55f6-467b-b81b-a548f8938b7e",
+									"fieldType": "sap.m.Input",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "value",
+											"grouping": "Properties",
+											"value": "10000001",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "df5fdebb-dd75-4131-d244-353157f49b2a",
+									"fieldName": "lbFormEmployeeName",
+									"fieldParent": "8b283d28-55f6-467b-b81b-a548f8938b7e",
+									"fieldType": "sap.m.Label",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "{i18n.promi18n>appEmployeeName}",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "4bdf5d4a-4377-4880-cc19-c568ec72aa76",
+									"fieldName": "inFormEmployeeName",
+									"fieldParent": "8b283d28-55f6-467b-b81b-a548f8938b7e",
+									"fieldType": "sap.m.Input",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "value",
+											"grouping": "Properties",
+											"value": "Husky",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "b6378d6e-f9ed-459a-d74e-9f29024a6f24",
+									"fieldName": "lbFormEmployeeName1",
+									"fieldParent": "8b283d28-55f6-467b-b81b-a548f8938b7e",
+									"fieldType": "sap.m.Label",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "{i18n.promAppdoc>htmlMsg.titleTop}",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
+									"fieldNo": "39c66506-688f-4668-be77-0348d1c36a8a",
+									"fieldName": "inFormEmployeeName1",
+									"fieldParent": "8b283d28-55f6-467b-b81b-a548f8938b7e",
+									"fieldType": "sap.m.Input",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "value",
+											"grouping": "Properties",
+											"value": "Husky",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								}
+							]
+						}
+					]
+				}
+			]
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "25.11.23.1304",
+	"application": "prom_i18n",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_integration": false,
+	"ui5_chart": false,
+	"ui5_theme": "",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"compiledCss": null,
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"tabWidth": null,
+	"printWidth": null,
+	"generateVersionOnActivation": false,
+	"activationHistoryCount": 0,
+	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
+	"apis": [],
+	"i18n": [
+		{
+			"id": "ca168cd7-1f79-4d3f-bae4-59a0b34ff24d",
+			"name": "promAppdoc",
+			"application": null,
+			"ver": "25.11.23.1305"
+		},
+		{
+			"id": "894f663e-384f-45bf-a716-3267184b3178",
+			"name": "promi18n",
+			"application": null,
+			"ver": "25.11.23.1353"
+		},
+		{
+			"id": "4d5cd7be-5cad-4180-a78c-5d253cbe2a6e",
+			"name": "prom_i18n",
+			"application": "prom_i18n",
+			"ver": "25.11.23.1304"
+		}
+	]
+}
