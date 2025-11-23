@@ -4,7 +4,8 @@
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [
-		"78fd7ae8-8829-4914-a599-1b4f0f9904c1"
+		"78fd7ae8-8829-4914-a599-1b4f0f9904c1",
+		"a417a0c7-340b-454d-9126-e5183930b7a4"
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {},
@@ -29,7 +30,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": false,
-	"ver": "25.11.07.2243",
+	"ver": "25.11.23.1752",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -98,6 +99,12 @@
 	"darkTileLayouts": [],
 	"tiles": [
 		{
+			"id": "a417a0c7-340b-454d-9126-e5183930b7a4",
+			"name": "prom-i18n-formatter",
+			"title": "{i18n.promi18n>tileTileFormatter}",
+			"ver": "25.11.23.1757"
+		},
+		{
 			"id": "78fd7ae8-8829-4914-a599-1b4f0f9904c1",
 			"name": "prom-i18n",
 			"title": "{i18n.promi18n>tileTitle}",
@@ -112,7 +119,7 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.23.1353"
+			"ver": "25.11.23.1751"
 		}
 	]
 }

@@ -21,7 +21,15 @@
 					"script": "",
 					"request": [],
 					"response": [],
-					"attributes": [],
+					"attributes": [
+						{
+							"attribute": "showHeader",
+							"grouping": "Properties",
+							"value": "false",
+							"script": "",
+							"translation": []
+						}
+					],
 					"data": [
 						{
 							"fieldNo": "fff76352-9749-47f7-cb80-af13ad43ff43",
@@ -112,7 +120,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.11.23.1353",
+	"ver": "25.11.23.1749",
 	"application": "prom_i18n_formatter",
 	"title": "",
 	"description": "",
@@ -158,10 +166,16 @@
 	"apis": [],
 	"i18n": [
 		{
+			"id": "894f663e-384f-45bf-a716-3267184b3178",
+			"name": "promi18n",
+			"application": null,
+			"ver": "25.11.23.1751"
+		},
+		{
 			"id": "49fd77b0-8330-498b-9106-ce05a2e97940",
 			"name": "prom_i18n_formatter",
 			"application": "prom_i18n_formatter",
-			"ver": "25.11.23.1353"
+			"ver": "25.11.23.1749"
 		}
 	]
 }

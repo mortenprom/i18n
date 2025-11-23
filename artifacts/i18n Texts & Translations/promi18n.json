@@ -577,6 +577,33 @@
 			}
 		},
 		{
+			"name": "tileTileFormatter",
+			"text": "Formatted Text",
+			"EN": {
+				"text": "Formatted Text"
+			},
+			"type": "XTXT",
+			"id": "5f864330-3575-4264-b085-edbe36f14b0f",
+			"AR": {
+				"text": "نص منسق"
+			},
+			"FR": {
+				"text": "Texte formaté"
+			},
+			"DE": {
+				"text": "Formatierter Text"
+			},
+			"ES": {
+				"text": "Texto formateado"
+			},
+			"PT": {
+				"text": "Texto formatado"
+			},
+			"NO": {
+				"text": "Formatert tekst"
+			}
+		},
+		{
 			"name": "tileTitle",
 			"text": "My Tile Title",
 			"EN": {
@@ -712,7 +739,7 @@
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.11.23.1353",
+	"ver": "25.11.23.1751",
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"active": true,
 	"deleted": false,
@@ -725,6 +752,12 @@
 			"application": "prom_i18n",
 			"title": "",
 			"ver": "25.11.23.1304"
+		},
+		{
+			"id": "06969351-39b7-42e9-9c19-7e26a3ebf10a",
+			"application": "prom_i18n_formatter",
+			"title": "",
+			"ver": "25.11.23.1749"
 		}
 	]
 }

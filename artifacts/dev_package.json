@@ -8,7 +8,7 @@
 	},
 	"name": "prom-i18n",
 	"description": null,
-	"ver": "25.11.07.2100",
+	"ver": "25.11.23.1757",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -42,6 +42,11 @@
 	"api_authentication": [],
 	"api_group": [],
 	"tile": [
+		{
+			"id": "a417a0c7-340b-454d-9126-e5183930b7a4",
+			"description": null,
+			"name": "prom-i18n-formatter"
+		},
 		{
 			"id": "78fd7ae8-8829-4914-a599-1b4f0f9904c1",
 			"description": null,
