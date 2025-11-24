@@ -415,6 +415,35 @@
 			}
 		},
 		{
+			"parent": "nestedTop.nestedChild",
+			"parentId": "ce02f6c5-c6e2-4625-ec5a-cd79c2d332b7",
+			"name": "nestedTop.nestedChild.nestedHtml",
+			"text": "<h2>My Title</h2><p>My first text</p>",
+			"EN": {
+				"text": "<h2>My Title</h2><p>My first text</p>"
+			},
+			"type": "XTXT",
+			"id": "a9311ad7-9b9b-43d7-be91-3c29a51e35ee",
+			"AR": {
+				"text": "<h2>عنواني</h2><p>نصي الأول</p>"
+			},
+			"FR": {
+				"text": "<h2>Mon titre</h2><p>Mon premier texte</p>"
+			},
+			"DE": {
+				"text": "<h2>Mein Titel</h2><p>Mein erster Text</p>"
+			},
+			"ES": {
+				"text": "<h2>Mi título</h2><p>Mi primer texto</p>"
+			},
+			"PT": {
+				"text": "<h2>Meu título</h2><p>Meu primeiro texto</p>"
+			},
+			"NO": {
+				"text": "<h2>Min tittel</h2><p>Min første tekst</p>"
+			}
+		},
+		{
 			"name": "tileBtnIcon",
 			"text": "sap-icon://nep/api-client",
 			"EN": {
@@ -739,7 +768,7 @@
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.11.23.1751",
+	"ver": "25.11.23.2106",
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"active": true,
 	"deleted": false,
@@ -757,7 +786,7 @@
 			"id": "06969351-39b7-42e9-9c19-7e26a3ebf10a",
 			"application": "prom_i18n_formatter",
 			"title": "",
-			"ver": "25.11.23.1749"
+			"ver": "25.11.24.0854"
 		}
 	]
 }
