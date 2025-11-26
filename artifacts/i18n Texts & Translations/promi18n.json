@@ -4682,12 +4682,6 @@
 			"ver": "25.11.23.1304"
 		},
 		{
-			"id": "8aa52daf-21cc-40d4-8e4f-dea0a9f0e0b9",
-			"application": "prom_textarea_binding",
-			"title": "",
-			"ver": "25.11.25.0125"
-		},
-		{
 			"id": "06969351-39b7-42e9-9c19-7e26a3ebf10a",
 			"application": "prom_i18n_formatter",
 			"title": "",
