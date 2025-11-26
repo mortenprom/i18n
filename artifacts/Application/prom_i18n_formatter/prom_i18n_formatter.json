@@ -115,14 +115,14 @@
 										{
 											"attribute": "htmlText",
 											"grouping": "Properties",
-											"value": "{i18n.promi18n>htmlMsg.paragraph1},{i18n.promi18n>htmlMsg.titleTop},{i18n.promAppdoc>htmlMsg.paragraph1},{i18n.promAppdoc>htmlMsg.paragraph2},{i18n.promAppdoc>htmlMsg.titleTop}",
+											"value": "{i18n.promi18n>htmlMsg.paragraph1},{i18n.promi18n>htmlMsg.paragraph2},{i18n.promi18n>htmlMsg.titleMiddle},{i18n.promi18n>htmlMsg.titleTop}",
 											"script": "",
 											"translation": []
 										},
 										{
 											"attribute": "styleClassMargin",
 											"grouping": "Properties",
-											"value": "sapUiSmallMarginTop",
+											"value": "sapUiMediumMarginTop",
 											"script": "",
 											"translation": []
 										},
@@ -153,7 +153,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.11.25.1648",
+	"ver": "25.11.26.2041",
 	"application": "prom_i18n_formatter",
 	"title": "",
 	"description": "",
@@ -199,12 +199,6 @@
 	"apis": [],
 	"i18n": [
 		{
-			"id": "ca168cd7-1f79-4d3f-bae4-59a0b34ff24d",
-			"name": "promAppdoc",
-			"application": null,
-			"ver": "25.11.25.1926"
-		},
-		{
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
@@ -214,7 +208,7 @@
 			"id": "49fd77b0-8330-498b-9106-ce05a2e97940",
 			"name": "prom_i18n_formatter",
 			"application": "prom_i18n_formatter",
-			"ver": "25.11.25.1648"
+			"ver": "25.11.26.2041"
 		}
 	]
 }
