@@ -1,13 +1,9 @@
-if (!htmlMsg_paragraph1) htmlMsg_paragraph1 = "";
-if (!htmlMsg_paragraph2) htmlMsg_paragraph2 = "";
-if (!htmlMsg_titleMiddle) htmlMsg_titleMiddle = "";
-if (!htmlMsg_titleTop) htmlMsg_titleTop = "";
-let formattedText = "";
+if (typeof i18n_promi18n_htmlMsg_paragraph1 === "undefined" || i18n_promi18n_htmlMsg_paragraph1 === null || i18n_promi18n_htmlMsg_paragraph1 === "") { return; }
+if (typeof i18n_promi18n_htmlMsg_titleTop === "undefined" || i18n_promi18n_htmlMsg_titleTop === null || i18n_promi18n_htmlMsg_titleTop === "") { return; }
+if (typeof i18n_promAppdoc_htmlMsg_paragraph1 === "undefined" || i18n_promAppdoc_htmlMsg_paragraph1 === null || i18n_promAppdoc_htmlMsg_paragraph1 === "") { return; }
+if (typeof i18n_promAppdoc_htmlMsg_paragraph2 === "undefined" || i18n_promAppdoc_htmlMsg_paragraph2 === null || i18n_promAppdoc_htmlMsg_paragraph2 === "") { return; }
+if (typeof i18n_promAppdoc_htmlMsg_titleTop === "undefined" || i18n_promAppdoc_htmlMsg_titleTop === null || i18n_promAppdoc_htmlMsg_titleTop === "") { return; }
 
-if (htmlMsg_titleTop) formattedText += `<h3>${htmlMsg_titleTop}</h3>`;
-if (htmlMsg_paragraph1) formattedText += `<p>${htmlMsg_paragraph1}</p>`;
-if (htmlMsg_titleMiddle) formattedText += `<h4>${htmlMsg_titleMiddle}</h4>`;
-if (htmlMsg_paragraph1) formattedText += `<p>${htmlMsg_paragraph1}</p>`;
-if (htmlMsg_paragraph2) formattedText += `<p>${htmlMsg_paragraph2}</p>`;
+const formattedText = i18n_promi18n_htmlMsg_paragraph1 + " " + i18n_promi18n_htmlMsg_titleTop + " " + i18n_promAppdoc_htmlMsg_paragraph1 + " " + i18n_promAppdoc_htmlMsg_paragraph2 + " " + i18n_promAppdoc_htmlMsg_titleTop;
 
 return formattedText;

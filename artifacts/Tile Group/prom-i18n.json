@@ -4,12 +4,13 @@
 	"createdBy": "morten@neptune-software.com",
 	"translation": [],
 	"tilesOrder": [
+		"d4b660d6-eae3-4244-a4e4-7c503dafe04d",
 		"78fd7ae8-8829-4914-a599-1b4f0f9904c1",
 		"a417a0c7-340b-454d-9126-e5183930b7a4"
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {
-		"text": "{i18n.promi18n>nestedTop.nestedChild.nestedContent},{i18n.promi18n>nestedTop.nestedChild.nestedHtml}",
+		"text": "{i18n.promi18n>htmlMsg.titleTop},{i18n.promi18n>htmlMsg.paragraph1}",
 		"formmater": [
 			"==OBJECT STRING==",
 			"if (!i18n_promi18n_nestedTop_nestedChild_nestedContent) i18n_promi18n_nestedTop_nestedChild_nestedContent = \"\";\r",
@@ -25,16 +26,14 @@
 		],
 		"formatter": [
 			"==OBJECT STRING==",
-			"if (!i18n_promi18n_nestedTop_nestedChild_nestedContent) i18n_promi18n_nestedTop_nestedChild_nestedContent = \"\";\r",
-			"if (!i18n_promi18n_nestedTop_nestedChild_nestedHtml) i18n_promi18n_nestedTop_nestedChild_nestedHtml = \"\";\r",
+			"if (!i18n_promi18n_htmlMsg_titleTop) i18n_promi18n_htmlMsg_titleTop = \"\";\r",
+			"if (!i18n_promi18n_htmlMsg_paragraph1) i18n_promi18n_htmlMsg_paragraph1 = \"\";\r",
 			"return `\r",
-			"    <h4>\r",
-			"        ${i18n_promi18n_nestedTop_nestedChild_nestedHtml}\r",
-			"    </h4>\r",
-			"    <p>\r",
-			"        ${i18n_promi18n_nestedTop_nestedChild_nestedContent}\r",
-			"    </p>\r",
-			"`;"
+			"    <h2>${i18n_promi18n_htmlMsg_titleTop}</h2>\r",
+			"    <p>${i18n_promi18n_htmlMsg_paragraph1}</p>\r",
+			"`;\r",
+			"\r",
+			""
 		]
 	},
 	"navbarGroupOrder": [],
@@ -52,13 +51,13 @@
 	"image": null,
 	"icon": null,
 	"sort": null,
-	"inclFav": true,
+	"inclFav": false,
 	"styleClass": null,
 	"enableScroll": false,
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.11.24.0101",
+	"ver": "25.11.26.1451",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -127,6 +126,12 @@
 	"darkTileLayouts": [],
 	"tiles": [
 		{
+			"id": "d4b660d6-eae3-4244-a4e4-7c503dafe04d",
+			"name": "prom-i18n-puppy",
+			"title": "{i18n.promi18n>puppy.tileTitle}",
+			"ver": "25.11.26.1515"
+		},
+		{
 			"id": "a417a0c7-340b-454d-9126-e5183930b7a4",
 			"name": "prom-i18n-formatter",
 			"title": "{i18n.promi18n>tileTileFormatter}",
@@ -147,7 +152,7 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.23.2106"
+			"ver": "25.11.26.1459"
 		}
 	]
 }

@@ -74,9 +74,35 @@
 									"value": "Center",
 									"script": "",
 									"translation": []
+								},
+								{
+									"attribute": "direction",
+									"grouping": "Properties",
+									"value": "Column",
+									"script": "",
+									"translation": []
 								}
 							],
 							"data": [
+								{
+									"fieldNo": "7685fc0b-418a-4674-b6fb-13ae386d861d",
+									"fieldName": "bootstrapText",
+									"fieldParent": "fff76352-9749-47f7-cb80-af13ad43ff43",
+									"fieldType": "nep.bootstrap.Text",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "text",
+											"grouping": "Properties",
+											"value": "My Bootstrap Text",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": []
+								},
 								{
 									"fieldNo": "9c2a14cb-5f2a-48f6-980c-abc2583ebd0a",
 									"fieldName": "myFormattedText",
@@ -89,7 +115,14 @@
 										{
 											"attribute": "htmlText",
 											"grouping": "Properties",
-											"value": "{i18n.promi18n>htmlMsg.paragraph1},{i18n.promi18n>htmlMsg.paragraph2},{i18n.promi18n>htmlMsg.titleMiddle},{i18n.promi18n>htmlMsg.titleTop}",
+											"value": "{i18n.promi18n>htmlMsg.paragraph1},{i18n.promi18n>htmlMsg.titleTop},{i18n.promAppdoc>htmlMsg.paragraph1},{i18n.promAppdoc>htmlMsg.paragraph2},{i18n.promAppdoc>htmlMsg.titleTop}",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "styleClassMargin",
+											"grouping": "Properties",
+											"value": "sapUiSmallMarginTop",
 											"script": "",
 											"translation": []
 										},
@@ -120,7 +153,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.11.23.1749",
+	"ver": "25.11.25.1648",
 	"application": "prom_i18n_formatter",
 	"title": "",
 	"description": "",
@@ -141,7 +174,7 @@
 	"ui5_integration": false,
 	"ui5_chart": false,
 	"ui5_theme": "",
-	"ui5_version": "",
+	"ui5_version": "1.136",
 	"ui5_language": null,
 	"ui5_url": "",
 	"cus_theme": "",
@@ -154,7 +187,7 @@
 	"libHighchart": false,
 	"libHighmap": false,
 	"publicAccess": false,
-	"ui5_bootstrap": false,
+	"ui5_bootstrap": true,
 	"ui5_ionic": false,
 	"useV2AppHandler": false,
 	"compilerTarget": 3,
@@ -166,16 +199,22 @@
 	"apis": [],
 	"i18n": [
 		{
+			"id": "ca168cd7-1f79-4d3f-bae4-59a0b34ff24d",
+			"name": "promAppdoc",
+			"application": null,
+			"ver": "25.11.25.1926"
+		},
+		{
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.23.1751"
+			"ver": "25.11.26.1459"
 		},
 		{
 			"id": "49fd77b0-8330-498b-9106-ce05a2e97940",
 			"name": "prom_i18n_formatter",
 			"application": "prom_i18n_formatter",
-			"ver": "25.11.23.1749"
+			"ver": "25.11.25.1648"
 		}
 	]
 }

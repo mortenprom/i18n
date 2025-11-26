@@ -12,6 +12,7 @@
 	"title": "{i18n.promi18n>tileTitle}",
 	"subTitle": "{i18n.promi18n>tileSubtitle}",
 	"description": null,
+	"descriptionFormatter": null,
 	"categoryID": null,
 	"sort": null,
 	"urlApplication": null,
@@ -101,7 +102,7 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.23.1353"
+			"ver": "25.11.26.1459"
 		}
 	]
 }

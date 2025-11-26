@@ -28,6 +28,108 @@
 			},
 			"NO": {
 				"text": "Ansattnavn"
+			},
+			"AZ": {
+				"text": "İşçinin adı"
+			},
+			"BG": {
+				"text": "Име на служителя"
+			},
+			"ZH": {
+				"text": "员工姓名"
+			},
+			"ZF": {
+				"text": "員工姓名"
+			},
+			"HR": {
+				"text": "Ime zaposlenika"
+			},
+			"CS": {
+				"text": "Jméno zaměstnance"
+			},
+			"DA": {
+				"text": "Medarbejdernavn"
+			},
+			"NL": {
+				"text": "Naam van de werknemer"
+			},
+			"ET": {
+				"text": "Töötaja nimi"
+			},
+			"FI": {
+				"text": "Työntekijän nimi"
+			},
+			"EL": {
+				"text": "Όνομα υπαλλήλου"
+			},
+			"HE": {
+				"text": "שם העובד"
+			},
+			"HU": {
+				"text": "Alkalmazott neve"
+			},
+			"IS": {
+				"text": "Nafn starfsmanns"
+			},
+			"ID": {
+				"text": "Nama Karyawan"
+			},
+			"IT": {
+				"text": "Nome del dipendente"
+			},
+			"JA": {
+				"text": "従業員名"
+			},
+			"KO": {
+				"text": "직원 이름"
+			},
+			"LV": {
+				"text": "Darbinieka vārds"
+			},
+			"LT": {
+				"text": "Darbuotojo vardas"
+			},
+			"MS": {
+				"text": "Nama Pekerja"
+			},
+			"PL": {
+				"text": "Imię i nazwisko pracownika"
+			},
+			"RO": {
+				"text": "Numele angajatului"
+			},
+			"RU": {
+				"text": "Имя сотрудника"
+			},
+			"SE": {
+				"text": "Bargi namma"
+			},
+			"SR": {
+				"text": "Име запосленог"
+			},
+			"SH": {
+				"text": "Име запосленог"
+			},
+			"SK": {
+				"text": "Meno zamestnanca"
+			},
+			"SL": {
+				"text": "Ime zaposlenega"
+			},
+			"SV": {
+				"text": "Anställds namn"
+			},
+			"TH": {
+				"text": "ชื่อพนักงาน"
+			},
+			"TR": {
+				"text": "Çalışan Adı"
+			},
+			"UK": {
+				"text": "Ім'я співробітника"
+			},
+			"VI": {
+				"text": "Tên nhân viên"
 			}
 		},
 		{
@@ -55,6 +157,108 @@
 			},
 			"NO": {
 				"text": "Ansattnummer"
+			},
+			"AZ": {
+				"text": "İşçi nömrəsi"
+			},
+			"BG": {
+				"text": "Номер на служителя"
+			},
+			"ZH": {
+				"text": "员工编号"
+			},
+			"ZF": {
+				"text": "員工編號"
+			},
+			"HR": {
+				"text": "Broj zaposlenika"
+			},
+			"CS": {
+				"text": "Číslo zaměstnance"
+			},
+			"DA": {
+				"text": "Medarbejdernummer"
+			},
+			"NL": {
+				"text": "Werknemersnummer"
+			},
+			"ET": {
+				"text": "Töötaja number"
+			},
+			"FI": {
+				"text": "Työntekijänumero"
+			},
+			"EL": {
+				"text": "Αριθμός Υπαλλήλου"
+			},
+			"HE": {
+				"text": "מספר עובד"
+			},
+			"HU": {
+				"text": "Alkalmazotti szám"
+			},
+			"IS": {
+				"text": "Starfsmannanúmer"
+			},
+			"ID": {
+				"text": "Nomor Karyawan"
+			},
+			"IT": {
+				"text": "Numero di dipendenti"
+			},
+			"JA": {
+				"text": "従業員番号"
+			},
+			"KO": {
+				"text": "직원 번호"
+			},
+			"LV": {
+				"text": "Darbinieka numurs"
+			},
+			"LT": {
+				"text": "Darbuotojo numeris"
+			},
+			"MS": {
+				"text": "Nombor Pekerja"
+			},
+			"PL": {
+				"text": "Numer pracownika"
+			},
+			"RO": {
+				"text": "Număr de angajat"
+			},
+			"RU": {
+				"text": "Номер сотрудника"
+			},
+			"SE": {
+				"text": "Bargi nummir"
+			},
+			"SR": {
+				"text": "Број запосленог"
+			},
+			"SH": {
+				"text": "Број запосленог"
+			},
+			"SK": {
+				"text": "Číslo zamestnanca"
+			},
+			"SL": {
+				"text": "Številka zaposlenega"
+			},
+			"SV": {
+				"text": "Anställdsnummer"
+			},
+			"TH": {
+				"text": "หมายเลขพนักงาน"
+			},
+			"TR": {
+				"text": "Çalışan Sayısı"
+			},
+			"UK": {
+				"text": "Номер співробітника"
+			},
+			"VI": {
+				"text": "Số nhân viên"
 			}
 		},
 		{
@@ -82,6 +286,108 @@
 			},
 			"NO": {
 				"text": "Oversikt over ansatte"
+			},
+			"AZ": {
+				"text": "İşçinin Baxışı"
+			},
+			"BG": {
+				"text": "Преглед на служителите"
+			},
+			"ZH": {
+				"text": "员工概况"
+			},
+			"ZF": {
+				"text": "員工概況"
+			},
+			"HR": {
+				"text": "Pregled zaposlenika"
+			},
+			"CS": {
+				"text": "Přehled zaměstnanců"
+			},
+			"DA": {
+				"text": "Medarbejderoversigt"
+			},
+			"NL": {
+				"text": "Medewerkersoverzicht"
+			},
+			"ET": {
+				"text": "Töötaja ülevaade"
+			},
+			"FI": {
+				"text": "Työntekijän yleiskatsaus"
+			},
+			"EL": {
+				"text": "Επισκόπηση εργαζομένων"
+			},
+			"HE": {
+				"text": "סקירת עובדים"
+			},
+			"HU": {
+				"text": "Alkalmazotti áttekintés"
+			},
+			"IS": {
+				"text": "Yfirlit starfsmanna"
+			},
+			"ID": {
+				"text": "Ikhtisar Karyawan"
+			},
+			"IT": {
+				"text": "Panoramica dei dipendenti"
+			},
+			"JA": {
+				"text": "従業員概要"
+			},
+			"KO": {
+				"text": "직원 개요"
+			},
+			"LV": {
+				"text": "Darbinieku pārskats"
+			},
+			"LT": {
+				"text": "Darbuotojų apžvalga"
+			},
+			"MS": {
+				"text": "Gambaran Keseluruhan Pekerja"
+			},
+			"PL": {
+				"text": "Przegląd pracowników"
+			},
+			"RO": {
+				"text": "Prezentare generală a angajaților"
+			},
+			"RU": {
+				"text": "Обзор сотрудников"
+			},
+			"SE": {
+				"text": "Bargiid oppalašgovva"
+			},
+			"SR": {
+				"text": "Преглед запослених"
+			},
+			"SH": {
+				"text": "Преглед запослених"
+			},
+			"SK": {
+				"text": "Prehľad zamestnancov"
+			},
+			"SL": {
+				"text": "Pregled zaposlenih"
+			},
+			"SV": {
+				"text": "Översikt över anställda"
+			},
+			"TH": {
+				"text": "ภาพรวมพนักงาน"
+			},
+			"TR": {
+				"text": "Çalışan Genel Bakışı"
+			},
+			"UK": {
+				"text": "Огляд співробітників"
+			},
+			"VI": {
+				"text": "Tổng quan về nhân viên"
 			}
 		},
 		{
@@ -90,7 +396,7 @@
 			"EN": {
 				"text": "HTML Messages"
 			},
-			"type": "XTXT",
+			"type": "NOTR",
 			"id": "877dd145-979d-46f5-e6e7-45afab13a432",
 			"AR": {
 				"text": "رسائل HTML"
@@ -109,6 +415,108 @@
 			},
 			"NO": {
 				"text": "HTML-meldinger"
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
 			}
 		},
 		{
@@ -138,6 +546,108 @@
 			},
 			"NO": {
 				"text": "Mitt aller første avsnitt. Det er et bra et."
+			},
+			"AZ": {
+				"text": "Mənim ilk abzas. Bu yaxşı biridir."
+			},
+			"BG": {
+				"text": "Първият ми параграф. Добър е."
+			},
+			"ZH": {
+				"text": "我的第一段话。写得不错。"
+			},
+			"ZF": {
+				"text": "我的第一段話。寫得不錯。"
+			},
+			"HR": {
+				"text": "Moj prvi odlomak. Dobar je."
+			},
+			"CS": {
+				"text": "Můj úplně první odstavec. Je dobrý."
+			},
+			"DA": {
+				"text": "Mit allerførste afsnit. Det er et godt et."
+			},
+			"NL": {
+				"text": "Mijn allereerste alinea. Een goede."
+			},
+			"ET": {
+				"text": "Minu esimene lõik. See on hea."
+			},
+			"FI": {
+				"text": "Ensimmäinen kappaleeni. Se on hyvä."
+			},
+			"EL": {
+				"text": "Η πρώτη μου παράγραφος. Είναι καλή."
+			},
+			"HE": {
+				"text": "הפסקה הראשונה שלי. היא טובה."
+			},
+			"HU": {
+				"text": "Az első bekezdésem. Jó bekezdés."
+			},
+			"IS": {
+				"text": "Fyrsta málsgreinin mín. Hún er góð."
+			},
+			"ID": {
+				"text": "Paragraf pertama saya. Bagus sekali."
+			},
+			"IT": {
+				"text": "Il mio primo paragrafo. È bello."
+			},
+			"JA": {
+				"text": "私の最初の段落です。いい段落です。"
+			},
+			"KO": {
+				"text": "제 첫 문단입니다. 좋은 글이네요."
+			},
+			"LV": {
+				"text": "Mana pati pirmā rindkopa. Tā ir laba."
+			},
+			"LT": {
+				"text": "Pati pirma pastraipa. Ji gera."
+			},
+			"MS": {
+				"text": "Perenggan pertama saya. Ia adalah satu yang baik."
+			},
+			"PL": {
+				"text": "Mój pierwszy akapit. Jest dobry."
+			},
+			"RO": {
+				"text": "Primul meu paragraf. E unul bun."
+			},
+			"RU": {
+				"text": "Мой самый первый абзац. Он хороший."
+			},
+			"SE": {
+				"text": "Mu vuosttaš paragráfa. Dat lea buorre."
+			},
+			"SR": {
+				"text": "Мој први пасус. Добар је."
+			},
+			"SH": {
+				"text": "Мој први пасус. Добар је."
+			},
+			"SK": {
+				"text": "Môj úplne prvý odsek. Je dobrý."
+			},
+			"SL": {
+				"text": "Moj prvi odstavek. Je dober."
+			},
+			"SV": {
+				"text": "Mitt allra första stycke. Det är ett bra stycke."
+			},
+			"TH": {
+				"text": "ย่อหน้าแรกของฉันเลย ดีมากเลย"
+			},
+			"TR": {
+				"text": "İlk paragrafım. Çok güzel."
+			},
+			"UK": {
+				"text": "Мій перший абзац. Він непоганий."
+			},
+			"VI": {
+				"text": "Đoạn văn đầu tiên của tôi. Nó rất hay."
 			}
 		},
 		{
@@ -167,6 +677,108 @@
 			},
 			"NO": {
 				"text": "Mitt andre avsnitt. Du kan være dommeren, er det enda bedre?"
+			},
+			"AZ": {
+				"text": "Mənim ikinci abzas. Siz hakim ola bilərsiniz, daha yaxşıdır?"
+			},
+			"BG": {
+				"text": "Вторият ми параграф. Ти можеш да бъдеш съдията, дали е още по-добре?"
+			},
+			"ZH": {
+				"text": "我的第二段。你可以评判一下，是不是更好一些？"
+			},
+			"ZF": {
+				"text": "我的第二段。你可以評斷一下，是不是更好？"
+			},
+			"HR": {
+				"text": "Moj drugi odlomak. Možeš biti sudac, je li još bolje?"
+			},
+			"CS": {
+				"text": "Můj druhý odstavec. Můžete být soudcem, je to ještě lepší?"
+			},
+			"DA": {
+				"text": "Mit andet afsnit. Du kan være dommeren, er det endnu bedre?"
+			},
+			"NL": {
+				"text": "Mijn tweede alinea. Oordeel zelf, is het nog beter?"
+			},
+			"ET": {
+				"text": "Minu teine lõik. Võid ise otsustada, kas see on veel parem?"
+			},
+			"FI": {
+				"text": "Toinen kappaleeni. Voit olla tuomari, onko se vielä parempi?"
+			},
+			"EL": {
+				"text": "Η δεύτερη παράγραφος μου. Εσύ μπορείς να κρίνεις, μήπως είναι ακόμα καλύτερο;"
+			},
+			"HE": {
+				"text": "הפסקה השנייה שלי. אתה יכול להיות השופט, האם זה אפילו יותר טוב?"
+			},
+			"HU": {
+				"text": "Második bekezdés. Te dönthetsz, vagy még jobb?"
+			},
+			"IS": {
+				"text": "Önnur málsgrein mín. Þú getur verið dómarinn, er það enn betra?"
+			},
+			"ID": {
+				"text": "Paragraf kedua saya. Anda bisa menjadi jurinya, apakah lebih baik?"
+			},
+			"IT": {
+				"text": "Il mio secondo paragrafo. Puoi giudicare tu, è ancora meglio?"
+			},
+			"JA": {
+				"text": "2つ目の段落です。皆さんも判断してみてください。もっと良いと思いますか？"
+			},
+			"KO": {
+				"text": "두 번째 문단입니다. 판단은 여러분이 하셔도 됩니다. 더 나은가요?"
+			},
+			"LV": {
+				"text": "Mana otrā rindkopa. Jūs varat būt tiesnesis, vai tas ir vēl labāk?"
+			},
+			"LT": {
+				"text": "Mano antra pastraipa. Galite būti teisėjas, ar tai dar geriau?"
+			},
+			"MS": {
+				"text": "Perenggan kedua saya. Anda boleh menjadi hakim, adakah ia lebih baik?"
+			},
+			"PL": {
+				"text": "Mój drugi akapit. Możesz sam ocenić, czy to jeszcze lepiej?"
+			},
+			"RO": {
+				"text": "Al doilea meu paragraf. Poți fi tu cel care judecă, e chiar mai bine?"
+			},
+			"RU": {
+				"text": "Мой второй абзац. Судите сами, стал ли он ещё лучше?"
+			},
+			"SE": {
+				"text": "Mu nubbi paragráfa. Don sáhtát leat duopmárin, lea go dat velá buoret?"
+			},
+			"SR": {
+				"text": "Мој други пасус. Можете бити судија, да ли је још боље?"
+			},
+			"SH": {
+				"text": "Мој други пасус. Можете бити судија, да ли је још боље?"
+			},
+			"SK": {
+				"text": "Môj druhý odsek. Môžete byť súdení vy, je to ešte lepšie?"
+			},
+			"SL": {
+				"text": "Moj drugi odstavek. Lahko presodiš, ali je to še boljše?"
+			},
+			"SV": {
+				"text": "Mitt andra stycke. Du kan vara domaren, är det ännu bättre?"
+			},
+			"TH": {
+				"text": "ย่อหน้าที่สองของฉัน คุณเป็นคนตัดสินได้นะ จะดีกว่าไหม?"
+			},
+			"TR": {
+				"text": "İkinci paragrafım. Kararı siz verin, daha mı iyi?"
+			},
+			"UK": {
+				"text": "Мій другий абзац. Ви можете бути суддею, чи це ще краще?"
+			},
+			"VI": {
+				"text": "Đoạn thứ hai của tôi. Bạn có thể là người phán xét, còn gì tuyệt hơn nữa?"
 			}
 		},
 		{
@@ -196,6 +808,108 @@
 			},
 			"NO": {
 				"text": "Min andre tittel"
+			},
+			"AZ": {
+				"text": "İkinci Başlığım"
+			},
+			"BG": {
+				"text": "Моята втора титла"
+			},
+			"ZH": {
+				"text": "我的第二部作品"
+			},
+			"ZF": {
+				"text": "我的第二部作品"
+			},
+			"HR": {
+				"text": "Moja druga titula"
+			},
+			"CS": {
+				"text": "Můj druhý titul"
+			},
+			"DA": {
+				"text": "Min anden titel"
+			},
+			"NL": {
+				"text": "Mijn tweede titel"
+			},
+			"ET": {
+				"text": "Minu teine pealkiri"
+			},
+			"FI": {
+				"text": "Toinen otsikkoni"
+			},
+			"EL": {
+				"text": "Ο δεύτερος τίτλος μου"
+			},
+			"HE": {
+				"text": "התואר השני שלי"
+			},
+			"HU": {
+				"text": "A második címem"
+			},
+			"IS": {
+				"text": "Annað titilinn minn"
+			},
+			"ID": {
+				"text": "Gelar Kedua Saya"
+			},
+			"IT": {
+				"text": "Il mio secondo titolo"
+			},
+			"JA": {
+				"text": "私の2番目のタイトル"
+			},
+			"KO": {
+				"text": "내 두 번째 타이틀"
+			},
+			"LV": {
+				"text": "Mans otrais nosaukums"
+			},
+			"LT": {
+				"text": "Mano antrasis pavadinimas"
+			},
+			"MS": {
+				"text": "Tajuk Kedua Saya"
+			},
+			"PL": {
+				"text": "Mój drugi tytuł"
+			},
+			"RO": {
+				"text": "Al doilea meu titlu"
+			},
+			"RU": {
+				"text": "Мой второй титул"
+			},
+			"SE": {
+				"text": "Mu nubbi namma"
+			},
+			"SR": {
+				"text": "Моја друга титула"
+			},
+			"SH": {
+				"text": "Моја друга титула"
+			},
+			"SK": {
+				"text": "Môj druhý titul"
+			},
+			"SL": {
+				"text": "Moj drugi naslov"
+			},
+			"SV": {
+				"text": "Min andra titel"
+			},
+			"TH": {
+				"text": "ชื่อเรื่องที่สองของฉัน"
+			},
+			"TR": {
+				"text": "İkinci Başlığım"
+			},
+			"UK": {
+				"text": "Мій другий титул"
+			},
+			"VI": {
+				"text": "Tiêu đề thứ hai của tôi"
 			}
 		},
 		{
@@ -225,6 +939,108 @@
 			},
 			"NO": {
 				"text": "Topptittel"
+			},
+			"AZ": {
+				"text": "Üst Başlıq"
+			},
+			"BG": {
+				"text": "Най-важното заглавие"
+			},
+			"ZH": {
+				"text": "标题"
+			},
+			"ZF": {
+				"text": "標題"
+			},
+			"HR": {
+				"text": "Najvažniji naslov"
+			},
+			"CS": {
+				"text": "Nejlepší titul"
+			},
+			"DA": {
+				"text": "Toptitel"
+			},
+			"NL": {
+				"text": "Bovenste titel"
+			},
+			"ET": {
+				"text": "Peamine pealkiri"
+			},
+			"FI": {
+				"text": "Pääotsikko"
+			},
+			"EL": {
+				"text": "Κορυφαίος τίτλος"
+			},
+			"HE": {
+				"text": "כותרת עליונה"
+			},
+			"HU": {
+				"text": "Legjobb cím"
+			},
+			"IS": {
+				"text": "Efsti titill"
+			},
+			"ID": {
+				"text": "Judul Atas"
+			},
+			"IT": {
+				"text": "Titolo principale"
+			},
+			"JA": {
+				"text": "トップタイトル"
+			},
+			"KO": {
+				"text": "상단 제목"
+			},
+			"LV": {
+				"text": "Augstākā līmeņa nosaukums"
+			},
+			"LT": {
+				"text": "Populiariausias pavadinimas"
+			},
+			"MS": {
+				"text": "Tajuk Teratas"
+			},
+			"PL": {
+				"text": "Najlepszy tytuł"
+			},
+			"RO": {
+				"text": "Titlu de top"
+			},
+			"RU": {
+				"text": "Верхний заголовок"
+			},
+			"SE": {
+				"text": "Bajimus namma"
+			},
+			"SR": {
+				"text": "Најважнији наслов"
+			},
+			"SH": {
+				"text": "Најважнији наслов"
+			},
+			"SK": {
+				"text": "Najvyšší titul"
+			},
+			"SL": {
+				"text": "Zgornji naslov"
+			},
+			"SV": {
+				"text": "Översta titel"
+			},
+			"TH": {
+				"text": "ชื่อเรื่องด้านบน"
+			},
+			"TR": {
+				"text": "Üst Başlık"
+			},
+			"UK": {
+				"text": "Найпопулярніший заголовок"
+			},
+			"VI": {
+				"text": "Tiêu đề hàng đầu"
 			}
 		},
 		{
@@ -252,6 +1068,108 @@
 			},
 			"NO": {
 				"text": "Beskrivelse av Launchpad-en min"
+			},
+			"AZ": {
+				"text": "Mənim Launchpad Təsvirim"
+			},
+			"BG": {
+				"text": "Описание на моята стартова площадка"
+			},
+			"ZH": {
+				"text": "我的 Launchpad 描述"
+			},
+			"ZF": {
+				"text": "我的 Launchpad 描述"
+			},
+			"HR": {
+				"text": "Opis mojeg Launchpad-a"
+			},
+			"CS": {
+				"text": "Popis mého launchpadu"
+			},
+			"DA": {
+				"text": "Min Launchpad-beskrivelse"
+			},
+			"NL": {
+				"text": "Mijn Launchpad-beschrijving"
+			},
+			"ET": {
+				"text": "Minu Launchpadi kirjeldus"
+			},
+			"FI": {
+				"text": "Launchpad-kuvaukseni"
+			},
+			"EL": {
+				"text": "Περιγραφή του Launchpad μου"
+			},
+			"HE": {
+				"text": "תיאור ה-Launchpad שלי"
+			},
+			"HU": {
+				"text": "Saját Launchpad leírás"
+			},
+			"IS": {
+				"text": "Lýsing á Launchpad-inu mínu"
+			},
+			"ID": {
+				"text": "Deskripsi Landasan Peluncuran Saya"
+			},
+			"IT": {
+				"text": "Descrizione del mio Launchpad"
+			},
+			"JA": {
+				"text": "私のLaunchpadの説明"
+			},
+			"KO": {
+				"text": "내 Launchpad 설명"
+			},
+			"LV": {
+				"text": "Mana palaišanas platformas apraksts"
+			},
+			"LT": {
+				"text": "Mano paleidimo skydelio aprašymas"
+			},
+			"MS": {
+				"text": "Perihalan Launchpad Saya"
+			},
+			"PL": {
+				"text": "Mój opis Launchpad"
+			},
+			"RO": {
+				"text": "Descrierea Launchpad-ului meu"
+			},
+			"RU": {
+				"text": "Описание моего Launchpad"
+			},
+			"SE": {
+				"text": "Mu álggahanbáikki čilgehus"
+			},
+			"SR": {
+				"text": "Опис мог лансирног панела"
+			},
+			"SH": {
+				"text": "Опис мог лансирног панела"
+			},
+			"SK": {
+				"text": "Popis môjho Launchpadu"
+			},
+			"SL": {
+				"text": "Opis mojega lansirnega programa"
+			},
+			"SV": {
+				"text": "Min Launchpad-beskrivning"
+			},
+			"TH": {
+				"text": "คำอธิบาย Launchpad ของฉัน"
+			},
+			"TR": {
+				"text": "Launchpad Açıklamam"
+			},
+			"UK": {
+				"text": "Опис мого Launchpad"
+			},
+			"VI": {
+				"text": "Mô tả Launchpad của tôi"
 			}
 		},
 		{
@@ -279,6 +1197,108 @@
 			},
 			"NO": {
 				"text": "Min påloggingstekst"
+			},
+			"AZ": {
+				"text": "Giriş Altyazım"
+			},
+			"BG": {
+				"text": "Моят вход Субтитри"
+			},
+			"ZH": {
+				"text": "我的登录字幕"
+			},
+			"ZF": {
+				"text": "我的登入字幕"
+			},
+			"HR": {
+				"text": "Moja prijava podnaslov"
+			},
+			"CS": {
+				"text": "Moje přihlašovací podtitul"
+			},
+			"DA": {
+				"text": "Min login-undertitel"
+			},
+			"NL": {
+				"text": "Mijn login-ondertitel"
+			},
+			"ET": {
+				"text": "Minu sisselogimise alapealkiri"
+			},
+			"FI": {
+				"text": "Kirjautumiseni alaotsikko"
+			},
+			"EL": {
+				"text": "Υπότιτλος σύνδεσης"
+			},
+			"HE": {
+				"text": "כותרת משנה של הכניסה שלי"
+			},
+			"HU": {
+				"text": "Bejelentkezésem alcíme"
+			},
+			"IS": {
+				"text": "Innskráningartexti minn"
+			},
+			"ID": {
+				"text": "Subtitel Login Saya"
+			},
+			"IT": {
+				"text": "Il mio sottotitolo di accesso"
+			},
+			"JA": {
+				"text": "ログインサブタイトル"
+			},
+			"KO": {
+				"text": "내 로그인 자막"
+			},
+			"LV": {
+				"text": "Mana pieteikšanās apakšvirsraksts"
+			},
+			"LT": {
+				"text": "Mano prisijungimo paantraštė"
+			},
+			"MS": {
+				"text": "Sari Kata Log Masuk Saya"
+			},
+			"PL": {
+				"text": "Mój podpis logowania"
+			},
+			"RO": {
+				"text": "Subtitlul meu de conectare"
+			},
+			"RU": {
+				"text": "Подзаголовок моего входа"
+			},
+			"SE": {
+				"text": "Mu sisaloggen vuolláičállin"
+			},
+			"SR": {
+				"text": "Мој титл за пријаву"
+			},
+			"SH": {
+				"text": "Мој титл за пријаву"
+			},
+			"SK": {
+				"text": "Moje prihlásenie"
+			},
+			"SL": {
+				"text": "Podnaslov za mojo prijavo"
+			},
+			"SV": {
+				"text": "Min inloggningsunderrubrik"
+			},
+			"TH": {
+				"text": "คำบรรยายการเข้าสู่ระบบของฉัน"
+			},
+			"TR": {
+				"text": "Girişim Alt Yazısı"
+			},
+			"UK": {
+				"text": "Підзаголовок мого входу"
+			},
+			"VI": {
+				"text": "Phụ đề đăng nhập của tôi"
 			}
 		},
 		{
@@ -306,6 +1326,108 @@
 			},
 			"NO": {
 				"text": "Min påloggingstittel"
+			},
+			"AZ": {
+				"text": "Giriş Başlığım"
+			},
+			"BG": {
+				"text": "Моето заглавие за вход"
+			},
+			"ZH": {
+				"text": "我的登录标题"
+			},
+			"ZF": {
+				"text": "我的登入標題"
+			},
+			"HR": {
+				"text": "Moj naslov za prijavu"
+			},
+			"CS": {
+				"text": "Moje přihlašovací jméno"
+			},
+			"DA": {
+				"text": "Min logintitel"
+			},
+			"NL": {
+				"text": "Mijn inlogtitel"
+			},
+			"ET": {
+				"text": "Minu sisselogimise pealkiri"
+			},
+			"FI": {
+				"text": "Kirjautumisnimeni"
+			},
+			"EL": {
+				"text": "Ο Τίτλος Σύνδεσης μου"
+			},
+			"HE": {
+				"text": "כותרת ההתחברות שלי"
+			},
+			"HU": {
+				"text": "Bejelentkezési címem"
+			},
+			"IS": {
+				"text": "Innskráningarheiti mitt"
+			},
+			"ID": {
+				"text": "Judul Login Saya"
+			},
+			"IT": {
+				"text": "Il mio titolo di accesso"
+			},
+			"JA": {
+				"text": "ログインタイトル"
+			},
+			"KO": {
+				"text": "내 로그인 제목"
+			},
+			"LV": {
+				"text": "Mans pieteikšanās nosaukums"
+			},
+			"LT": {
+				"text": "Mano prisijungimo pavadinimas"
+			},
+			"MS": {
+				"text": "Tajuk Log Masuk Saya"
+			},
+			"PL": {
+				"text": "Mój tytuł logowania"
+			},
+			"RO": {
+				"text": "Titlul meu de conectare"
+			},
+			"RU": {
+				"text": "Мой логин"
+			},
+			"SE": {
+				"text": "Mu sisaloggennamma"
+			},
+			"SR": {
+				"text": "Наслов за моју пријаву"
+			},
+			"SH": {
+				"text": "Наслов за моју пријаву"
+			},
+			"SK": {
+				"text": "Moje prihlasovacie meno"
+			},
+			"SL": {
+				"text": "Moj prijavni naslov"
+			},
+			"SV": {
+				"text": "Min inloggningstitel"
+			},
+			"TH": {
+				"text": "ชื่อการเข้าสู่ระบบของฉัน"
+			},
+			"TR": {
+				"text": "Giriş Başlığım"
+			},
+			"UK": {
+				"text": "Мій логін"
+			},
+			"VI": {
+				"text": "Tiêu đề đăng nhập của tôi"
 			}
 		},
 		{
@@ -326,19 +1448,121 @@
 				"text": "Mein Launchpad"
 			},
 			"ES": {
-				"text": "Mi plataforma de lanzamiento"
+				"text": "Mi Launchpad"
 			},
 			"PT": {
 				"text": "Meu Launchpad"
 			},
 			"NO": {
 				"text": "Min Launchpad"
+			},
+			"AZ": {
+				"text": "Mənim Launchpad"
+			},
+			"BG": {
+				"text": "Моят стартов панел"
+			},
+			"ZH": {
+				"text": "我的启动台"
+			},
+			"ZF": {
+				"text": "我的啟動台"
+			},
+			"HR": {
+				"text": "Moj lansirni panel"
+			},
+			"CS": {
+				"text": "Můj Launchpad"
+			},
+			"DA": {
+				"text": "Min Launchpad"
+			},
+			"NL": {
+				"text": "Mijn lanceerplatform"
+			},
+			"ET": {
+				"text": "Minu käivitusplaat"
+			},
+			"FI": {
+				"text": "Oma käynnistyspadini"
+			},
+			"EL": {
+				"text": "Το Launchpad μου"
+			},
+			"HE": {
+				"text": "שלי Launchpad"
+			},
+			"HU": {
+				"text": "Az én indítópultom"
+			},
+			"IS": {
+				"text": "Launchpad minn"
+			},
+			"ID": {
+				"text": "Landasan Peluncuran Saya"
+			},
+			"IT": {
+				"text": "La mia rampa di lancio"
+			},
+			"JA": {
+				"text": "私のランチパッド"
+			},
+			"KO": {
+				"text": "내 런치패드"
+			},
+			"LV": {
+				"text": "Mans palaišanas panelis"
+			},
+			"LT": {
+				"text": "Mano paleidimo aikštelė"
+			},
+			"MS": {
+				"text": "Launchpad Saya"
+			},
+			"PL": {
+				"text": "Moja platforma startowa"
+			},
+			"RO": {
+				"text": "Platforma mea de lansare"
+			},
+			"RU": {
+				"text": "Моя стартовая площадка"
+			},
+			"SE": {
+				"text": "Mu álggahanbáiki"
+			},
+			"SR": {
+				"text": "Мој лансирни панел"
+			},
+			"SH": {
+				"text": "Мој лансирни панел"
+			},
+			"SK": {
+				"text": "Môj Launchpad"
+			},
+			"SL": {
+				"text": "Moj lansirni panel"
+			},
+			"SV": {
+				"text": "Min Launchpad"
+			},
+			"TH": {
+				"text": "แท่นเปิดตัวของฉัน"
+			},
+			"TR": {
+				"text": "Benim Fırlatma Rampam"
+			},
+			"UK": {
+				"text": "Мій стартовий майданчик"
+			},
+			"VI": {
+				"text": "Bệ phóng của tôi"
 			}
 		},
 		{
 			"name": "nestedTop",
 			"EN": {},
-			"type": "XTXT",
+			"type": "NOTR",
 			"id": "5648ca00-4384-41ba-82b0-8a87ecf66bd9",
 			"AR": {
 				"text": ""
@@ -357,6 +1581,108 @@
 			},
 			"NO": {
 				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
 			}
 		},
 		{
@@ -364,7 +1690,7 @@
 			"parentId": "5648ca00-4384-41ba-82b0-8a87ecf66bd9",
 			"name": "nestedTop.nestedChild",
 			"EN": {},
-			"type": "XTXT",
+			"type": "NOTR",
 			"id": "ce02f6c5-c6e2-4625-ec5a-cd79c2d332b7",
 			"AR": {
 				"text": ""
@@ -382,6 +1708,108 @@
 				"text": ""
 			},
 			"NO": {
+				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
 				"text": ""
 			}
 		},
@@ -412,6 +1840,108 @@
 			},
 			"PT": {
 				"text": "Meu conteúdo"
+			},
+			"AZ": {
+				"text": "Məzmunum"
+			},
+			"BG": {
+				"text": "Моето съдържание"
+			},
+			"ZH": {
+				"text": "我的内容"
+			},
+			"ZF": {
+				"text": "我的內容"
+			},
+			"HR": {
+				"text": "Moj sadržaj"
+			},
+			"CS": {
+				"text": "Můj obsah"
+			},
+			"DA": {
+				"text": "Mit indhold"
+			},
+			"NL": {
+				"text": "Mijn inhoud"
+			},
+			"ET": {
+				"text": "Minu sisu"
+			},
+			"FI": {
+				"text": "Sisältöni"
+			},
+			"EL": {
+				"text": "Το Περιεχόμενό μου"
+			},
+			"HE": {
+				"text": "התוכן שלי"
+			},
+			"HU": {
+				"text": "Saját tartalom"
+			},
+			"IS": {
+				"text": "Mitt efni"
+			},
+			"ID": {
+				"text": "Konten Saya"
+			},
+			"IT": {
+				"text": "I miei contenuti"
+			},
+			"JA": {
+				"text": "私のコンテンツ"
+			},
+			"KO": {
+				"text": "내 콘텐츠"
+			},
+			"LV": {
+				"text": "Mans saturs"
+			},
+			"LT": {
+				"text": "Mano turinys"
+			},
+			"MS": {
+				"text": "Kandungan Saya"
+			},
+			"PL": {
+				"text": "Moja treść"
+			},
+			"RO": {
+				"text": "Conținutul meu"
+			},
+			"RU": {
+				"text": "Мой контент"
+			},
+			"SE": {
+				"text": "Mu sisdoallu"
+			},
+			"SR": {
+				"text": "Мој садржај"
+			},
+			"SH": {
+				"text": "Мој садржај"
+			},
+			"SK": {
+				"text": "Môj obsah"
+			},
+			"SL": {
+				"text": "Moja vsebina"
+			},
+			"SV": {
+				"text": "Mitt innehåll"
+			},
+			"TH": {
+				"text": "เนื้อหาของฉัน"
+			},
+			"TR": {
+				"text": "İçeriğim"
+			},
+			"UK": {
+				"text": "Мій контент"
+			},
+			"VI": {
+				"text": "Nội dung của tôi"
 			}
 		},
 		{
@@ -441,6 +1971,1151 @@
 			},
 			"NO": {
 				"text": "<h2>Min tittel</h2><p>Min første tekst</p>"
+			},
+			"AZ": {
+				"text": "<h2>Mənim Başlığım</h2><p>İlk mətnim</p>"
+			},
+			"BG": {
+				"text": "<h2>Моето заглавие</h2><p>Моето първо съобщение</p>"
+			},
+			"ZH": {
+				"text": "<h2>我的标题</h2><p>我的第一篇文章</p>"
+			},
+			"ZF": {
+				"text": "<h2>我的標題</h2><p>我的第一篇文章</p>"
+			},
+			"HR": {
+				"text": "<h2>Moj naslov</h2><p>Moja prva poruka</p>"
+			},
+			"CS": {
+				"text": "<h2>Můj titulek</h2><p>Můj první text</p>"
+			},
+			"DA": {
+				"text": "<h2>Min titel</h2><p>Min første tekst</p>"
+			},
+			"NL": {
+				"text": "<h2>Mijn titel</h2><p>Mijn eerste tekst</p>"
+			},
+			"ET": {
+				"text": "<h2>Minu pealkiri</h2><p>Minu esimene tekst</p>"
+			},
+			"FI": {
+				"text": "<h2>Otsikkoni</h2><p>Ensimmäinen tekstini</p>"
+			},
+			"EL": {
+				"text": "<h2>Ο Τίτλος μου</h2><p>Το Πρώτο μου Κείμενο</p>"
+			},
+			"HE": {
+				"text": "<h2>הכותרת שלי</h2><p>הטקסט הראשון שלי</p>"
+			},
+			"HU": {
+				"text": "<h2>A címem</h2><p>Az első szövegem</p>"
+			},
+			"IS": {
+				"text": "<h2>Titill minn</h2><p>Fyrsti textinn minn</p>"
+			},
+			"ID": {
+				"text": "<h2>Judul Saya</h2><p>Teks pertama saya</p>"
+			},
+			"IT": {
+				"text": "<h2>Il mio titolo</h2><p>Il mio primo testo</p>"
+			},
+			"JA": {
+				"text": "<h2>私のタイトル</h2><p>私の最初のテキスト</p>"
+			},
+			"KO": {
+				"text": "<h2>제목</h2><p>첫 번째 텍스트</p>"
+			},
+			"LV": {
+				"text": "<h2>Mans nosaukums</h2><p>Mans pirmais teksts</p>"
+			},
+			"LT": {
+				"text": "<h2>Mano pavadinimas</h2><p>Mano pirmasis tekstas</p>"
+			},
+			"MS": {
+				"text": "<h2>Tajuk Saya</h2><p>Teks pertama saya</p>"
+			},
+			"PL": {
+				"text": "<h2>Mój tytuł</h2><p>Mój pierwszy tekst</p>"
+			},
+			"RO": {
+				"text": "<h2>Titlul meu</h2><p>Primul meu text</p>"
+			},
+			"RU": {
+				"text": "<h2>Мой заголовок</h2><p>Мой первый текст</p>"
+			},
+			"SE": {
+				"text": "<h2>Mu namma</h2><p>Mu vuosttaš teaksta</p>"
+			},
+			"SR": {
+				"text": "<h2>Мој наслов</h2><p>Мој први текст</p>"
+			},
+			"SH": {
+				"text": "<h2>Мој наслов</h2><p>Мој први текст</p>"
+			},
+			"SK": {
+				"text": "<h2>Môj titulok</h2><p>Môj prvý text</p>"
+			},
+			"SL": {
+				"text": "<h2>Moj naslov</h2><p>Moje prvo sporočilo</p>"
+			},
+			"SV": {
+				"text": "<h2>Min titel</h2><p>Min första text</p>"
+			},
+			"TH": {
+				"text": "<h2>หัวข้อของฉัน</h2><p>ข้อความแรกของฉัน</p>"
+			},
+			"TR": {
+				"text": "<h2>Başlığım</h2><p>İlk metnim</p>"
+			},
+			"UK": {
+				"text": "<h2>Мій заголовок</h2><p>Моє перше повідомлення</p>"
+			},
+			"VI": {
+				"text": "<h2>Tiêu đề của tôi</h2><p>Văn bản đầu tiên của tôi</p>"
+			}
+		},
+		{
+			"name": "puppy",
+			"EN": {},
+			"type": "NOTR",
+			"id": "f71966c6-f213-4bb3-8070-fbe05e7e65bc",
+			"AR": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "puppy",
+			"parentId": "f71966c6-f213-4bb3-8070-fbe05e7e65bc",
+			"name": "puppy.h1",
+			"text": "The Prize",
+			"EN": {
+				"text": "The Prize"
+			},
+			"type": "XTXT",
+			"id": "64f31616-977a-4864-992f-67271203aed7",
+			"AR": {
+				"text": "الجائزة"
+			},
+			"FR": {
+				"text": "Le prix"
+			},
+			"DE": {
+				"text": "Der Preis"
+			},
+			"ES": {
+				"text": "El premio"
+			},
+			"PT": {
+				"text": "O Prêmio"
+			},
+			"NO": {
+				"text": "Prisen"
+			},
+			"AZ": {
+				"text": "Mükafat"
+			},
+			"BG": {
+				"text": "Наградата"
+			},
+			"ZH": {
+				"text": "奖项"
+			},
+			"ZF": {
+				"text": "獎項"
+			},
+			"HR": {
+				"text": "Nagrada"
+			},
+			"CS": {
+				"text": "Cena"
+			},
+			"DA": {
+				"text": "Prisen"
+			},
+			"NL": {
+				"text": "De prijs"
+			},
+			"ET": {
+				"text": "Auhind"
+			},
+			"FI": {
+				"text": "Palkinto"
+			},
+			"EL": {
+				"text": "Το Βραβείο"
+			},
+			"HE": {
+				"text": "הפרס"
+			},
+			"HU": {
+				"text": "A díj"
+			},
+			"IS": {
+				"text": "Verðlaunin"
+			},
+			"ID": {
+				"text": "Hadiah"
+			},
+			"IT": {
+				"text": "Il premio"
+			},
+			"JA": {
+				"text": "賞品"
+			},
+			"KO": {
+				"text": "상"
+			},
+			"LV": {
+				"text": "Balva"
+			},
+			"LT": {
+				"text": "Prizas"
+			},
+			"MS": {
+				"text": "Hadiah"
+			},
+			"PL": {
+				"text": "Nagroda"
+			},
+			"RO": {
+				"text": "Premiul"
+			},
+			"RU": {
+				"text": "Премия"
+			},
+			"SE": {
+				"text": "Bálkkašupmi"
+			},
+			"SR": {
+				"text": "Награда"
+			},
+			"SH": {
+				"text": "Награда"
+			},
+			"SK": {
+				"text": "Cena"
+			},
+			"SL": {
+				"text": "Nagrada"
+			},
+			"SV": {
+				"text": "Priset"
+			},
+			"TH": {
+				"text": "รางวัล"
+			},
+			"TR": {
+				"text": "Ödül"
+			},
+			"UK": {
+				"text": "Приз"
+			},
+			"VI": {
+				"text": "Giải thưởng"
+			}
+		},
+		{
+			"parent": "puppy",
+			"parentId": "f71966c6-f213-4bb3-8070-fbe05e7e65bc",
+			"name": "puppy.h2",
+			"text": "The Result",
+			"EN": {
+				"text": "The Result"
+			},
+			"type": "XTXT",
+			"id": "30dfb945-b17e-4542-d05d-2b0c55731af8",
+			"AR": {
+				"text": "النتيجة"
+			},
+			"FR": {
+				"text": "Le résultat"
+			},
+			"DE": {
+				"text": "Das Ergebnis"
+			},
+			"ES": {
+				"text": "El resultado"
+			},
+			"PT": {
+				"text": "O resultado"
+			},
+			"NO": {
+				"text": "Resultatet"
+			},
+			"AZ": {
+				"text": "Nəticə"
+			},
+			"BG": {
+				"text": "Резултатът"
+			},
+			"ZH": {
+				"text": "结果"
+			},
+			"ZF": {
+				"text": "結果"
+			},
+			"HR": {
+				"text": "Rezultat"
+			},
+			"CS": {
+				"text": "Výsledek"
+			},
+			"DA": {
+				"text": "Resultatet"
+			},
+			"NL": {
+				"text": "Het resultaat"
+			},
+			"ET": {
+				"text": "Tulemus"
+			},
+			"FI": {
+				"text": "Tulos"
+			},
+			"EL": {
+				"text": "Το Αποτέλεσμα"
+			},
+			"HE": {
+				"text": "התוצאה"
+			},
+			"HU": {
+				"text": "Az eredmény"
+			},
+			"IS": {
+				"text": "Niðurstaðan"
+			},
+			"ID": {
+				"text": "Hasil"
+			},
+			"IT": {
+				"text": "Il risultato"
+			},
+			"JA": {
+				"text": "結果"
+			},
+			"KO": {
+				"text": "결과"
+			},
+			"LV": {
+				"text": "Rezultāts"
+			},
+			"LT": {
+				"text": "Rezultatas"
+			},
+			"MS": {
+				"text": "Hasilnya"
+			},
+			"PL": {
+				"text": "Wynik"
+			},
+			"RO": {
+				"text": "Rezultatul"
+			},
+			"RU": {
+				"text": "Результат"
+			},
+			"SE": {
+				"text": "Boađus"
+			},
+			"SR": {
+				"text": "Резултат"
+			},
+			"SH": {
+				"text": "Резултат"
+			},
+			"SK": {
+				"text": "Výsledok"
+			},
+			"SL": {
+				"text": "Rezultat"
+			},
+			"SV": {
+				"text": "Resultatet"
+			},
+			"TH": {
+				"text": "ผลลัพธ์"
+			},
+			"TR": {
+				"text": "Sonuç"
+			},
+			"UK": {
+				"text": "Результат"
+			},
+			"VI": {
+				"text": "Kết quả"
+			}
+		},
+		{
+			"parent": "puppy",
+			"parentId": "f71966c6-f213-4bb3-8070-fbe05e7e65bc",
+			"name": "puppy.p1",
+			"text": "Barnaby found a branch three times his size. He marched proudly down the sidewalk, forcing neighbors to hurdle his lumber.",
+			"EN": {
+				"text": "Barnaby found a branch three times his size. He marched proudly down the sidewalk, forcing neighbors to hurdle his lumber."
+			},
+			"type": "XTXT",
+			"id": "7ff6969b-d716-4ffb-bec3-1f26c12b87ad",
+			"AR": {
+				"text": "وجد بارنابي غصنًا أكبر منه بثلاث مرات. سار بفخر على الرصيف، مُجبرًا الجيران على حمله."
+			},
+			"FR": {
+				"text": "Barnaby trouva une branche trois fois plus grosse que lui. Il descendit fièrement le trottoir, obligeant ses voisins à enjamber son tronc d'arbre."
+			},
+			"DE": {
+				"text": "Barnaby fand einen Ast, der dreimal so groß war wie er selbst. Stolz marschierte er den Bürgersteig entlang und zwang die Nachbarn, über sein Holzstück zu springen."
+			},
+			"ES": {
+				"text": "Barnaby encontró una rama tres veces más grande que él. Marchó con orgullo por la acera, obligando a los vecinos a saltarle la madera."
+			},
+			"PT": {
+				"text": "Barnaby encontrou um galho três vezes maior que ele. Marchou orgulhosamente pela calçada, obrigando os vizinhos a pular por cima da madeira."
+			},
+			"NO": {
+				"text": "Barnaby fant en gren som var tre ganger så stor som ham. Han marsjerte stolt nedover fortauet og tvang naboene til å grave opp tømmeret hans."
+			},
+			"AZ": {
+				"text": "Barnabi özündən üç dəfə böyük bir budaq tapdı. O, qürurla piyada səkisi ilə irəliləyərək qonşuları onun taxta-şalbanına maneə törətməyə məcbur etdi."
+			},
+			"BG": {
+				"text": "Барнаби намери клон, три пъти по-голям от него. Той гордо тръгна по тротоара, карайки съседите си да препречват дървения му материал."
+			},
+			"ZH": {
+				"text": "巴纳比找到了一根比他身长三倍的树枝。他骄傲地沿着人行道走着，迫使邻居们不得不跨过他那笨重的身躯。"
+			},
+			"ZF": {
+				"text": "巴納比找到了一根比他身長三倍的樹枝。他驕傲地沿著人行道走著，迫使鄰居們不得不跨過他那笨重的身軀。"
+			},
+			"HR": {
+				"text": "Barnaby je pronašao granu tri puta veću od sebe. Ponosno je marširao pločnikom, prisiljavajući susjede da mu prepreke prelaze preko drva."
+			},
+			"CS": {
+				"text": "Barnaby našel větev třikrát větší než on sám. Hrdě pochodoval po chodníku a nutil sousedy, aby mu překáželi v podobě větve."
+			},
+			"DA": {
+				"text": "Barnaby fandt en gren, der var tre gange så stor som ham selv. Han marcherede stolt ned ad fortovet og tvang naboerne til at grave op for hans tømmer."
+			},
+			"NL": {
+				"text": "Barnaby vond een tak die drie keer zo groot was als hijzelf. Hij marcheerde trots over de stoep, terwijl hij de buren dwong zijn hout op te stapelen."
+			},
+			"ET": {
+				"text": "Barnaby leidis endast kolm korda suurema oksa. Ta marssis uhkelt mööda kõnniteed, sundides naabreid tema puitu ummistama."
+			},
+			"FI": {
+				"text": "Barnaby löysi oksan, joka oli kolme kertaa itseään suurempi. Hän marssi ylpeänä jalkakäytävää pitkin pakottaen naapurit estämään puutavaransa kulkemista."
+			},
+			"EL": {
+				"text": "Ο Μπάρναμπι βρήκε ένα κλαδί τρεις φορές το μέγεθός του. Προχώρησε περήφανα στο πεζοδρόμιο, αναγκάζοντας τους γείτονες να του βάλουν εμπόδια για τα ξύλα."
+			},
+			"HE": {
+				"text": "ברנבי מצא ענף גדול פי שלושה ממנו. הוא צעד בגאווה במורד המדרכה, ואילץ את השכנים להציב את עצי העץ שלו."
+			},
+			"HU": {
+				"text": "Barnaby talált egy nála háromszor nagyobb ágat. Büszkén vonult végig a járdán, arra kényszerítve a szomszédokat, hogy feltartóztatják a fáját."
+			},
+			"IS": {
+				"text": "Barnaby fann grein sem var þrefalt stærri en hann. Hann gekk stoltur niður gangstéttina og neyddi nágrannana til að verja timburið hans."
+			},
+			"ID": {
+				"text": "Barnaby menemukan dahan yang ukurannya tiga kali lipat darinya. Ia berjalan dengan gagah di trotoar, memaksa para tetangga untuk melompati kayu-kayunya."
+			},
+			"IT": {
+				"text": "Barnaby trovò un ramo tre volte più grande di lui. Marciò fiero lungo il marciapiede, costringendo i vicini a saltare il suo tronco."
+			},
+			"JA": {
+				"text": "バーナビーは自分の3倍もの大きさの枝を見つけた。近所の人たちに木材をはね飛ばさせながら、誇らしげに歩道を歩いた。"
+			},
+			"KO": {
+				"text": "바나비는 자기보다 세 배는 큰 나뭇가지를 발견했습니다. 그는 자랑스럽게 보도를 따라 행진하며 이웃들이 그의 나무를 허물도록 했습니다."
+			},
+			"LV": {
+				"text": "Bārnabijs atrada zaru, kas bija trīs reizes lielāks par viņu pašu. Viņš lepni soļoja pa ietvi, piespiežot kaimiņus stāties pretī viņa kokmateriāliem."
+			},
+			"LT": {
+				"text": "Barnabis rado šaką, tris kartus didesnę už save. Jis išdidžiai žygiavo šaligatviu, versdamas kaimynus stoti jo medieną."
+			},
+			"MS": {
+				"text": "Barnaby menemui dahan tiga kali ganda saiznya. Dia berarak dengan bangga di kaki lima, memaksa jiran-jiran menghalang kayunya."
+			},
+			"PL": {
+				"text": "Barnaby znalazł gałąź trzy razy większą od siebie. Maszerował dumnie po chodniku, zmuszając sąsiadów do przeskakiwania przez jego drewno."
+			},
+			"RO": {
+				"text": "Barnaby a găsit o creangă de trei ori mai mare decât el. A mers mândru pe trotuar, forțându-i vecinii să-i taie cherestea."
+			},
+			"RU": {
+				"text": "Барнаби нашёл ветку в три раза больше себя. Он гордо прошествовал по тротуару, заставляя соседей перетаскивать его брёвна."
+			},
+			"SE": {
+				"text": "Barnaby gávnnai suorggi mii lei golbma geardde su stuoris. Son váccii čeahpesvuođain bálgá mielde, ja bággehii lagaš olbmuid hehttet su čuoikkaid."
+			},
+			"SR": {
+				"text": "Барнаби је пронашао грану три пута већу од себе. Поносно је марширао тротоаром, терајући комшије да му препречују грађу."
+			},
+			"SH": {
+				"text": "Барнаби је пронашао грану три пута већу од себе. Поносно је марширао тротоаром, терајући комшије да му препречују грађу."
+			},
+			"SK": {
+				"text": "Barnaby našiel konár trikrát väčší ako on. Hrdo pochodoval po chodníku a nútil susedov, aby mu prekážali v preklade."
+			},
+			"SL": {
+				"text": "Barnaby je našel vejo, ki je bila trikrat večja od njega. Ponosno je korakal po pločniku in silil sosede, da so mu ovirali les."
+			},
+			"SV": {
+				"text": "Barnaby hittade en gren som var tre gånger så stor som honom. Han marscherade stolt nerför trottoaren och tvingade grannarna att packa hans virke."
+			},
+			"TH": {
+				"text": "บาร์นาบี้พบกิ่งไม้ที่ใหญ่กว่าตัวเขาสามเท่า เขาเดินอย่างภาคภูมิใจไปตามทางเท้า บีบให้เพื่อนบ้านต้องข้ามกิ่งไม้ของเขาไป"
+			},
+			"TR": {
+				"text": "Barnaby, kendisinin üç katı büyüklüğünde bir dal buldu. Kaldırımda gururla yürürken, komşularını kerestesini engellemeye zorladı."
+			},
+			"UK": {
+				"text": "Барнабі знайшов гілку, втричі більшу за себе. Він гордо пройшов тротуаром, змушуючи сусідів перетинати його пиломатеріали."
+			},
+			"VI": {
+				"text": "Barnaby tìm thấy một cành cây to gấp ba lần mình. Nó hiên ngang bước xuống vỉa hè, buộc hàng xóm phải xô đẩy gỗ của nó."
+			}
+		},
+		{
+			"parent": "puppy",
+			"parentId": "f71966c6-f213-4bb3-8070-fbe05e7e65bc",
+			"name": "puppy.p2",
+			"text": "The garden gate was narrow; the stick was not. With a loud thud, the branch jammed, flipping the terrier backward.",
+			"EN": {
+				"text": "The garden gate was narrow; the stick was not. With a loud thud, the branch jammed, flipping the terrier backward."
+			},
+			"type": "XTXT",
+			"id": "e3deaa48-b6dc-42b7-897f-44bf3690e284",
+			"AR": {
+				"text": "كانت بوابة الحديقة ضيقة، لكن العصا لم تكن كذلك. مع دويٍّ قوي، انحشر الغصن، فقلب الكلب إلى الخلف."
+			},
+			"FR": {
+				"text": "Le portail du jardin était étroit ; le bâton, lui, ne l’était pas. Avec un bruit sourd, la branche se bloqua, projetant le terrier en arrière."
+			},
+			"DE": {
+				"text": "Das Gartentor war schmal; der Stock nicht. Mit einem lauten Knall verkeilte sich der Ast und schleuderte den Terrier nach hinten."
+			},
+			"ES": {
+				"text": "La puerta del jardín era estrecha; el palo no. Con un golpe sordo, la rama se atascó, lanzando al terrier hacia atrás."
+			},
+			"PT": {
+				"text": "O portão do jardim era estreito; o galho, não. Com um baque surdo, o galho emperrou, jogando o terrier para trás."
+			},
+			"NO": {
+				"text": "Hageporten var smal; det var ikke pinnen. Med et høyt dunk klemte grenen seg fast og terrieren ble vippet bakover."
+			},
+			"AZ": {
+				"text": "Bağın darvazası dar idi; çubuq deyildi. Güclü bir gurultu ilə budaq tıxandı və teryeri geriyə çevirdi."
+			},
+			"BG": {
+				"text": "Градинската порта беше тясна; пръчката не беше. С трясък клонът се заклещи и събори териера назад."
+			},
+			"ZH": {
+				"text": "花园的门很窄，树枝却不窄。随着一声闷响，树枝卡住了门，把小狗甩了出去。"
+			},
+			"ZF": {
+				"text": "花園的門很窄，樹枝卻不窄。只聽「砰」的一聲，樹枝卡住了門，把小狗甩了出去。"
+			},
+			"HR": {
+				"text": "Vrtna vrata bila su uska; štap nije bio. Uz glasan udarac, grana se zaglavila i terijera je bacila unatrag."
+			},
+			"CS": {
+				"text": "Zahradní branka byla úzká; hůl ne. S hlasitým bouchnutím se větev zasekla a teriéra srazila dozadu."
+			},
+			"DA": {
+				"text": "Havelågen var smal; det var stokken ikke. Med et højt bump klemte grenen sig fast og terrieren blev væltet bagover."
+			},
+			"NL": {
+				"text": "Het tuinhekje was smal; de stok niet. Met een harde klap blokkeerde de tak, waardoor de terriër achteruit viel."
+			},
+			"ET": {
+				"text": "Aiavärav oli kitsas; kepp mitte. Valju mütsatusega kiilutas oks kinni ja paiskas terjeri selili."
+			},
+			"FI": {
+				"text": "Puutarhan portti oli kapea; keppi ei ollut. Kovaan tömähdyksen saattelemana oksa juuttui kiinni ja heitti terrierin taaksepäin."
+			},
+			"EL": {
+				"text": "Η πύλη του κήπου ήταν στενή· το κλαδί όχι. Με έναν δυνατό κρότο, το κλαδί σφηνώθηκε, γυρίζοντας το τεριέ προς τα πίσω."
+			},
+			"HE": {
+				"text": "שער הגינה היה צר; המקל לא. בקול חבטה חזק, הענף נתקע, והטרייר הטה אחורה."
+			},
+			"HU": {
+				"text": "A kertkapu keskeny volt; a bot nem. Hangos puffanással beszorult az ág, és a terrier hátralendült."
+			},
+			"IS": {
+				"text": "Garðhliðið var þröngt; prikið ekki. Með háum dynk klemmdist greinin og terrierinn steyptist aftur á bak."
+			},
+			"ID": {
+				"text": "Gerbang taman itu sempit; tongkatnya tidak. Dengan bunyi gedebuk yang keras, dahan itu tersangkut, membuat anjing terrier itu terguling ke belakang."
+			},
+			"IT": {
+				"text": "Il cancello del giardino era stretto; il bastone no. Con un tonfo sordo, il ramo si incastrò, facendo cadere il terrier all'indietro."
+			},
+			"JA": {
+				"text": "庭の門は狭かったが、棒は狭くなかった。大きな音とともに枝が引っ掛かり、テリアは後ろにひっくり返った。"
+			},
+			"KO": {
+				"text": "정원 문은 좁았지만 막대기는 좁지 않았다. 쿵 하는 큰 소리와 함께 나뭇가지가 끼어 테리어가 뒤로 넘어졌다."
+			},
+			"LV": {
+				"text": "Dārza vārtiņi bija šauri; spieķis tāds nebija. Ar skaļu blīkšķi zars iesprūda, pargriežot terjeru atpakaļ."
+			},
+			"LT": {
+				"text": "Sodo varteliai buvo siauri; pagaliukas – ne. Šaka garsiai dunktelėjo ir užkliuvo, parversdama terjerą atgal."
+			},
+			"MS": {
+				"text": "Pintu taman itu sempit; tongkat itu tidak. Dengan bunyi dentuman yang kuat, dahan itu tersekat, membalikkan terrier itu ke belakang."
+			},
+			"PL": {
+				"text": "Furtka ogrodowa była wąska, ale kij nie. Z głośnym hukiem gałąź się zacięła, odrzucając teriera do tyłu."
+			},
+			"RO": {
+				"text": "Poarta grădinii era îngustă; bățul nu. Cu un bubuit puternic, creanga s-a blocat, aruncând terrierul pe spate."
+			},
+			"RU": {
+				"text": "Садовая калитка была узкой, а палка — нет. С громким стуком ветка застряла, отбросив терьера назад."
+			},
+			"SE": {
+				"text": "Gárddi uvsa lei čiekŋalis; čuoikkas ii lean. Garra čuorvuma bokte čuoččui suorgi, ja gahčai terriera maŋosguvlui."
+			},
+			"SR": {
+				"text": "Баштенска капија је била уска; штап није био. Уз гласан ударац, грана се заглавила, бацајући теријера уназад."
+			},
+			"SH": {
+				"text": "Баштенска капија је била уска; штап није био. Уз гласан ударац, грана се заглавила, бацајући теријера уназад."
+			},
+			"SK": {
+				"text": "Záhradná bránka bola úzka; palica nie. S hlasným buchnutím sa konár zasekol a teriér sa prevrátil dozadu."
+			},
+			"SL": {
+				"text": "Vrtna vrata so bila ozka; palica ne. Z glasnim udarcem se je veja zagozdila in terierja je pahnila nazaj."
+			},
+			"SV": {
+				"text": "Trädgårdsgrinden var smal; det var inte pinnen. Med en hög duns fastnade grenen och terriern föll bakåt."
+			},
+			"TH": {
+				"text": "ประตูสวนแคบ แต่ไม้เท้ากลับไม่แคบ กิ่งไม้กระแทกเข้ากับประตูอย่างแรงจนสุนัขเทอร์เรียพลิกไปด้านหลัง"
+			},
+			"TR": {
+				"text": "Bahçe kapısı dardı; sopa ise dar değildi. Dal, yüksek bir sesle sıkıştı ve terrier geriye doğru savruldu."
+			},
+			"UK": {
+				"text": "Садова хвіртка була вузькою; палиця — ні. З гучним стуком гілка заклинила, перекинувши тер'єра назад."
+			},
+			"VI": {
+				"text": "Cổng vườn thì hẹp, còn cây gậy thì không. Một tiếng động lớn vang lên, cành cây kẹt lại, hất con chó sục ngã ngửa ra sau."
+			}
+		},
+		{
+			"parent": "puppy",
+			"parentId": "f71966c6-f213-4bb3-8070-fbe05e7e65bc",
+			"name": "puppy.p3",
+			"text": "It was truly a sticky situation.",
+			"EN": {
+				"text": "It was truly a sticky situation."
+			},
+			"type": "XTXT",
+			"id": "8c12322d-3f18-4392-92f8-a2591bc57d49",
+			"AR": {
+				"text": "لقد كان الوضع صعبا حقا."
+			},
+			"FR": {
+				"text": "C'était une situation vraiment délicate."
+			},
+			"DE": {
+				"text": "Das war wirklich eine verzwickte Situation."
+			},
+			"ES": {
+				"text": "Fue realmente una situación complicada."
+			},
+			"PT": {
+				"text": "Foi uma situação realmente delicada."
+			},
+			"NO": {
+				"text": "Det var virkelig en vanskelig situasjon."
+			},
+			"AZ": {
+				"text": "Bu, həqiqətən də çətin vəziyyət idi."
+			},
+			"BG": {
+				"text": "Беше наистина трудна ситуация."
+			},
+			"ZH": {
+				"text": "这真是个棘手的局面。"
+			},
+			"ZF": {
+				"text": "這真是個棘手的局面。"
+			},
+			"HR": {
+				"text": "Bila je to zaista nezgodna situacija."
+			},
+			"CS": {
+				"text": "Byla to opravdu zapeklitá situace."
+			},
+			"DA": {
+				"text": "Det var virkelig en vanskelig situation."
+			},
+			"NL": {
+				"text": "Het was werkelijk een lastige situatie."
+			},
+			"ET": {
+				"text": "See oli tõesti keeruline olukord."
+			},
+			"FI": {
+				"text": "Se oli todellakin hankala tilanne."
+			},
+			"EL": {
+				"text": "Ήταν πραγματικά μια δύσκολη κατάσταση."
+			},
+			"HE": {
+				"text": "זו הייתה באמת סיטואציה דביקה."
+			},
+			"HU": {
+				"text": "Ez tényleg egy kínos helyzet volt."
+			},
+			"IS": {
+				"text": "Þetta var sannarlega erfið staða."
+			},
+			"ID": {
+				"text": "Itu benar-benar situasi yang sulit."
+			},
+			"IT": {
+				"text": "Era davvero una situazione spinosa."
+			},
+			"JA": {
+				"text": "それは本当に厄介な状況でした。"
+			},
+			"KO": {
+				"text": "정말로 곤란한 상황이었습니다."
+			},
+			"LV": {
+				"text": "Tā bija patiesi sarežģīta situācija."
+			},
+			"LT": {
+				"text": "Tai buvo tikrai kebli situacija."
+			},
+			"MS": {
+				"text": "Ia benar-benar keadaan melekit."
+			},
+			"PL": {
+				"text": "To była naprawdę trudna sytuacja."
+			},
+			"RO": {
+				"text": "A fost cu adevărat o situație delicată."
+			},
+			"RU": {
+				"text": "Это была действительно щекотливая ситуация."
+			},
+			"SE": {
+				"text": "Dat lei duođaid garra dilli."
+			},
+			"SR": {
+				"text": "Била је то заиста незгодна ситуација."
+			},
+			"SH": {
+				"text": "Била је то заиста незгодна ситуација."
+			},
+			"SK": {
+				"text": "Bola to naozaj chúlostivá situácia."
+			},
+			"SL": {
+				"text": "Resnično je bila zapletena situacija."
+			},
+			"SV": {
+				"text": "Det var verkligen en knepig situation."
+			},
+			"TH": {
+				"text": "มันเป็นสถานการณ์ที่ยุ่งยากจริงๆ"
+			},
+			"TR": {
+				"text": "Gerçekten çok zor bir durumdu."
+			},
+			"UK": {
+				"text": "Це була справді складна ситуація."
+			},
+			"VI": {
+				"text": "Đây thực sự là một tình huống khó xử."
+			}
+		},
+		{
+			"parent": "puppy",
+			"parentId": "f71966c6-f213-4bb3-8070-fbe05e7e65bc",
+			"name": "puppy.tileTitle",
+			"text": "Huskies",
+			"EN": {
+				"text": "Huskies"
+			},
+			"type": "XTXT",
+			"id": "20394aa5-6d3e-4ce5-a0c6-f26b283012e2",
+			"AR": {
+				"text": "الهاسكي"
+			},
+			"FR": {
+				"text": "Huskies"
+			},
+			"DE": {
+				"text": "Huskies"
+			},
+			"ES": {
+				"text": "perros esquimales"
+			},
+			"PT": {
+				"text": "Huskies"
+			},
+			"NO": {
+				"text": "Huskies"
+			},
+			"AZ": {
+				"text": "Huskies"
+			},
+			"BG": {
+				"text": "Хъскита"
+			},
+			"ZH": {
+				"text": "哈士奇"
+			},
+			"ZF": {
+				"text": "哈士奇"
+			},
+			"HR": {
+				"text": "Haskiji"
+			},
+			"CS": {
+				"text": "Husky"
+			},
+			"DA": {
+				"text": "Huskies"
+			},
+			"NL": {
+				"text": "Huskies"
+			},
+			"ET": {
+				"text": "Huskyd"
+			},
+			"FI": {
+				"text": "Huskyt"
+			},
+			"EL": {
+				"text": "Χάσκι"
+			},
+			"HE": {
+				"text": "האסקיס"
+			},
+			"HU": {
+				"text": "Huskyk"
+			},
+			"IS": {
+				"text": "Huskies"
+			},
+			"ID": {
+				"text": "Anjing Husky"
+			},
+			"IT": {
+				"text": "Husky"
+			},
+			"JA": {
+				"text": "ハスキー"
+			},
+			"KO": {
+				"text": "허스키"
+			},
+			"LV": {
+				"text": "Haskiji"
+			},
+			"LT": {
+				"text": "Haskiai"
+			},
+			"MS": {
+				"text": "Huskies"
+			},
+			"PL": {
+				"text": "Husky"
+			},
+			"RO": {
+				"text": "Huskies"
+			},
+			"RU": {
+				"text": "Хаски"
+			},
+			"SE": {
+				"text": "Huskies"
+			},
+			"SR": {
+				"text": "Хаскији"
+			},
+			"SH": {
+				"text": "Хаскији"
+			},
+			"SK": {
+				"text": "Husky"
+			},
+			"SL": {
+				"text": "Haskiji"
+			},
+			"SV": {
+				"text": "Huskies"
+			},
+			"TH": {
+				"text": "ฮัสกี้"
+			},
+			"TR": {
+				"text": "Husky'ler"
+			},
+			"UK": {
+				"text": "Хаскі"
+			},
+			"VI": {
+				"text": "Chó Husky"
+			}
+		},
+		{
+			"parent": "puppy",
+			"parentId": "f71966c6-f213-4bb3-8070-fbe05e7e65bc",
+			"name": "puppy.voice",
+			"text": " A voice that is husky is low and rough",
+			"EN": {
+				"text": " A voice that is husky is low and rough"
+			},
+			"type": "XTXT",
+			"id": "23927fdc-e76d-4af8-8768-6842f77c0af8",
+			"AR": {
+				"text": "الصوت الأجش يكون منخفضًا وخشنًا"
+			},
+			"FR": {
+				"text": "Une voix rauque est grave et rauque."
+			},
+			"DE": {
+				"text": "Eine heisere Stimme ist tief und rau."
+			},
+			"ES": {
+				"text": "Una voz ronca es baja y áspera."
+			},
+			"PT": {
+				"text": "Uma voz rouca é baixa e áspera."
+			},
+			"NO": {
+				"text": "En hes stemme er lav og grov"
+			},
+			"AZ": {
+				"text": " Boğuq səs alçaq və kobuddur"
+			},
+			"BG": {
+				"text": "Дрезгавият глас е нисък и груб"
+			},
+			"ZH": {
+				"text": "沙哑的声音低沉而粗犷。"
+			},
+			"ZF": {
+				"text": "沙啞的聲音低沉而粗獷。"
+			},
+			"HR": {
+				"text": "Promukao glas je nizak i hrapav"
+			},
+			"CS": {
+				"text": "Chraplavý hlas je nízký a drsný"
+			},
+			"DA": {
+				"text": "En hæs stemme er lav og ru"
+			},
+			"NL": {
+				"text": "Een stem die hees is, is laag en ruw"
+			},
+			"ET": {
+				"text": "Kähe hääl on madal ja kare"
+			},
+			"FI": {
+				"text": "Käheä ääni on matala ja käheä"
+			},
+			"EL": {
+				"text": "Μια βραχνή φωνή είναι χαμηλή και τραχιά"
+			},
+			"HE": {
+				"text": "קול צרוד הוא נמוך וגס"
+			},
+			"HU": {
+				"text": "A rekedt hang mély és durva"
+			},
+			"IS": {
+				"text": "Rödd sem er hrjúf er lág og hrjúf"
+			},
+			"ID": {
+				"text": "Suara yang serak adalah suara yang rendah dan kasar"
+			},
+			"IT": {
+				"text": "Una voce roca è bassa e ruvida"
+			},
+			"JA": {
+				"text": "ハスキーな声は低くて荒々しい"
+			},
+			"KO": {
+				"text": "허스키한 목소리는 낮고 거칠다"
+			},
+			"LV": {
+				"text": "Aizsmakusi balss ir zema un raupja"
+			},
+			"LT": {
+				"text": "Užkimęs balsas yra žemas ir šiurkštus"
+			},
+			"MS": {
+				"text": " Suara yang serak rendah dan kasar"
+			},
+			"PL": {
+				"text": "Chrapliwy głos jest niski i szorstki"
+			},
+			"RO": {
+				"text": "O voce răgușită este joasă și aspră"
+			},
+			"RU": {
+				"text": "Хриплый голос – низкий и грубый."
+			},
+			"SE": {
+				"text": " Jietna mii lea husky lea allat ja garra"
+			},
+			"SR": {
+				"text": "Хрип глас је низак и груб"
+			},
+			"SH": {
+				"text": "Хрип глас је низак и груб"
+			},
+			"SK": {
+				"text": "Chrapľavý hlas je nízky a drsný"
+			},
+			"SL": {
+				"text": "Hripav glas je nizek in hrapav"
+			},
+			"SV": {
+				"text": "En hes röst är låg och grov"
+			},
+			"TH": {
+				"text": "เสียงแหบคือเสียงต่ำและหยาบ"
+			},
+			"TR": {
+				"text": "Boğuk bir ses alçak ve serttir"
+			},
+			"UK": {
+				"text": "Хрипкий голос низький і грубий"
+			},
+			"VI": {
+				"text": "Giọng nói khàn khàn là giọng trầm và khàn"
 			}
 		},
 		{
@@ -449,7 +3124,7 @@
 			"EN": {
 				"text": "sap-icon://nep/api-client"
 			},
-			"type": "XTXT",
+			"type": "NOTR",
 			"id": "bd89f63d-b6ec-4c56-de2c-625c69de8ae0",
 			"AR": {
 				"text": ""
@@ -467,6 +3142,108 @@
 				"text": ""
 			},
 			"NO": {
+				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
 				"text": ""
 			}
 		},
@@ -495,6 +3272,108 @@
 			},
 			"NO": {
 				"text": "Min knapp"
+			},
+			"AZ": {
+				"text": "Mənim Düyməm"
+			},
+			"BG": {
+				"text": "Моят бутон"
+			},
+			"ZH": {
+				"text": "我的按钮"
+			},
+			"ZF": {
+				"text": "我的按鈕"
+			},
+			"HR": {
+				"text": "Moj gumb"
+			},
+			"CS": {
+				"text": "Moje tlačítko"
+			},
+			"DA": {
+				"text": "Min knap"
+			},
+			"NL": {
+				"text": "Mijn knop"
+			},
+			"ET": {
+				"text": "Minu nupp"
+			},
+			"FI": {
+				"text": "Oma painike"
+			},
+			"EL": {
+				"text": "Το κουμπί μου"
+			},
+			"HE": {
+				"text": "הכפתור שלי"
+			},
+			"HU": {
+				"text": "Az én gombom"
+			},
+			"IS": {
+				"text": "Hnappurinn minn"
+			},
+			"ID": {
+				"text": "Tombol Saya"
+			},
+			"IT": {
+				"text": "Il mio pulsante"
+			},
+			"JA": {
+				"text": "私のボタン"
+			},
+			"KO": {
+				"text": "내 버튼"
+			},
+			"LV": {
+				"text": "Mana poga"
+			},
+			"LT": {
+				"text": "Mano mygtukas"
+			},
+			"MS": {
+				"text": "Butang Saya"
+			},
+			"PL": {
+				"text": "Mój przycisk"
+			},
+			"RO": {
+				"text": "Butonul meu"
+			},
+			"RU": {
+				"text": "Моя кнопка"
+			},
+			"SE": {
+				"text": "Mu nuppástus"
+			},
+			"SR": {
+				"text": "Моје дугме"
+			},
+			"SH": {
+				"text": "Моје дугме"
+			},
+			"SK": {
+				"text": "Moje tlačidlo"
+			},
+			"SL": {
+				"text": "Moj gumb"
+			},
+			"SV": {
+				"text": "Min knapp"
+			},
+			"TH": {
+				"text": "ปุ่มของฉัน"
+			},
+			"TR": {
+				"text": "Benim Düğmem"
+			},
+			"UK": {
+				"text": "Моя кнопка"
+			},
+			"VI": {
+				"text": "Nút của tôi"
 			}
 		},
 		{
@@ -503,7 +3382,7 @@
 			"EN": {
 				"text": "sap-icon://nep/adaptive-designer"
 			},
-			"type": "XTXT",
+			"type": "NOTR",
 			"id": "94f26b62-023d-43f0-a0ea-eea5871d56e3",
 			"AR": {
 				"text": ""
@@ -522,6 +3401,108 @@
 			},
 			"NO": {
 				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
 			}
 		},
 		{
@@ -533,7 +3514,7 @@
 			"type": "XTXT",
 			"id": "bd26bb85-8ff5-44a1-ee2e-cc0fb3a39cb5",
 			"AR": {
-				"text": "حالة البلاط الخاص بي"
+				"text": "حالة بلاطتي"
 			},
 			"FR": {
 				"text": "État de mes tuiles"
@@ -542,13 +3523,115 @@
 				"text": "Mein Kachelstatus"
 			},
 			"ES": {
-				"text": "Estado de mi mosaico"
+				"text": "Mi estado de mosaico"
 			},
 			"PT": {
 				"text": "Meu status de azulejo"
 			},
 			"NO": {
 				"text": "Statusen min for fliser"
+			},
+			"AZ": {
+				"text": "Mənim kafel statusum"
+			},
+			"BG": {
+				"text": "Състояние на моите плочки"
+			},
+			"ZH": {
+				"text": "我的瓷砖状态"
+			},
+			"ZF": {
+				"text": "我的磁磚狀態"
+			},
+			"HR": {
+				"text": "Status mojih pločica"
+			},
+			"CS": {
+				"text": "Stav mých dlaždic"
+			},
+			"DA": {
+				"text": "Min flisestatus"
+			},
+			"NL": {
+				"text": "Mijn tegelstatus"
+			},
+			"ET": {
+				"text": "Minu plaatide olek"
+			},
+			"FI": {
+				"text": "Laattojeni tila"
+			},
+			"EL": {
+				"text": "Η κατάσταση των πλακιδίων μου"
+			},
+			"HE": {
+				"text": "סטטוס האריח שלי"
+			},
+			"HU": {
+				"text": "A csempéim állapota"
+			},
+			"IS": {
+				"text": "Staða flísa minnar"
+			},
+			"ID": {
+				"text": "Status ubin saya"
+			},
+			"IT": {
+				"text": "Lo stato del mio riquadro"
+			},
+			"JA": {
+				"text": "私のタイルのステータス"
+			},
+			"KO": {
+				"text": "내 타일 상태"
+			},
+			"LV": {
+				"text": "Mana flīžu statuss"
+			},
+			"LT": {
+				"text": "Mano plytelės būsena"
+			},
+			"MS": {
+				"text": "Status jubin saya"
+			},
+			"PL": {
+				"text": "Mój status kafelka"
+			},
+			"RO": {
+				"text": "Starea plăcuței mele"
+			},
+			"RU": {
+				"text": "Статус моей плитки"
+			},
+			"SE": {
+				"text": "Mu távvala stáhtus"
+			},
+			"SR": {
+				"text": "Статус мојих плочица"
+			},
+			"SH": {
+				"text": "Статус мојих плочица"
+			},
+			"SK": {
+				"text": "Stav mojej dlaždice"
+			},
+			"SL": {
+				"text": "Stanje mojih ploščic"
+			},
+			"SV": {
+				"text": "Min kakelstatus"
+			},
+			"TH": {
+				"text": "สถานะไทล์ของฉัน"
+			},
+			"TR": {
+				"text": "Fayans durumum"
+			},
+			"UK": {
+				"text": "Стан моєї плитки"
+			},
+			"VI": {
+				"text": "Trạng thái ô của tôi"
 			}
 		},
 		{
@@ -569,13 +3652,115 @@
 				"text": "Mein Kachel-Untertitel"
 			},
 			"ES": {
-				"text": "Mi subtítulo de mosaico"
+				"text": "Subtítulo de mi mosaico"
 			},
 			"PT": {
 				"text": "Legenda do meu azulejo"
 			},
 			"NO": {
 				"text": "Min flis-undertittel"
+			},
+			"AZ": {
+				"text": "Mənim Çini Altyazım"
+			},
+			"BG": {
+				"text": "Моите плочки Субтитри"
+			},
+			"ZH": {
+				"text": "我的标题字幕"
+			},
+			"ZF": {
+				"text": "我的標題字幕"
+			},
+			"HR": {
+				"text": "Podnaslov moje pločice"
+			},
+			"CS": {
+				"text": "Podtitulky mých dlaždic"
+			},
+			"DA": {
+				"text": "Min flise undertitel"
+			},
+			"NL": {
+				"text": "Mijn tegel ondertitel"
+			},
+			"ET": {
+				"text": "Minu plaadi alapealkiri"
+			},
+			"FI": {
+				"text": "Minun laattani alaotsikko"
+			},
+			"EL": {
+				"text": "Υπότιτλος πλακιδίων μου"
+			},
+			"HE": {
+				"text": "כותרת המשנה של האריח שלי"
+			},
+			"HU": {
+				"text": "Saját csempe alcím"
+			},
+			"IS": {
+				"text": "Undirtitill minn fyrir flísar"
+			},
+			"ID": {
+				"text": "Subjudul Ubin Saya"
+			},
+			"IT": {
+				"text": "Il mio sottotitolo Tile"
+			},
+			"JA": {
+				"text": "私のタイルのサブタイトル"
+			},
+			"KO": {
+				"text": "내 타일 자막"
+			},
+			"LV": {
+				"text": "Mana mozaīkas apakšvirsraksts"
+			},
+			"LT": {
+				"text": "Mano plytelės paantraštė"
+			},
+			"MS": {
+				"text": "Sari Kata Jubin Saya"
+			},
+			"PL": {
+				"text": "Mój podtytuł kafelka"
+			},
+			"RO": {
+				"text": "Subtitlul meu din dale"
+			},
+			"RU": {
+				"text": "Подзаголовок моей плитки"
+			},
+			"SE": {
+				"text": "Mu čállinvuohki"
+			},
+			"SR": {
+				"text": "Мој титл за плочице"
+			},
+			"SH": {
+				"text": "Мој титл за плочице"
+			},
+			"SK": {
+				"text": "Podtitul mojej dlaždice"
+			},
+			"SL": {
+				"text": "Podnaslov moje ploščice"
+			},
+			"SV": {
+				"text": "Min kakelunderrubrik"
+			},
+			"TH": {
+				"text": "คำบรรยายกระเบื้องของฉัน"
+			},
+			"TR": {
+				"text": "Benim Fayans Alt Yazım"
+			},
+			"UK": {
+				"text": "Підзаголовок моєї плитки"
+			},
+			"VI": {
+				"text": "Phụ đề Tile của tôi"
 			}
 		},
 		{
@@ -596,13 +3781,115 @@
 				"text": "<h4>Mein Text</h4><p>Was für ein cooler Text.</p>"
 			},
 			"ES": {
-				"text": "<h4>Mi texto</h4><p>¡Qué texto tan genial!</p>"
+				"text": "<h4>Mi texto</h4><p>Qué texto más genial.</p>"
 			},
 			"PT": {
 				"text": "<h4>Meu texto</h4><p>Que texto legal.</p>"
 			},
 			"NO": {
 				"text": "<h4>Min tekst</h4><p>For en kul tekst.</p>"
+			},
+			"AZ": {
+				"text": "<h4>Mətnim</h4><p>Nə gözəl mətndir.</p>"
+			},
+			"BG": {
+				"text": "<h4>Моят текст</h4><p>Какъв готин текст.</p>"
+			},
+			"ZH": {
+				"text": "<h4>我的短信</h4><p>好酷的短信。</p>"
+			},
+			"ZF": {
+				"text": "<h4>我的簡訊</h4><p>好酷的簡訊。 </p>"
+			},
+			"HR": {
+				"text": "<h4>Moja poruka</h4><p>Kakva super poruka.</p>"
+			},
+			"CS": {
+				"text": "<h4>Můj text</h4><p>To je ale skvělý text.</p>"
+			},
+			"DA": {
+				"text": "<h4>Min tekst</h4><p>Sikke en fed tekst.</p>"
+			},
+			"NL": {
+				"text": "<h4>Mijn tekst</h4><p>Wat een leuke tekst.</p>"
+			},
+			"ET": {
+				"text": "<h4>Minu tekst</h4><p>Milline lahe tekst.</p>"
+			},
+			"FI": {
+				"text": "<h4>Oma tekstini</h4><p>Mikä hieno teksti.</p>"
+			},
+			"EL": {
+				"text": "<h4>Το κείμενό μου</h4><p>Τι ωραίο κείμενο.</p>"
+			},
+			"HE": {
+				"text": "<h4>הטקסט שלי</h4><p>איזה טקסט מגניב.</p>"
+			},
+			"HU": {
+				"text": "<h4>Az én szövegem</h4><p>Milyen klassz szöveg.</p>"
+			},
+			"IS": {
+				"text": "<h4>Textinn minn</h4><p>Þetta er flottur texti.</p>"
+			},
+			"ID": {
+				"text": "<h4>Teks Saya</h4><p>Teks yang keren.</p>"
+			},
+			"IT": {
+				"text": "<h4>Il mio testo</h4><p>Che bel testo.</p>"
+			},
+			"JA": {
+				"text": "<h4>私のテキスト</h4><p>なんてクールなテキストでしょう。</p>"
+			},
+			"KO": {
+				"text": "<h4>내 문자 메시지</h4><p>정말 멋진 문자 메시지네요.</p>"
+			},
+			"LV": {
+				"text": "<h4>Mans teksts</h4><p>Cik foršs teksts.</p>"
+			},
+			"LT": {
+				"text": "<h4>Mano tekstas</h4><p>Koks šaunus tekstas.</p>"
+			},
+			"MS": {
+				"text": "<h4>Teks Saya</h4><p>Teks yang bagus.</p>"
+			},
+			"PL": {
+				"text": "<h4>Mój tekst</h4><p>Jaki fajny tekst.</p>"
+			},
+			"RO": {
+				"text": "<h4>Mesajul meu</h4><p>Ce mesaj fain!</p>"
+			},
+			"RU": {
+				"text": "<h4>Мой текст</h4><p>Какой классный текст.</p>"
+			},
+			"SE": {
+				"text": "<h4>Mu teaksta</h4><p>Man fiinna teaksta.</p>"
+			},
+			"SR": {
+				"text": "<h4>Мој текст</h4><p>Какав кул текст.</p>"
+			},
+			"SH": {
+				"text": "<h4>Мој текст</h4><p>Какав кул текст.</p>"
+			},
+			"SK": {
+				"text": "<h4>Môj text</h4><p>Aký skvelý text.</p>"
+			},
+			"SL": {
+				"text": "<h4>Moje besedilo</h4><p>Kakšno kul besedilo.</p>"
+			},
+			"SV": {
+				"text": "<h4>Min text</h4><p>Vilken cool text.</p>"
+			},
+			"TH": {
+				"text": "<h4>ข้อความของฉัน</h4><p>ข้อความเจ๋งมาก</p>"
+			},
+			"TR": {
+				"text": "<h4>Metnim</h4><p>Ne güzel bir metin.</p>"
+			},
+			"UK": {
+				"text": "<h4>Мій текст</h4><p>Який класний текст.</p>"
+			},
+			"VI": {
+				"text": "<h4>Văn bản của tôi</h4><p>Thật là một văn bản tuyệt vời.</p>"
 			}
 		},
 		{
@@ -630,6 +3917,108 @@
 			},
 			"NO": {
 				"text": "Formatert tekst"
+			},
+			"AZ": {
+				"text": "Formatlaşdırılmış Mətn"
+			},
+			"BG": {
+				"text": "Форматиран текст"
+			},
+			"ZH": {
+				"text": "格式化文本"
+			},
+			"ZF": {
+				"text": "格式化文字"
+			},
+			"HR": {
+				"text": "Formatirani tekst"
+			},
+			"CS": {
+				"text": "Formátovaný text"
+			},
+			"DA": {
+				"text": "Formateret tekst"
+			},
+			"NL": {
+				"text": "Geformatteerde tekst"
+			},
+			"ET": {
+				"text": "Vormindatud tekst"
+			},
+			"FI": {
+				"text": "Muotoiltu teksti"
+			},
+			"EL": {
+				"text": "Μορφοποιημένο κείμενο"
+			},
+			"HE": {
+				"text": "טקסט מעוצב"
+			},
+			"HU": {
+				"text": "Formázott szöveg"
+			},
+			"IS": {
+				"text": "Sniðinn texti"
+			},
+			"ID": {
+				"text": "Teks yang Diformat"
+			},
+			"IT": {
+				"text": "Testo formattato"
+			},
+			"JA": {
+				"text": "書式設定されたテキスト"
+			},
+			"KO": {
+				"text": "서식이 지정된 텍스트"
+			},
+			"LV": {
+				"text": "Formatēts teksts"
+			},
+			"LT": {
+				"text": "Formatuotas tekstas"
+			},
+			"MS": {
+				"text": "Teks Berformat"
+			},
+			"PL": {
+				"text": "Sformatowany tekst"
+			},
+			"RO": {
+				"text": "Text formatat"
+			},
+			"RU": {
+				"text": "Форматированный текст"
+			},
+			"SE": {
+				"text": "Formáhta teaksta"
+			},
+			"SR": {
+				"text": "Форматирани текст"
+			},
+			"SH": {
+				"text": "Форматирани текст"
+			},
+			"SK": {
+				"text": "Formátovaný text"
+			},
+			"SL": {
+				"text": "Oblikovano besedilo"
+			},
+			"SV": {
+				"text": "Formaterad text"
+			},
+			"TH": {
+				"text": "ข้อความที่จัดรูปแบบ"
+			},
+			"TR": {
+				"text": "Biçimlendirilmiş Metin"
+			},
+			"UK": {
+				"text": "Форматований текст"
+			},
+			"VI": {
+				"text": "Văn bản được định dạng"
 			}
 		},
 		{
@@ -650,13 +4039,115 @@
 				"text": "Mein Fliesentitel"
 			},
 			"ES": {
-				"text": "Mi título de mosaico"
+				"text": "Título de mi mosaico"
 			},
 			"PT": {
 				"text": "Título do meu azulejo"
 			},
 			"NO": {
 				"text": "Min flistittel"
+			},
+			"AZ": {
+				"text": "Mənim Kafel Başlığım"
+			},
+			"BG": {
+				"text": "Заглавие на моята плочка"
+			},
+			"ZH": {
+				"text": "我的标题"
+			},
+			"ZF": {
+				"text": "我的標題"
+			},
+			"HR": {
+				"text": "Naslov moje pločice"
+			},
+			"CS": {
+				"text": "Název mé dlaždice"
+			},
+			"DA": {
+				"text": "Min flisetitel"
+			},
+			"NL": {
+				"text": "Mijn tegeltitel"
+			},
+			"ET": {
+				"text": "Minu plaadi pealkiri"
+			},
+			"FI": {
+				"text": "Laatan otsikko"
+			},
+			"EL": {
+				"text": "Ο τίτλος του πλακιδίου μου"
+			},
+			"HE": {
+				"text": "כותרת האריח שלי"
+			},
+			"HU": {
+				"text": "A csempém címe"
+			},
+			"IS": {
+				"text": "Titill flísa míns"
+			},
+			"ID": {
+				"text": "Judul Ubin Saya"
+			},
+			"IT": {
+				"text": "Il titolo della mia tessera"
+			},
+			"JA": {
+				"text": "私のタイルのタイトル"
+			},
+			"KO": {
+				"text": "내 타일 제목"
+			},
+			"LV": {
+				"text": "Mana mozaīkas nosaukums"
+			},
+			"LT": {
+				"text": "Mano plytelės pavadinimas"
+			},
+			"MS": {
+				"text": "Tajuk Jubin Saya"
+			},
+			"PL": {
+				"text": "Mój tytuł kafelka"
+			},
+			"RO": {
+				"text": "Titlul meu de dale"
+			},
+			"RU": {
+				"text": "Название моей плитки"
+			},
+			"SE": {
+				"text": "Mu távvala namma"
+			},
+			"SR": {
+				"text": "Наслов моје плочице"
+			},
+			"SH": {
+				"text": "Наслов моје плочице"
+			},
+			"SK": {
+				"text": "Názov mojej dlaždice"
+			},
+			"SL": {
+				"text": "Naslov moje ploščice"
+			},
+			"SV": {
+				"text": "Min kakeltitel"
+			},
+			"TH": {
+				"text": "ชื่อกระเบื้องของฉัน"
+			},
+			"TR": {
+				"text": "Benim Karo Başlığım"
+			},
+			"UK": {
+				"text": "Назва моєї плитки"
+			},
+			"VI": {
+				"text": "Tiêu đề ô của tôi"
 			}
 		},
 		{
@@ -674,7 +4165,7 @@
 				"text": "MON MENU"
 			},
 			"DE": {
-				"text": "MEIN MENU"
+				"text": "MEIN SPEISEKARTE"
 			},
 			"ES": {
 				"text": "MI MENÚ"
@@ -684,6 +4175,108 @@
 			},
 			"NO": {
 				"text": "MIN MENY"
+			},
+			"AZ": {
+				"text": "MENYUM"
+			},
+			"BG": {
+				"text": "МОЕТО МЕНЮ"
+			},
+			"ZH": {
+				"text": "我的菜单"
+			},
+			"ZF": {
+				"text": "我的菜單"
+			},
+			"HR": {
+				"text": "MOJ JELOVNIK"
+			},
+			"CS": {
+				"text": "MOJE MENU"
+			},
+			"DA": {
+				"text": "MIN MENU"
+			},
+			"NL": {
+				"text": "MIJN MENU"
+			},
+			"ET": {
+				"text": "MINU MENÜÜ"
+			},
+			"FI": {
+				"text": "OMA VALIKKO"
+			},
+			"EL": {
+				"text": "ΤΟ ΜΕΝΟΥ ΜΟΥ"
+			},
+			"HE": {
+				"text": "התפריט שלי"
+			},
+			"HU": {
+				"text": "ÉTlapom"
+			},
+			"IS": {
+				"text": "MÍN MATSEÐILL"
+			},
+			"ID": {
+				"text": "MENU SAYA"
+			},
+			"IT": {
+				"text": "IL MIO MENU"
+			},
+			"JA": {
+				"text": "マイメニュー"
+			},
+			"KO": {
+				"text": "내 메뉴"
+			},
+			"LV": {
+				"text": "MANA ĒDIENKARTE"
+			},
+			"LT": {
+				"text": "MANO MENIU"
+			},
+			"MS": {
+				"text": "MENU SAYA"
+			},
+			"PL": {
+				"text": "MOJE MENU"
+			},
+			"RO": {
+				"text": "MENIUL MEU"
+			},
+			"RU": {
+				"text": "МОЕ МЕНЮ"
+			},
+			"SE": {
+				"text": "MU MENU"
+			},
+			"SR": {
+				"text": "МОЈ МЕНИ"
+			},
+			"SH": {
+				"text": "МОЈ МЕНИ"
+			},
+			"SK": {
+				"text": "MOJE MENU"
+			},
+			"SL": {
+				"text": "MOJ JEDILNIK"
+			},
+			"SV": {
+				"text": "MIN MENY"
+			},
+			"TH": {
+				"text": "เมนูของฉัน"
+			},
+			"TR": {
+				"text": "MENÜM"
+			},
+			"UK": {
+				"text": "МОЄ МЕНЮ"
+			},
+			"VI": {
+				"text": "THỰC ĐƠN CỦA TÔI"
 			}
 		},
 		{
@@ -711,6 +4304,108 @@
 			},
 			"NO": {
 				"text": "Undertittel for min flisegruppe"
+			},
+			"AZ": {
+				"text": "Mənim Kafel Qrupum Altyazı"
+			},
+			"BG": {
+				"text": "Подзаглавие на моята група плочки"
+			},
+			"ZH": {
+				"text": "我的图块组副标题"
+			},
+			"ZF": {
+				"text": "我的圖塊組副標題"
+			},
+			"HR": {
+				"text": "Podnaslov moje grupe pločica"
+			},
+			"CS": {
+				"text": "Podtitul skupiny Moje dlaždice"
+			},
+			"DA": {
+				"text": "Min flisegruppe undertitel"
+			},
+			"NL": {
+				"text": "Mijn tegelgroep-ondertitel"
+			},
+			"ET": {
+				"text": "Minu plaatide grupi alapealkiri"
+			},
+			"FI": {
+				"text": "Laattojeni ryhmän alaotsikko"
+			},
+			"EL": {
+				"text": "Υπότιτλος της ομάδας πλακιδίων μου"
+			},
+			"HE": {
+				"text": "כותרת המשנה של קבוצת האריחים שלי"
+			},
+			"HU": {
+				"text": "Saját csempecsoport alcíme"
+			},
+			"IS": {
+				"text": "Undirtitill flísahópsins míns"
+			},
+			"ID": {
+				"text": "Grup Ubin Saya Subjudul"
+			},
+			"IT": {
+				"text": "Sottotitolo del mio gruppo Tile"
+			},
+			"JA": {
+				"text": "私のタイルのグループのサブタイトル"
+			},
+			"KO": {
+				"text": "내 타일 그룹 자막"
+			},
+			"LV": {
+				"text": "Manas flīžu grupas apakšvirsraksts"
+			},
+			"LT": {
+				"text": "Mano plytelių grupės paantraštė"
+			},
+			"MS": {
+				"text": "Sarikata Kumpulan Jubin Saya"
+			},
+			"PL": {
+				"text": "Mój podtytuł grupy kafelków"
+			},
+			"RO": {
+				"text": "Subtitlul grupului meu de dale"
+			},
+			"RU": {
+				"text": "Подзаголовок моей группы плиток"
+			},
+			"SE": {
+				"text": "Mu távvala joavkku vuollečálus"
+			},
+			"SR": {
+				"text": "Моја група плочица поднаслов"
+			},
+			"SH": {
+				"text": "Моја група плочица поднаслов"
+			},
+			"SK": {
+				"text": "Podtitul mojej skupiny dlaždíc"
+			},
+			"SL": {
+				"text": "Podnaslov moje skupine ploščic"
+			},
+			"SV": {
+				"text": "Min kakelgrupps underrubrik"
+			},
+			"TH": {
+				"text": "คำบรรยายกลุ่มกระเบื้องของฉัน"
+			},
+			"TR": {
+				"text": "Benim Fayans Grubum Alt Başlığı"
+			},
+			"UK": {
+				"text": "Підзаголовок моєї групи плиток"
+			},
+			"VI": {
+				"text": "Phụ đề nhóm My Tile"
 			}
 		},
 		{
@@ -731,13 +4426,115 @@
 				"text": "Mein Kachelgruppentitel"
 			},
 			"ES": {
-				"text": "Título de mi grupo de azulejos"
+				"text": "Título de mi grupo de mosaicos"
 			},
 			"PT": {
 				"text": "Título do meu grupo de azulejos"
 			},
 			"NO": {
 				"text": "Min flisegruppetittel"
+			},
+			"AZ": {
+				"text": "Kafel Qrupumun Başlığı"
+			},
+			"BG": {
+				"text": "Заглавие на моята група плочки"
+			},
+			"ZH": {
+				"text": "我的图块组标题"
+			},
+			"ZF": {
+				"text": "我的圖塊組標題"
+			},
+			"HR": {
+				"text": "Naslov moje grupe pločica"
+			},
+			"CS": {
+				"text": "Název mé skupiny dlaždic"
+			},
+			"DA": {
+				"text": "Min flisegruppetitel"
+			},
+			"NL": {
+				"text": "Mijn tegelgroeptitel"
+			},
+			"ET": {
+				"text": "Minu plaatide grupi pealkiri"
+			},
+			"FI": {
+				"text": "Laattojeni ryhmän otsikko"
+			},
+			"EL": {
+				"text": "Ο τίτλος της ομάδας πλακιδίων μου"
+			},
+			"HE": {
+				"text": "כותרת קבוצת האריחים שלי"
+			},
+			"HU": {
+				"text": "Csempecsoportom címe"
+			},
+			"IS": {
+				"text": "Titill flísahópsins míns"
+			},
+			"ID": {
+				"text": "Judul Grup Ubin Saya"
+			},
+			"IT": {
+				"text": "Il titolo del mio gruppo di tessere"
+			},
+			"JA": {
+				"text": "私のタイルのグループタイトル"
+			},
+			"KO": {
+				"text": "내 타일 그룹 제목"
+			},
+			"LV": {
+				"text": "Manas flīžu grupas nosaukums"
+			},
+			"LT": {
+				"text": "Mano plytelių grupės pavadinimas"
+			},
+			"MS": {
+				"text": "Tajuk Kumpulan Tile Saya"
+			},
+			"PL": {
+				"text": "Mój tytuł grupy kafelków"
+			},
+			"RO": {
+				"text": "Titlul grupului meu de dale"
+			},
+			"RU": {
+				"text": "Название моей группы плиток"
+			},
+			"SE": {
+				"text": "Mu Tile-joavkku namma"
+			},
+			"SR": {
+				"text": "Наслов моје групе плочица"
+			},
+			"SH": {
+				"text": "Наслов моје групе плочица"
+			},
+			"SK": {
+				"text": "Názov mojej skupiny dlaždíc"
+			},
+			"SL": {
+				"text": "Naslov moje skupine ploščic"
+			},
+			"SV": {
+				"text": "Min kakelgruppstitel"
+			},
+			"TH": {
+				"text": "ชื่อกลุ่มกระเบื้องของฉัน"
+			},
+			"TR": {
+				"text": "Fayans Grubumun Başlığı"
+			},
+			"UK": {
+				"text": "Назва моєї групи плиток"
+			},
+			"VI": {
+				"text": "Tiêu đề nhóm gạch của tôi"
 			}
 		}
 	],
@@ -762,13 +4559,115 @@
 		},
 		{
 			"isoCode": "NO"
+		},
+		{
+			"isoCode": "AZ"
+		},
+		{
+			"isoCode": "BG"
+		},
+		{
+			"isoCode": "ZH"
+		},
+		{
+			"isoCode": "ZF"
+		},
+		{
+			"isoCode": "HR"
+		},
+		{
+			"isoCode": "CS"
+		},
+		{
+			"isoCode": "DA"
+		},
+		{
+			"isoCode": "NL"
+		},
+		{
+			"isoCode": "ET"
+		},
+		{
+			"isoCode": "FI"
+		},
+		{
+			"isoCode": "EL"
+		},
+		{
+			"isoCode": "HE"
+		},
+		{
+			"isoCode": "HU"
+		},
+		{
+			"isoCode": "IS"
+		},
+		{
+			"isoCode": "ID"
+		},
+		{
+			"isoCode": "IT"
+		},
+		{
+			"isoCode": "JA"
+		},
+		{
+			"isoCode": "KO"
+		},
+		{
+			"isoCode": "LV"
+		},
+		{
+			"isoCode": "LT"
+		},
+		{
+			"isoCode": "MS"
+		},
+		{
+			"isoCode": "PL"
+		},
+		{
+			"isoCode": "RO"
+		},
+		{
+			"isoCode": "RU"
+		},
+		{
+			"isoCode": "SE"
+		},
+		{
+			"isoCode": "SR"
+		},
+		{
+			"isoCode": "SH"
+		},
+		{
+			"isoCode": "SK"
+		},
+		{
+			"isoCode": "SL"
+		},
+		{
+			"isoCode": "SV"
+		},
+		{
+			"isoCode": "TH"
+		},
+		{
+			"isoCode": "TR"
+		},
+		{
+			"isoCode": "UK"
+		},
+		{
+			"isoCode": "VI"
 		}
 	],
 	"name": "promi18n",
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.11.23.2106",
+	"ver": "25.11.26.1459",
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"active": true,
 	"deleted": false,
@@ -783,10 +4682,16 @@
 			"ver": "25.11.23.1304"
 		},
 		{
+			"id": "8aa52daf-21cc-40d4-8e4f-dea0a9f0e0b9",
+			"application": "prom_textarea_binding",
+			"title": "",
+			"ver": "25.11.25.0125"
+		},
+		{
 			"id": "06969351-39b7-42e9-9c19-7e26a3ebf10a",
 			"application": "prom_i18n_formatter",
 			"title": "",
-			"ver": "25.11.24.0854"
+			"ver": "25.11.25.1648"
 		}
 	]
 }

@@ -8,7 +8,7 @@
 	},
 	"name": "prom-i18n",
 	"description": null,
-	"ver": "25.11.23.1757",
+	"ver": "25.11.24.0855",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -42,6 +42,11 @@
 	"api_authentication": [],
 	"api_group": [],
 	"tile": [
+		{
+			"id": "d4b660d6-eae3-4244-a4e4-7c503dafe04d",
+			"description": "{i18n.promi18n>puppy.h1},{i18n.promi18n>puppy.p1},{i18n.promi18n>puppy.p2},{i18n.promi18n>puppy.h2},{i18n.promi18n>puppy.p3}",
+			"name": "prom-i18n-puppy"
+		},
 		{
 			"id": "a417a0c7-340b-454d-9126-e5183930b7a4",
 			"description": null,
