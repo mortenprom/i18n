@@ -8,7 +8,7 @@
 	},
 	"name": "prom-i18n",
 	"description": null,
-	"ver": "25.11.24.0855",
+	"ver": "25.11.26.1520",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
