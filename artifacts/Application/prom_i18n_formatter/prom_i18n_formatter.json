@@ -85,25 +85,6 @@
 							],
 							"data": [
 								{
-									"fieldNo": "7685fc0b-418a-4674-b6fb-13ae386d861d",
-									"fieldName": "bootstrapText",
-									"fieldParent": "fff76352-9749-47f7-cb80-af13ad43ff43",
-									"fieldType": "nep.bootstrap.Text",
-									"script": "",
-									"request": [],
-									"response": [],
-									"attributes": [
-										{
-											"attribute": "text",
-											"grouping": "Properties",
-											"value": "My Bootstrap Text",
-											"script": "",
-											"translation": []
-										}
-									],
-									"data": []
-								},
-								{
 									"fieldNo": "9c2a14cb-5f2a-48f6-980c-abc2583ebd0a",
 									"fieldName": "myFormattedText",
 									"fieldParent": "fff76352-9749-47f7-cb80-af13ad43ff43",
@@ -136,6 +117,157 @@
 										}
 									],
 									"data": []
+								},
+								{
+									"fieldNo": "18881ec9-4a6f-4255-b17f-22d6f0a5bcaa",
+									"fieldName": "CSSGrid",
+									"fieldParent": "fff76352-9749-47f7-cb80-af13ad43ff43",
+									"fieldType": "sap.ui.layout.cssgrid.CSSGrid",
+									"script": "",
+									"bindingType": "h",
+									"bindingSource": "DataModel",
+									"bindingParentID": "34e38299-ea2d-4dbd-957d-0dd446096399",
+									"modelPath": "Cards>/",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "width",
+											"grouping": "Properties",
+											"value": "calc(100% - 2rem)",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "gridRowGap",
+											"grouping": "Properties",
+											"value": "1rem",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "gridColumnGap",
+											"grouping": "Properties",
+											"value": "1rem",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "gridGap",
+											"grouping": "Properties",
+											"value": "1rem",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "gridAutoFlow",
+											"grouping": "Properties",
+											"value": "Column",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "styleClassMargin",
+											"grouping": "Properties",
+											"value": "sapUiSmallMargin",
+											"script": "",
+											"translation": []
+										}
+									],
+									"data": [
+										{
+											"fieldNo": "050c21ed-53f9-4aad-d763-bfd36ede0945",
+											"fieldName": "customLayout",
+											"fieldParent": "18881ec9-4a6f-4255-b17f-22d6f0a5bcaa",
+											"fieldType": "neptune.Aggregation",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [
+												{
+													"attribute": "aggregation",
+													"grouping": "Aggregation",
+													"value": "customLayout",
+													"script": "",
+													"translation": []
+												}
+											],
+											"data": [
+												{
+													"fieldNo": "2e0ec4c9-e978-4780-e638-3d7ae5645f63",
+													"fieldName": "GridBoxLayout",
+													"fieldParent": "050c21ed-53f9-4aad-d763-bfd36ede0945",
+													"fieldType": "sap.ui.layout.cssgrid.GridBoxLayout",
+													"script": "",
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "boxesPerRowConfig",
+															"grouping": "Properties",
+															"value": "XL6 L4 M3 S2",
+															"script": "",
+															"translation": []
+														}
+													],
+													"data": []
+												}
+											]
+										},
+										{
+											"fieldNo": "ac13867b-fb21-4e2b-e0eb-18c9e5e6e11e",
+											"fieldName": "Card",
+											"fieldParent": "18881ec9-4a6f-4255-b17f-22d6f0a5bcaa",
+											"fieldType": "sap.f.Card",
+											"script": "",
+											"request": [],
+											"response": [],
+											"attributes": [],
+											"data": [
+												{
+													"fieldNo": "69001b6b-e7b0-4abd-e89f-8cd90a352519",
+													"fieldName": "Header",
+													"fieldParent": "ac13867b-fb21-4e2b-e0eb-18c9e5e6e11e",
+													"fieldType": "sap.f.cards.Header",
+													"script": "",
+													"request": [],
+													"response": [],
+													"attributes": [
+														{
+															"attribute": "title",
+															"grouping": "Properties",
+															"value": "{Cards>number},{i18n>title.one},{i18n>title.more},{i18n>title.zero}",
+															"script": "",
+															"translation": []
+														},
+														{
+															"attribute": "statusText",
+															"grouping": "Properties",
+															"value": "{Cards>number}",
+															"script": "",
+															"translation": []
+														},
+														{
+															"attribute": "iconSrc",
+															"grouping": "Properties",
+															"value": "sap-icon://nep/action-settings",
+															"script": "",
+															"translation": []
+														},
+														{
+															"attribute": "title",
+															"grouping": "Formatter",
+															"value": "Anonymous Function",
+															"script": "file://event/sap.f.cards.Header/Header/title.js",
+															"language": "javascript",
+															"translation": []
+														}
+													],
+													"data": []
+												}
+											]
+										}
+									]
 								}
 							]
 						}
@@ -145,7 +277,34 @@
 		},
 		{
 			"fieldNo": 99999,
-			"data": []
+			"data": [
+				{
+					"fieldNo": "34e38299-ea2d-4dbd-957d-0dd446096399",
+					"fieldName": "Cards",
+					"fieldParent": 99999,
+					"fieldType": "neptune.model",
+					"script": "",
+					"bindingValue": "Generic Array",
+					"assignDefaultData": true,
+					"bindingType": "h",
+					"bindingSource": "P9",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				},
+				{
+					"fieldNo": "a205d384-2e7c-4f4f-830a-ef70ce1078e6",
+					"fieldName": "Typescript",
+					"fieldParent": 99999,
+					"fieldType": "neptune.Typescript",
+					"script": "file://script/neptune.Typescript/Typescript.ts",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
 		},
 		{
 			"fieldNo": 99998,
@@ -153,7 +312,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.11.26.2041",
+	"ver": "25.11.27.0150",
 	"application": "prom_i18n_formatter",
 	"title": "",
 	"description": "",
@@ -167,7 +326,7 @@
 	"loadApplicationCode": null,
 	"appType": "A",
 	"ui5_m": true,
-	"ui5_f": false,
+	"ui5_f": true,
 	"ui5_table": false,
 	"ui5_tnt": false,
 	"ui5_uxap": false,
@@ -187,7 +346,7 @@
 	"libHighchart": false,
 	"libHighmap": false,
 	"publicAccess": false,
-	"ui5_bootstrap": true,
+	"ui5_bootstrap": false,
 	"ui5_ionic": false,
 	"useV2AppHandler": false,
 	"compilerTarget": 3,
@@ -208,7 +367,7 @@
 			"id": "49fd77b0-8330-498b-9106-ce05a2e97940",
 			"name": "prom_i18n_formatter",
 			"application": "prom_i18n_formatter",
-			"ver": "25.11.26.2041"
+			"ver": "25.11.27.0150"
 		}
 	]
 }

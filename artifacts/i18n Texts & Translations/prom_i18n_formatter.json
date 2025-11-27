@@ -2,17 +2,780 @@
 	"id": "49fd77b0-8330-498b-9106-ce05a2e97940",
 	"createdAt": "2025-11-23T12:08:55.205Z",
 	"createdBy": "morten@neptune-software.com",
-	"attributes": [],
+	"attributes": [
+		{
+			"name": "title",
+			"EN": {},
+			"type": "NOTR",
+			"id": "b3e02b66-0eb8-4380-ad42-d29ecfb4f972",
+			"AF": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"CA": {
+				"text": ""
+			},
+			"CE": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HI": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KK": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MK": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"NN": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			},
+			"CY": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "title",
+			"parentId": "b3e02b66-0eb8-4380-ad42-d29ecfb4f972",
+			"name": "title.one",
+			"text": "There is one husky home alone",
+			"EN": {
+				"text": "There is one husky home alone"
+			},
+			"type": "XTXT",
+			"id": "ed6be216-d628-4312-e99f-53229810193a",
+			"AF": {
+				"text": "Daar is een husky alleen by die huis"
+			},
+			"AR": {
+				"text": "هناك منزل واحد فقط لكلب الهاسكي"
+			},
+			"AZ": {
+				"text": "Yalnız bir husky ev var"
+			},
+			"BG": {
+				"text": "Има само едно хъски вкъщи"
+			},
+			"CA": {
+				"text": "Hi ha un robust sol a casa"
+			},
+			"CE": {
+				"text": "Цхьа хаски ву цӀахь ша цхьаъ ."
+			},
+			"ZH": {
+				"text": "家里有一只哈士奇独自在家。"
+			},
+			"ZF": {
+				"text": "家裡有一隻哈士奇獨自在家。"
+			},
+			"HR": {
+				"text": "Postoji samo jedan haskijev dom"
+			},
+			"CS": {
+				"text": "Je tam jeden husky, který žije sám doma"
+			},
+			"DA": {
+				"text": "Der er én husky alene hjemme"
+			},
+			"NL": {
+				"text": "Er is één husky alleen thuis"
+			},
+			"ET": {
+				"text": "Üks husky on kodus üksi"
+			},
+			"FI": {
+				"text": "Yksinäinen husky on kotona"
+			},
+			"FR": {
+				"text": "Il y a un husky seul à la maison"
+			},
+			"DE": {
+				"text": "Ein Husky ist allein zu Hause."
+			},
+			"EL": {
+				"text": "Υπάρχει ένα χάσκι μόνο στο σπίτι"
+			},
+			"HE": {
+				"text": "יש כלב האסקי אחד לבד בבית"
+			},
+			"HI": {
+				"text": "घर पर एक हस्की अकेला है"
+			},
+			"HU": {
+				"text": "Van egy husky otthon egyedül"
+			},
+			"IS": {
+				"text": "Það er einn husky hundur einn heima"
+			},
+			"ID": {
+				"text": "Ada satu husky yang tinggal sendirian di rumah"
+			},
+			"IT": {
+				"text": "C'è un husky a casa da solo"
+			},
+			"JA": {
+				"text": "家にハスキー犬が一匹いる"
+			},
+			"KK": {
+				"text": "Жалғыз үйшік бар"
+			},
+			"KO": {
+				"text": "허스키 한 마리가 혼자 집에 있어요"
+			},
+			"LV": {
+				"text": "Ir viens haskijs mājās viens pats"
+			},
+			"LT": {
+				"text": "Yra vienas haskis namuose vienas"
+			},
+			"MK": {
+				"text": "Има еден хаски сам дома"
+			},
+			"MS": {
+				"text": "Ada satu rumah husky sahaja"
+			},
+			"NO": {
+				"text": "Det er én husky alene hjemme"
+			},
+			"NN": {
+				"text": "Det er én husky alene hjemme"
+			},
+			"PL": {
+				"text": "Jest jeden husky sam w domu"
+			},
+			"PT": {
+				"text": "Há um husky sozinho em casa"
+			},
+			"RO": {
+				"text": "Există un husky singur acasă"
+			},
+			"RU": {
+				"text": "Дома есть один хаски."
+			},
+			"SE": {
+				"text": "Ruovttus lea okta husky okto"
+			},
+			"SR": {
+				"text": "Постоји само један хаски дом"
+			},
+			"SH": {
+				"text": "Постоји само један хаски дом"
+			},
+			"SK": {
+				"text": "Je tam jeden husky, ktorý žije sám"
+			},
+			"SL": {
+				"text": "Samo en haski je doma"
+			},
+			"ES": {
+				"text": "Hay un husky solo en casa"
+			},
+			"SV": {
+				"text": "Det finns en ensam husky hemma"
+			},
+			"TH": {
+				"text": "มีสุนัขพันธุ์ฮัสกี้ตัวหนึ่งอยู่บ้านคนเดียว"
+			},
+			"TR": {
+				"text": "Evde yalnız bir husky var"
+			},
+			"UK": {
+				"text": "Є один хаскі вдома, сам"
+			},
+			"VI": {
+				"text": "Có một chú chó husky ở nhà một mình"
+			},
+			"CY": {
+				"text": "Mae un husky gartref ar ei ben ei hun"
+			}
+		},
+		{
+			"parent": "title",
+			"parentId": "b3e02b66-0eb8-4380-ad42-d29ecfb4f972",
+			"name": "title.more",
+			"text": "There are {0} huskies home",
+			"EN": {
+				"text": "There are {0} huskies home"
+			},
+			"type": "XTXT",
+			"id": "b9614ad4-0f7d-4844-b4a4-7c74013e8696",
+			"AF": {
+				"text": "Daar is {0} husky's tuis"
+			},
+			"AR": {
+				"text": "هناك {0} من كلاب الهاسكي في المنزل"
+			},
+			"AZ": {
+				"text": "Evdə {0} huski var"
+			},
+			"BG": {
+				"text": "Има {0} хъскита вкъщи"
+			},
+			"CA": {
+				"text": "Hi ha {0} huskies a casa"
+			},
+			"CE": {
+				"text": "Цигахь {0} хаскиш ю цӀахь"
+			},
+			"ZH": {
+				"text": "家中有{0}只哈士奇"
+			},
+			"ZF": {
+				"text": "家中有{0}只哈士奇"
+			},
+			"HR": {
+				"text": "Kod kuće ima {0} haskija"
+			},
+			"CS": {
+				"text": "Doma je {0} huskyů"
+			},
+			"DA": {
+				"text": "Der er {0} huskyer hjemme"
+			},
+			"NL": {
+				"text": "Er zijn {0} husky's thuis"
+			},
+			"ET": {
+				"text": "Kodus on {0} huskyt"
+			},
+			"FI": {
+				"text": "Kotona on {0} huskyä"
+			},
+			"FR": {
+				"text": "Il y a {0} huskies à la maison"
+			},
+			"DE": {
+				"text": "Es gibt {0} Huskys zu Hause"
+			},
+			"EL": {
+				"text": "Υπάρχουν {0} χάσκι στο σπίτι"
+			},
+			"HE": {
+				"text": "יש {0} האסקיים בבית"
+			},
+			"HI": {
+				"text": "घर पर {0} हस्की हैं"
+			},
+			"HU": {
+				"text": "{0} husky van otthon"
+			},
+			"IS": {
+				"text": "Það eru {0} husky-hundar heima"
+			},
+			"ID": {
+				"text": "Ada {0} husky di rumah"
+			},
+			"IT": {
+				"text": "Ci sono {0} husky a casa"
+			},
+			"JA": {
+				"text": "ハスキー犬が{0}匹います"
+			},
+			"KK": {
+				"text": "Үйде {0} хаски бар"
+			},
+			"KO": {
+				"text": "집에 허스키가 {0}마리 있습니다"
+			},
+			"LV": {
+				"text": "Mājās ir {0} haskiji"
+			},
+			"LT": {
+				"text": "Namuose yra {0} haskiai"
+			},
+			"MK": {
+				"text": "Има {0} хаски дома"
+			},
+			"MS": {
+				"text": "Terdapat {0} huskies di rumah"
+			},
+			"NO": {
+				"text": "Det er {0} huskyer hjemme"
+			},
+			"NN": {
+				"text": "Det er {0} huskyer hjemme"
+			},
+			"PL": {
+				"text": "W domu jest {0} husky"
+			},
+			"PT": {
+				"text": "Há {0} huskies em casa"
+			},
+			"RO": {
+				"text": "Sunt {0} huskies acasă"
+			},
+			"RU": {
+				"text": "Дома есть {0} хаски."
+			},
+			"SE": {
+				"text": "Ruovttus leat {0} huskies"
+			},
+			"SR": {
+				"text": "Има {0} хаскија код куће"
+			},
+			"SH": {
+				"text": "Има {0} хаскија код куће"
+			},
+			"SK": {
+				"text": "Doma je {0} huskyov"
+			},
+			"SL": {
+				"text": "Doma je {0} haskijev"
+			},
+			"ES": {
+				"text": "Hay {0} huskies en casa"
+			},
+			"SV": {
+				"text": "Det finns {0} huskies hemma"
+			},
+			"TH": {
+				"text": "มีสุนัขพันธุ์ฮัสกี้ {0} ตัวอยู่ที่บ้าน"
+			},
+			"TR": {
+				"text": "Evde {0} tane husky var"
+			},
+			"UK": {
+				"text": "Вдома є {0} хаскі"
+			},
+			"VI": {
+				"text": "Có {0} chú chó husky ở nhà"
+			},
+			"CY": {
+				"text": "Mae {0} o huskies gartref"
+			}
+		},
+		{
+			"parent": "title",
+			"parentId": "b3e02b66-0eb8-4380-ad42-d29ecfb4f972",
+			"name": "title.zero",
+			"text": "All the huskies are out",
+			"EN": {
+				"text": "All the huskies are out"
+			},
+			"type": "XTXT",
+			"id": "6be6d64d-df22-4aef-fb35-79e6d446d4cf",
+			"AF": {
+				"text": "Al die huskies is uit"
+			},
+			"AR": {
+				"text": "جميع الهاسكي خارج"
+			},
+			"AZ": {
+				"text": "Bütün huskilər çıxdı"
+			},
+			"BG": {
+				"text": "Всички хъскита са навън"
+			},
+			"CA": {
+				"text": "Tots els huskies són fora"
+			},
+			"CE": {
+				"text": "Дерриге а хаскиш араевлла ."
+			},
+			"ZH": {
+				"text": "所有的哈士奇都出去了"
+			},
+			"ZF": {
+				"text": "所有的哈士奇都出去了"
+			},
+			"HR": {
+				"text": "Svi haskiji su vani"
+			},
+			"CS": {
+				"text": "Všichni huskyové jsou venku"
+			},
+			"DA": {
+				"text": "Alle huskyerne er ude"
+			},
+			"NL": {
+				"text": "Alle husky's zijn buiten"
+			},
+			"ET": {
+				"text": "Kõik huskyd on väljas"
+			},
+			"FI": {
+				"text": "Kaikki huskyt ovat ulkona"
+			},
+			"FR": {
+				"text": "Tous les huskies sont sortis"
+			},
+			"DE": {
+				"text": "Alle Huskys sind draußen"
+			},
+			"EL": {
+				"text": "Όλα τα χάσκι είναι έξω"
+			},
+			"HE": {
+				"text": "כל ההאסקיס בחוץ"
+			},
+			"HI": {
+				"text": "सभी हस्की बाहर हैं"
+			},
+			"HU": {
+				"text": "Minden husky kint van"
+			},
+			"IS": {
+				"text": "Allir husky-hundarnir eru úti"
+			},
+			"ID": {
+				"text": "Semua husky keluar"
+			},
+			"IT": {
+				"text": "Tutti gli husky sono fuori"
+			},
+			"JA": {
+				"text": "ハスキー犬はみんな外に出ている"
+			},
+			"KK": {
+				"text": "Хаскилердің барлығы шықты"
+			},
+			"KO": {
+				"text": "허스키들이 다 나왔어요"
+			},
+			"LV": {
+				"text": "Visi haskiji ir ārā"
+			},
+			"LT": {
+				"text": "Visi haskiai išėjo"
+			},
+			"MK": {
+				"text": "Сите хаски се надвор"
+			},
+			"MS": {
+				"text": "Semua husky sudah keluar"
+			},
+			"NO": {
+				"text": "Alle huskyene er ute"
+			},
+			"NN": {
+				"text": "Alle huskyene er ute"
+			},
+			"PL": {
+				"text": "Wszystkie husky wyszły"
+			},
+			"PT": {
+				"text": "Todos os huskies estão fora."
+			},
+			"RO": {
+				"text": "Toți husky-ii sunt afară"
+			},
+			"RU": {
+				"text": "Все хаски вышли"
+			},
+			"SE": {
+				"text": "Buot huskit leat olggos"
+			},
+			"SR": {
+				"text": "Сви хаскији су напољу"
+			},
+			"SH": {
+				"text": "Сви хаскији су напољу"
+			},
+			"SK": {
+				"text": "Všetci huskyovia sú vonku"
+			},
+			"SL": {
+				"text": "Vsi haskiji so zunaj"
+			},
+			"ES": {
+				"text": "Todos los huskies están fuera"
+			},
+			"SV": {
+				"text": "Alla huskyhundar är ute"
+			},
+			"TH": {
+				"text": "ฮัสกี้ทั้งหมดออกไปแล้ว"
+			},
+			"TR": {
+				"text": "Tüm Sibirya kurdu dışarıda"
+			},
+			"UK": {
+				"text": "Всі хаскі вийшли"
+			},
+			"VI": {
+				"text": "Tất cả các chú chó Husky đều ra ngoài"
+			},
+			"CY": {
+				"text": "Mae'r holl huskies allan"
+			}
+		}
+	],
 	"locales": [
 		{
 			"isoCode": "EN"
+		},
+		{
+			"isoCode": "EN"
+		},
+		{
+			"isoCode": "AF"
+		},
+		{
+			"isoCode": "AR"
+		},
+		{
+			"isoCode": "AZ"
+		},
+		{
+			"isoCode": "BG"
+		},
+		{
+			"isoCode": "CA"
+		},
+		{
+			"isoCode": "CE"
+		},
+		{
+			"isoCode": "ZH"
+		},
+		{
+			"isoCode": "ZF"
+		},
+		{
+			"isoCode": "HR"
+		},
+		{
+			"isoCode": "CS"
+		},
+		{
+			"isoCode": "DA"
+		},
+		{
+			"isoCode": "NL"
+		},
+		{
+			"isoCode": "ET"
+		},
+		{
+			"isoCode": "FI"
+		},
+		{
+			"isoCode": "FR"
+		},
+		{
+			"isoCode": "DE"
+		},
+		{
+			"isoCode": "EL"
+		},
+		{
+			"isoCode": "HE"
+		},
+		{
+			"isoCode": "HI"
+		},
+		{
+			"isoCode": "HU"
+		},
+		{
+			"isoCode": "IS"
+		},
+		{
+			"isoCode": "ID"
+		},
+		{
+			"isoCode": "IT"
+		},
+		{
+			"isoCode": "JA"
+		},
+		{
+			"isoCode": "KK"
+		},
+		{
+			"isoCode": "KO"
+		},
+		{
+			"isoCode": "LV"
+		},
+		{
+			"isoCode": "LT"
+		},
+		{
+			"isoCode": "MK"
+		},
+		{
+			"isoCode": "MS"
+		},
+		{
+			"isoCode": "NO"
+		},
+		{
+			"isoCode": "NN"
+		},
+		{
+			"isoCode": "PL"
+		},
+		{
+			"isoCode": "PT"
+		},
+		{
+			"isoCode": "RO"
+		},
+		{
+			"isoCode": "RU"
+		},
+		{
+			"isoCode": "SE"
+		},
+		{
+			"isoCode": "SR"
+		},
+		{
+			"isoCode": "SH"
+		},
+		{
+			"isoCode": "SK"
+		},
+		{
+			"isoCode": "SL"
+		},
+		{
+			"isoCode": "ES"
+		},
+		{
+			"isoCode": "SV"
+		},
+		{
+			"isoCode": "TH"
+		},
+		{
+			"isoCode": "TR"
+		},
+		{
+			"isoCode": "UK"
+		},
+		{
+			"isoCode": "VI"
+		},
+		{
+			"isoCode": "CY"
 		}
 	],
 	"name": "prom_i18n_formatter",
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": "prom_i18n_formatter",
-	"ver": "25.11.26.2041",
+	"ver": "25.11.27.0150",
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"active": true,
 	"deleted": false,
@@ -24,7 +787,7 @@
 			"id": "06969351-39b7-42e9-9c19-7e26a3ebf10a",
 			"application": "prom_i18n_formatter",
 			"title": "",
-			"ver": "25.11.26.2041"
+			"ver": "25.11.27.0150"
 		}
 	]
 }
