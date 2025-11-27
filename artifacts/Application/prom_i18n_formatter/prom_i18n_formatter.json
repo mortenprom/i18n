@@ -85,6 +85,40 @@
 							],
 							"data": [
 								{
+									"fieldNo": "99f43a57-18c8-485a-cc5b-acc4e243cbdd",
+									"fieldName": "myGreeting",
+									"fieldParent": "fff76352-9749-47f7-cb80-af13ad43ff43",
+									"fieldType": "sap.m.FormattedText",
+									"script": "",
+									"request": [],
+									"response": [],
+									"attributes": [
+										{
+											"attribute": "htmlText",
+											"grouping": "Properties",
+											"value": "{i18n.promi18n>viking.greeting.goodafternoon},{i18n.promi18n>viking.greeting.goodevening},{i18n.promi18n>viking.greeting.goodmorning},{i18n.promi18n>viking.quotes.q0},{i18n.promi18n>viking.quotes.q1},{i18n.promi18n>viking.quotes.q2},{i18n.promi18n>viking.quotes.q3},{i18n.promi18n>viking.quotes.q4},{i18n.promi18n>viking.quotes.q5},{i18n.promi18n>viking.quotes.q6},{i18n.promi18n>viking.quotes.q7},{i18n.promi18n>viking.quotes.q8},{i18n.promi18n>viking.quotes.q9}",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "styleClassMargin",
+											"grouping": "Properties",
+											"value": "sapUiMediumMarginTopBottom",
+											"script": "",
+											"translation": []
+										},
+										{
+											"attribute": "htmlText",
+											"grouping": "Formatter",
+											"value": "Anonymous Function",
+											"script": "file://event/sap.m.FormattedText/myGreeting/htmlText.js",
+											"language": "javascript",
+											"translation": []
+										}
+									],
+									"data": []
+								},
+								{
 									"fieldNo": "9c2a14cb-5f2a-48f6-980c-abc2583ebd0a",
 									"fieldName": "myFormattedText",
 									"fieldParent": "fff76352-9749-47f7-cb80-af13ad43ff43",
@@ -103,7 +137,7 @@
 										{
 											"attribute": "styleClassMargin",
 											"grouping": "Properties",
-											"value": "sapUiMediumMarginTop",
+											"value": "sapUiMediumMarginTopBottom",
 											"script": "",
 											"translation": []
 										},
@@ -312,7 +346,7 @@
 		}
 	],
 	"componentInterface": [],
-	"ver": "25.11.27.0150",
+	"ver": "25.11.27.0950",
 	"application": "prom_i18n_formatter",
 	"title": "",
 	"description": "",
@@ -361,13 +395,13 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.26.1459"
+			"ver": "25.11.27.1022"
 		},
 		{
 			"id": "49fd77b0-8330-498b-9106-ce05a2e97940",
 			"name": "prom_i18n_formatter",
 			"application": "prom_i18n_formatter",
-			"ver": "25.11.27.0150"
+			"ver": "25.11.27.0950"
 		}
 	]
 }

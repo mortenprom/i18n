@@ -74,7 +74,7 @@
 		"loginTitle": "{i18n.promi18n>launchpadLoginTitle}",
 		"loginSubTitle": "{i18n.promi18n>launchpadLoginSubtitle}",
 		"autolock": 0,
-		"pincode": true,
+		"pincode": false,
 		"pincodeTries": 5,
 		"pincodeLength": 4,
 		"pincodeKeyIterations": 40000,
@@ -109,7 +109,7 @@
 	"ui5Version": "",
 	"ui5Url": null,
 	"ui5Theme": "sap_horizon",
-	"header": null,
+	"header": "",
 	"customTheme": null,
 	"isExternal": false,
 	"emailPattern": null,
@@ -131,8 +131,8 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.11.26.1449",
-	"pwa_enable": true,
+	"ver": "25.11.27.1013",
+	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
 	"pwa_customImageAndroidNew": null,
@@ -154,7 +154,7 @@
 			"id": "a79e1269-ce68-4758-b631-8d0bdfbc012c",
 			"name": "prom-i18n",
 			"title": "{i18n.promi18n>tilegroupTitle}",
-			"ver": "25.11.26.1451"
+			"ver": "25.11.27.1013"
 		}
 	],
 	"roles": [],
@@ -163,7 +163,7 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.26.1459"
+			"ver": "25.11.27.1022"
 		}
 	]
 }

@@ -10,7 +10,7 @@
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {
-		"text": "{i18n.promi18n>htmlMsg.titleTop},{i18n.promi18n>htmlMsg.paragraph1}",
+		"text": "{i18n.promi18n>viking.greeting.goodafternoon},{i18n.promi18n>viking.greeting.goodevening},{i18n.promi18n>viking.greeting.goodmorning},{i18n.promi18n>viking.quotes.q0},{i18n.promi18n>viking.quotes.q1},{i18n.promi18n>viking.quotes.q2},{i18n.promi18n>viking.quotes.q3},{i18n.promi18n>viking.quotes.q4},{i18n.promi18n>viking.quotes.q5},{i18n.promi18n>viking.quotes.q6},{i18n.promi18n>viking.quotes.q7},{i18n.promi18n>viking.quotes.q8},{i18n.promi18n>viking.quotes.q9}",
 		"formmater": [
 			"==OBJECT STRING==",
 			"if (!i18n_promi18n_nestedTop_nestedChild_nestedContent) i18n_promi18n_nestedTop_nestedChild_nestedContent = \"\";\r",
@@ -26,14 +26,31 @@
 		],
 		"formatter": [
 			"==OBJECT STRING==",
-			"if (!i18n_promi18n_htmlMsg_titleTop) i18n_promi18n_htmlMsg_titleTop = \"\";\r",
-			"if (!i18n_promi18n_htmlMsg_paragraph1) i18n_promi18n_htmlMsg_paragraph1 = \"\";\r",
-			"return `\r",
-			"    <h2>${i18n_promi18n_htmlMsg_titleTop}</h2>\r",
-			"    <p>${i18n_promi18n_htmlMsg_paragraph1}</p>\r",
-			"`;\r",
+			"let greeting = \"\";\r",
+			"const hour = new Date().getHours();\r",
+			"if (hour < 12) greeting = i18n_promi18n_viking_greeting_goodmorning;\r",
+			"else if (hour < 18) greeting = i18n_promi18n_viking_greeting_goodafternoon;\r",
+			"else greeting = i18n_promi18n_viking_greeting_goodevening;\r",
 			"\r",
-			""
+			"let quote = \"\";\r",
+			"const random = Math.floor(Math.random() * 10);\r",
+			"if (random === 0) quote = i18n_promi18n_viking_quotes_q0;\r",
+			"else if (random === 1) quote = i18n_promi18n_viking_quotes_q1;\r",
+			"else if (random === 2) quote = i18n_promi18n_viking_quotes_q2;\r",
+			"else if (random === 3) quote = i18n_promi18n_viking_quotes_q3;\r",
+			"else if (random === 4) quote = i18n_promi18n_viking_quotes_q4;\r",
+			"else if (random === 5) quote = i18n_promi18n_viking_quotes_q5;\r",
+			"else if (random === 6) quote = i18n_promi18n_viking_quotes_q6;\r",
+			"else if (random === 7) quote = i18n_promi18n_viking_quotes_q7;\r",
+			"else if (random === 8) quote = i18n_promi18n_viking_quotes_q8;\r",
+			"else if (random === 9) quote = i18n_promi18n_viking_quotes_q9;\r",
+			"\r",
+			"const user = (AppCache?.userInfo?.name) ? `, ${AppCache?.userInfo?.name}` : ''\r",
+			"\r",
+			"return `\r",
+			"    <h2>${greeting}${user}</h2>\r",
+			"    <p>${quote}</p>\r",
+			"`;"
 		]
 	},
 	"navbarGroupOrder": [],
@@ -57,7 +74,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.11.26.1451",
+	"ver": "25.11.27.1013",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -152,7 +169,7 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.26.1459"
+			"ver": "25.11.27.1022"
 		}
 	]
 }

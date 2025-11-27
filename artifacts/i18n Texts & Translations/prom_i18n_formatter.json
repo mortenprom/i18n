@@ -775,7 +775,7 @@
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": "prom_i18n_formatter",
-	"ver": "25.11.27.0150",
+	"ver": "25.11.27.0950",
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"active": true,
 	"deleted": false,
@@ -787,7 +787,7 @@
 			"id": "06969351-39b7-42e9-9c19-7e26a3ebf10a",
 			"application": "prom_i18n_formatter",
 			"title": "",
-			"ver": "25.11.27.0150"
+			"ver": "25.11.27.0950"
 		}
 	]
 }

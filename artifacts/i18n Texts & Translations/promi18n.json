@@ -4536,6 +4536,2091 @@
 			"VI": {
 				"text": "Tiêu đề nhóm gạch của tôi"
 			}
+		},
+		{
+			"name": "viking",
+			"EN": {},
+			"type": "NOTR",
+			"id": "c081c84e-6440-4125-df31-b36008f51cf2",
+			"AR": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "viking",
+			"parentId": "c081c84e-6440-4125-df31-b36008f51cf2",
+			"name": "viking.greeting",
+			"EN": {},
+			"type": "NOTR",
+			"id": "1f515235-bf30-4fdc-a184-3cbee88c1d6b",
+			"AR": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "viking.greeting",
+			"parentId": "1f515235-bf30-4fdc-a184-3cbee88c1d6b",
+			"name": "viking.greeting.goodafternoon",
+			"text": "Good Afternoon",
+			"EN": {
+				"text": "Good Afternoon"
+			},
+			"type": "XTXT",
+			"id": "9e2de3f3-46aa-461a-ae87-bb30264232f6",
+			"AR": {
+				"text": "مساء الخير"
+			},
+			"FR": {
+				"text": "Bon après-midi"
+			},
+			"DE": {
+				"text": "Guten Tag"
+			},
+			"ES": {
+				"text": "Buenas tardes"
+			},
+			"PT": {
+				"text": "Boa tarde"
+			},
+			"NO": {
+				"text": "God ettermiddag"
+			},
+			"AZ": {
+				"text": "Günortanız xeyir"
+			},
+			"BG": {
+				"text": "Добър ден"
+			},
+			"ZH": {
+				"text": "下午好"
+			},
+			"ZF": {
+				"text": "午安"
+			},
+			"HR": {
+				"text": "Dobar dan"
+			},
+			"CS": {
+				"text": "Dobré odpoledne"
+			},
+			"DA": {
+				"text": "God eftermiddag"
+			},
+			"NL": {
+				"text": "Goedemiddag"
+			},
+			"ET": {
+				"text": "Tere päevast"
+			},
+			"FI": {
+				"text": "Hyvää iltapäivää"
+			},
+			"EL": {
+				"text": "Καλημέρα"
+			},
+			"HE": {
+				"text": "צהריים טובים"
+			},
+			"HU": {
+				"text": "Jó napot"
+			},
+			"IS": {
+				"text": "Góðan daginn"
+			},
+			"ID": {
+				"text": "Selamat siang"
+			},
+			"IT": {
+				"text": "Buon pomeriggio"
+			},
+			"JA": {
+				"text": "こんにちは"
+			},
+			"KO": {
+				"text": "좋은 오후에요"
+			},
+			"LV": {
+				"text": "Labdien"
+			},
+			"LT": {
+				"text": "Laba diena"
+			},
+			"MS": {
+				"text": "Selamat Petang"
+			},
+			"PL": {
+				"text": "Dzień dobry"
+			},
+			"RO": {
+				"text": "Bună ziua"
+			},
+			"RU": {
+				"text": "Добрый день"
+			},
+			"SE": {
+				"text": "Buorre beaivi"
+			},
+			"SR": {
+				"text": "Добар дан"
+			},
+			"SH": {
+				"text": "Добар дан"
+			},
+			"SK": {
+				"text": "Dobré popoludnie"
+			},
+			"SL": {
+				"text": "Dober dan"
+			},
+			"SV": {
+				"text": "God eftermiddag"
+			},
+			"TH": {
+				"text": "สวัสดีตอนบ่าย"
+			},
+			"TR": {
+				"text": "Tünaydın"
+			},
+			"UK": {
+				"text": "Доброго дня"
+			},
+			"VI": {
+				"text": "Chào buổi chiều"
+			}
+		},
+		{
+			"parent": "viking.greeting",
+			"parentId": "1f515235-bf30-4fdc-a184-3cbee88c1d6b",
+			"name": "viking.greeting.goodevening",
+			"text": "Good Evening",
+			"EN": {
+				"text": "Good Evening"
+			},
+			"type": "XTXT",
+			"id": "ba7a5294-9929-465e-c018-1029d5efeafe",
+			"AR": {
+				"text": "مساء الخير"
+			},
+			"FR": {
+				"text": "Bonne soirée"
+			},
+			"DE": {
+				"text": "Guten Abend"
+			},
+			"ES": {
+				"text": "Buenas noches"
+			},
+			"PT": {
+				"text": "Boa noite"
+			},
+			"NO": {
+				"text": "God kveld"
+			},
+			"AZ": {
+				"text": "Axşamınız Xeyir"
+			},
+			"BG": {
+				"text": "Добър вечер"
+			},
+			"ZH": {
+				"text": "晚上好"
+			},
+			"ZF": {
+				"text": "晚安"
+			},
+			"HR": {
+				"text": "Dobra večer"
+			},
+			"CS": {
+				"text": "Dobrý večer"
+			},
+			"DA": {
+				"text": "God aften"
+			},
+			"NL": {
+				"text": "Goedeavond"
+			},
+			"ET": {
+				"text": "Tere õhtust"
+			},
+			"FI": {
+				"text": "Hyvää iltaa"
+			},
+			"EL": {
+				"text": "Καλησπέρα"
+			},
+			"HE": {
+				"text": "ערב טוב"
+			},
+			"HU": {
+				"text": "Jó estét"
+			},
+			"IS": {
+				"text": "Gott kvöld"
+			},
+			"ID": {
+				"text": "Selamat malam"
+			},
+			"IT": {
+				"text": "Buonasera"
+			},
+			"JA": {
+				"text": "こんばんは"
+			},
+			"KO": {
+				"text": "좋은 저녁이에요"
+			},
+			"LV": {
+				"text": "Labvakar"
+			},
+			"LT": {
+				"text": "Labas vakaras"
+			},
+			"MS": {
+				"text": "Selamat Petang"
+			},
+			"PL": {
+				"text": "Dobry wieczór"
+			},
+			"RO": {
+				"text": "Bună seara"
+			},
+			"RU": {
+				"text": "Добрый вечер"
+			},
+			"SE": {
+				"text": "Buorre eahket"
+			},
+			"SR": {
+				"text": "Добро вече"
+			},
+			"SH": {
+				"text": "Добро вече"
+			},
+			"SK": {
+				"text": "Dobrý večer"
+			},
+			"SL": {
+				"text": "Dober večer"
+			},
+			"SV": {
+				"text": "God afton"
+			},
+			"TH": {
+				"text": "สวัสดีตอนเย็น"
+			},
+			"TR": {
+				"text": "İyi akşamlar"
+			},
+			"UK": {
+				"text": "Доброго вечора"
+			},
+			"VI": {
+				"text": "Buổi tối vui vẻ"
+			}
+		},
+		{
+			"parent": "viking.greeting",
+			"parentId": "1f515235-bf30-4fdc-a184-3cbee88c1d6b",
+			"name": "viking.greeting.goodmorning",
+			"text": "Good Morning",
+			"EN": {
+				"text": "Good Morning"
+			},
+			"type": "XTXT",
+			"id": "d1d55ce6-9c9e-4ff5-bd05-9da0c55834f3",
+			"AR": {
+				"text": "صباح الخير"
+			},
+			"FR": {
+				"text": "Bonjour"
+			},
+			"DE": {
+				"text": "Guten Morgen"
+			},
+			"ES": {
+				"text": "Buen día"
+			},
+			"PT": {
+				"text": "Bom dia"
+			},
+			"NO": {
+				"text": "God morgen"
+			},
+			"AZ": {
+				"text": "Sabahiniz xeyir"
+			},
+			"BG": {
+				"text": "Добро утро"
+			},
+			"ZH": {
+				"text": "早上好"
+			},
+			"ZF": {
+				"text": "早安"
+			},
+			"HR": {
+				"text": "Dobro jutro"
+			},
+			"CS": {
+				"text": "Dobré ráno"
+			},
+			"DA": {
+				"text": "Godmorgen"
+			},
+			"NL": {
+				"text": "Goedemorgen"
+			},
+			"ET": {
+				"text": "Tere hommikust"
+			},
+			"FI": {
+				"text": "Hyvää huomenta"
+			},
+			"EL": {
+				"text": "Καλημέρα"
+			},
+			"HE": {
+				"text": "בוקר טוב"
+			},
+			"HU": {
+				"text": "Jó reggelt"
+			},
+			"IS": {
+				"text": "Góðan daginn"
+			},
+			"ID": {
+				"text": "Selamat pagi"
+			},
+			"IT": {
+				"text": "Buongiorno"
+			},
+			"JA": {
+				"text": "おはよう"
+			},
+			"KO": {
+				"text": "좋은 아침이에요"
+			},
+			"LV": {
+				"text": "Labrīt"
+			},
+			"LT": {
+				"text": "Labas rytas"
+			},
+			"MS": {
+				"text": "Selamat Pagi"
+			},
+			"PL": {
+				"text": "Dzień dobry"
+			},
+			"RO": {
+				"text": "Bună dimineaţa"
+			},
+			"RU": {
+				"text": "Доброе утро"
+			},
+			"SE": {
+				"text": "Buorre iđit"
+			},
+			"SR": {
+				"text": "Добро јутро"
+			},
+			"SH": {
+				"text": "Добро јутро"
+			},
+			"SK": {
+				"text": "Dobré ráno"
+			},
+			"SL": {
+				"text": "Dobro jutro"
+			},
+			"SV": {
+				"text": "God morgon"
+			},
+			"TH": {
+				"text": "สวัสดีตอนเช้า"
+			},
+			"TR": {
+				"text": "Günaydın"
+			},
+			"UK": {
+				"text": "Доброго ранку"
+			},
+			"VI": {
+				"text": "Chào buổi sáng"
+			}
+		},
+		{
+			"parent": "viking",
+			"parentId": "c081c84e-6440-4125-df31-b36008f51cf2",
+			"name": "viking.quotes",
+			"EN": {},
+			"type": "NOTR",
+			"id": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"AR": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q0",
+			"text": "Success is like a Fjord: Deep, cold, and best admired from a safe distance.",
+			"EN": {
+				"text": "Success is like a Fjord: Deep, cold, and best admired from a safe distance."
+			},
+			"type": "XTXT",
+			"id": "d59e8842-921c-4013-d340-a6b20ee95141",
+			"AR": {
+				"text": "النجاح يشبه المضيق البحري: عميق، بارد، ومن الأفضل الإعجاب به من مسافة آمنة."
+			},
+			"FR": {
+				"text": "Le succès est comme un fjord : profond, froid, et il vaut mieux l'admirer de loin."
+			},
+			"DE": {
+				"text": "Erfolg ist wie ein Fjord: tief, kalt und am besten aus sicherer Entfernung zu bewundern."
+			},
+			"ES": {
+				"text": "El éxito es como un fiordo: profundo, frío y se admira mejor desde una distancia segura."
+			},
+			"PT": {
+				"text": "O sucesso é como um fiorde: profundo, frio e melhor admirado a uma distância segura."
+			},
+			"NO": {
+				"text": "Suksess er som en fjord: Dyp, kald og best beundret fra trygg avstand."
+			},
+			"AZ": {
+				"text": "Müvəffəqiyyət Fjord kimidir: Dərin, soyuq və təhlükəsiz məsafədən ən yaxşı heyran."
+			},
+			"BG": {
+				"text": "Успехът е като фиорд: дълбок, студен и най-добре се възхищава от безопасно разстояние."
+			},
+			"ZH": {
+				"text": "成功就像峡湾：深邃、冰冷，最好远观。"
+			},
+			"ZF": {
+				"text": "成功就像峽灣：深邃、冰冷，最好遠觀。"
+			},
+			"HR": {
+				"text": "Uspjeh je poput fjorda: dubok, hladan i najbolje ga je diviti s sigurne udaljenosti."
+			},
+			"CS": {
+				"text": "Úspěch je jako fjord: hluboký, chladný a nejlépe obdivovatelný z bezpečné vzdálenosti."
+			},
+			"DA": {
+				"text": "Succes er som en fjord: Dyb, kold og bedst beundret fra sikker afstand."
+			},
+			"NL": {
+				"text": "Succes is als een fjord: diep, koud en het beste te bewonderen vanaf een veilige afstand."
+			},
+			"ET": {
+				"text": "Edu on nagu fjord: sügav, külm ja kõige parem on seda imetleda ohutust kaugusest."
+			},
+			"FI": {
+				"text": "Menestys on kuin vuono: syvä, kylmä ja parasta ihailla turvallisen välimatkan päästä."
+			},
+			"EL": {
+				"text": "Η επιτυχία είναι σαν ένα φιόρδ: Βαθύ, κρύο, και καλύτερα να το θαυμάσεις από ασφαλή απόσταση."
+			},
+			"HE": {
+				"text": "הצלחה היא כמו פיורד: עמוק, קר, והכי טוב להעריץ אותה ממרחק בטוח."
+			},
+			"HU": {
+				"text": "A siker olyan, mint egy fjord: mély, hideg, és a legjobb biztonságos távolságból csodálni."
+			},
+			"IS": {
+				"text": "Velgengni er eins og fjörður: Djúpur, kaldur og best aðdáunarverður úr öruggri fjarlægð."
+			},
+			"ID": {
+				"text": "Kesuksesan itu seperti Fjord: Dalam, dingin, dan paling baik dikagumi dari jarak yang aman."
+			},
+			"IT": {
+				"text": "Il successo è come un fiordo: profondo, freddo e si ammira meglio da una distanza di sicurezza."
+			},
+			"JA": {
+				"text": "成功はフィヨルドのようなものです。深く、冷たく、安全な距離から眺めるのが一番です。"
+			},
+			"KO": {
+				"text": "성공은 피오르드와 같습니다. 깊고, 차갑고, 안전한 거리에서 감상하는 것이 가장 좋습니다."
+			},
+			"LV": {
+				"text": "Panākumi ir kā fjords: dziļš, auksts un vislabāk apbrīnojams no droša attāluma."
+			},
+			"LT": {
+				"text": "Sėkmė – kaip fiordas: gilus, šaltas ir geriausia ja žavėtis iš saugaus atstumo."
+			},
+			"MS": {
+				"text": "Kejayaan adalah seperti Fjord: Dalam, sejuk, dan paling dikagumi dari jarak yang selamat."
+			},
+			"PL": {
+				"text": "Sukces jest jak fiord: głęboki, zimny i najlepiej podziwiać go z bezpiecznej odległości."
+			},
+			"RO": {
+				"text": "Succesul este ca un fiord: adânc, rece și cel mai bine admirat de la o distanță sigură."
+			},
+			"RU": {
+				"text": "Успех подобен фьорду: глубокий, холодный, которым лучше всего любоваться с безопасного расстояния."
+			},
+			"SE": {
+				"text": "Menestuvvan lea dego Fjord: Govda, galbma ja buoremusat bealuštit dorvvolaš guhkkin eret."
+			},
+			"SR": {
+				"text": "Успех је као фјорд: дубок, хладан и најбоље му се дивити са безбедне удаљености."
+			},
+			"SH": {
+				"text": "Успех је као фјорд: дубок, хладан и најбоље му се дивити са безбедне удаљености."
+			},
+			"SK": {
+				"text": "Úspech je ako fjord: hlboký, chladný a najlepšie ho obdivovať z bezpečnej vzdialenosti."
+			},
+			"SL": {
+				"text": "Uspeh je kot fjord: globok, hladen in ga je najbolje občudovati z varne razdalje."
+			},
+			"SV": {
+				"text": "Framgång är som en fjord: Djup, kall och bäst beundrad från säkert avstånd."
+			},
+			"TH": {
+				"text": "ความสำเร็จเปรียบเสมือนฟยอร์ด ลึก เย็น และชื่นชมได้ดีที่สุดจากระยะที่ปลอดภัย"
+			},
+			"TR": {
+				"text": "Başarı bir fiyort gibidir: Derin, soğuk ve en iyi güvenli bir mesafeden hayranlıkla izlenir."
+			},
+			"UK": {
+				"text": "Успіх — як фіорд: глибокий, холодний, і ним найкраще милуватися з безпечної відстані."
+			},
+			"VI": {
+				"text": "Thành công giống như một vịnh hẹp: Sâu, lạnh và tốt nhất nên chiêm ngưỡng từ một khoảng cách an toàn."
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q1",
+			"text": "Remember: There is no such thing as bad code, only bad clothing.",
+			"EN": {
+				"text": "Remember: There is no such thing as bad code, only bad clothing."
+			},
+			"type": "XTXT",
+			"id": "b44003f7-2028-4480-f8d3-50eb955019fa",
+			"AR": {
+				"text": "تذكر: لا يوجد شيء اسمه كود سيء، بل ملابس سيئة فقط."
+			},
+			"FR": {
+				"text": "N'oubliez pas : il n'y a pas de mauvais code, seulement de mauvais vêtements."
+			},
+			"DE": {
+				"text": "Merke: Es gibt keinen schlechten Code, nur unpassende Kleidung."
+			},
+			"ES": {
+				"text": "Recuerda: no existe código malo, solo mala ropa."
+			},
+			"PT": {
+				"text": "Lembre-se: Não existe código ruim, apenas roupa ruim."
+			},
+			"NO": {
+				"text": "Husk: Det finnes ikke dårlig kodeks, bare dårlige klær."
+			},
+			"AZ": {
+				"text": "Unutmayın: Pis kod deyilən bir şey yoxdur, yalnız pis geyim var."
+			},
+			"BG": {
+				"text": "Запомнете: Няма такова нещо като лош код, има само лошо облекло."
+			},
+			"ZH": {
+				"text": "记住：没有糟糕的代码，只有糟糕的穿着。"
+			},
+			"ZF": {
+				"text": "記住：沒有糟糕的程式碼，只有糟糕的穿著。"
+			},
+			"HR": {
+				"text": "Zapamtite: Ne postoji loš kod, samo loša odjeća."
+			},
+			"CS": {
+				"text": "Pamatujte: Neexistuje nic jako špatný kód, existuje jen špatné oblečení."
+			},
+			"DA": {
+				"text": "Husk: Der findes ikke dårlig kodeks, kun dårligt tøj."
+			},
+			"NL": {
+				"text": "Onthoud: er bestaat niet zoiets als slechte code, alleen slechte kleding."
+			},
+			"ET": {
+				"text": "Pea meeles: halba koodeksit pole olemas, on ainult halb riietus."
+			},
+			"FI": {
+				"text": "Muista: Ei ole olemassa huonoa koodia, on vain huonoja vaatteita."
+			},
+			"EL": {
+				"text": "Να θυμάστε: Δεν υπάρχει κακός κώδικας, μόνο κακά ρούχα."
+			},
+			"HE": {
+				"text": "זכרו: אין דבר כזה קוד רע, רק בגדים רעים."
+			},
+			"HU": {
+				"text": "Ne feledd: Nincs olyan, hogy rossz kód, csak rossz ruházat."
+			},
+			"IS": {
+				"text": "Mundu: Það er ekkert til sem heitir slæmur kóði, aðeins slæmur klæðnaður."
+			},
+			"ID": {
+				"text": "Ingat: Tidak ada yang namanya kode yang buruk, yang ada hanya pakaian yang buruk."
+			},
+			"IT": {
+				"text": "Ricorda: non esiste un codice sbagliato, esiste solo un abbigliamento sbagliato."
+			},
+			"JA": {
+				"text": "覚えておいてください: 悪いコードというものは存在せず、悪い服装があるだけです。"
+			},
+			"KO": {
+				"text": "기억하세요: 나쁜 코드란 없다. 나쁜 옷차림만 있을 뿐이다."
+			},
+			"LV": {
+				"text": "Atcerieties: nav tādas lietas kā slikts kodekss, ir tikai slikts apģērbs."
+			},
+			"LT": {
+				"text": "Atminkite: nėra tokio dalyko kaip blogas kodas, yra tik bloga apranga."
+			},
+			"MS": {
+				"text": "Ingat: Tiada kod buruk, hanya pakaian yang buruk."
+			},
+			"PL": {
+				"text": "Pamiętaj: nie ma czegoś takiego jak zły kod, jest tylko zły ubiór."
+			},
+			"RO": {
+				"text": "Nu uita: Nu există așa ceva ca un cod prost, ci doar îmbrăcăminte proastă."
+			},
+			"RU": {
+				"text": "Помните: не существует плохого кода, есть только плохая одежда."
+			},
+			"SE": {
+				"text": "Muitte: Ii leat dakkár ášši go heajos koda, dušše heajos biktasat."
+			},
+			"SR": {
+				"text": "Запамтите: Не постоји лош код, само лоша одећа."
+			},
+			"SH": {
+				"text": "Запамтите: Не постоји лош код, само лоша одећа."
+			},
+			"SK": {
+				"text": "Pamätajte: Neexistuje nič také ako zlý kód, iba zlé oblečenie."
+			},
+			"SL": {
+				"text": "Ne pozabite: Slaba koda ne obstaja, obstajajo samo slaba oblačila."
+			},
+			"SV": {
+				"text": "Kom ihåg: Det finns ingen dålig kod, bara dåliga kläder."
+			},
+			"TH": {
+				"text": "จำไว้ว่า: ไม่มีสิ่งที่เรียกว่าโค้ดที่ไม่ดี มีเพียงเสื้อผ้าที่ไม่ดีเท่านั้น"
+			},
+			"TR": {
+				"text": "Unutmayın: Kötü kod diye bir şey yoktur, sadece kötü kıyafet vardır."
+			},
+			"UK": {
+				"text": "Пам’ятайте: не існує поганого коду, є поганий одяг."
+			},
+			"VI": {
+				"text": "Hãy nhớ: Không có mã xấu, chỉ có quần áo xấu."
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q2",
+			"text": "Today's Goal: Be as productive as the oil fund, but as chill as a Sunday in Tromsø.",
+			"EN": {
+				"text": "Today's Goal: Be as productive as the oil fund, but as chill as a Sunday in Tromsø."
+			},
+			"type": "XTXT",
+			"id": "cd0b56bf-4410-4139-c03d-b000ccb2cadd",
+			"AR": {
+				"text": "هدف اليوم: أن نكون منتجين مثل صندوق النفط، ولكن هادئين مثل يوم الأحد في ترومسو."
+			},
+			"FR": {
+				"text": "Objectif du jour : être aussi productif que le fonds pétrolier, mais aussi détendu qu’un dimanche à Tromsø."
+			},
+			"DE": {
+				"text": "Heutiges Ziel: So produktiv sein wie der Ölfonds, aber so entspannt wie ein Sonntag in Tromsø."
+			},
+			"ES": {
+				"text": "El objetivo de hoy: Ser tan productivo como el fondo petrolero, pero tan tranquilo como un domingo en Tromsø."
+			},
+			"PT": {
+				"text": "Meta de hoje: Ser tão produtivo quanto o fundo petrolífero, mas tão tranquilo quanto um domingo em Tromsø."
+			},
+			"NO": {
+				"text": "Dagens mål: Være like produktiv som oljefondet, men like avslappet som en søndag i Tromsø."
+			},
+			"AZ": {
+				"text": "Bugünkü Məqsəd: Neft fondu kimi məhsuldar olun, amma Tromsoda bazar günü kimi soyuq olun."
+			},
+			"BG": {
+				"text": "Днешната цел: Да бъдем продуктивни като петролния фонд, но спокойни като неделя в Тромсьо."
+			},
+			"ZH": {
+				"text": "今日目标：像石油基金一样高效，像特罗姆瑟的星期天一样轻松自在。"
+			},
+			"ZF": {
+				"text": "今日目標：像石油基金一樣高效，像特羅姆瑟的星期天一樣輕鬆自在。"
+			},
+			"HR": {
+				"text": "Današnji cilj: Biti produktivan kao naftni fond, ali opušten kao nedjelja u Tromsøu."
+			},
+			"CS": {
+				"text": "Dnešní cíl: Být produktivní jako ropný fond, ale zároveň pohodový jako neděle v Tromsø."
+			},
+			"DA": {
+				"text": "Dagens mål: Vær lige så produktiv som oliefonden, men lige så afslappet som en søndag i Tromsø."
+			},
+			"NL": {
+				"text": "Doel van vandaag: Zo productief zijn als het oliefonds, maar zo ontspannen als een zondag in Tromsø."
+			},
+			"ET": {
+				"text": "Tänane eesmärk: Olla sama produktiivne kui naftafond, aga sama rahulik kui pühapäev Tromsøs."
+			},
+			"FI": {
+				"text": "Päivän tavoite: Olla yhtä tuottelias kuin öljyrahasto, mutta yhtä rento kuin sunnuntai Tromssassa."
+			},
+			"EL": {
+				"text": "Στόχος σήμερα: Να είσαι τόσο παραγωγικός όσο το ταμείο πετρελαίου, αλλά τόσο χαλαρός όσο μια Κυριακή στο Τρόμσε."
+			},
+			"HE": {
+				"text": "המטרה של היום: להיות פרודוקטיביים כמו קרן הנפט, אבל רגועים כמו יום ראשון בטרומסה."
+			},
+			"HU": {
+				"text": "Mai cél: Légy olyan produktív, mint az olajalap, de olyan laza, mint egy vasárnap Tromsøben."
+			},
+			"IS": {
+				"text": "Markmið dagsins: Að vera jafn afkastamikill og olíusjóðurinn, en jafn afslappaður og sunnudagur í Tromsø."
+			},
+			"ID": {
+				"text": "Tujuan Hari Ini: Menjadi produktif seperti dana minyak, tetapi sesantai hari Minggu di Tromsø."
+			},
+			"IT": {
+				"text": "Obiettivo di oggi: essere produttivi come il fondo petrolifero, ma rilassati come una domenica a Tromsø."
+			},
+			"JA": {
+				"text": "今日の目標: 石油基金と同じくらい生産的でありながら、トロムソの日曜日と同じくらいリラックスする。"
+			},
+			"KO": {
+				"text": "오늘의 목표: 석유 펀드만큼 생산적이면서도 트롬쇠의 일요일만큼 느긋하게 지내는 것."
+			},
+			"LV": {
+				"text": "Šodienas mērķis: būt tikpat produktīvam kā naftas fonds, bet tikpat mierīgam kā svētdiena Tromsē."
+			},
+			"LT": {
+				"text": "Šiandienos tikslas: būti tokiam pat produktyviam kaip naftos fondas, bet tokiam pat ramiam kaip sekmadienis Tromsėje."
+			},
+			"MS": {
+				"text": "Matlamat Hari Ini: Jadilah produktif seperti dana minyak, tetapi sedingin hari Ahad di Tromsø."
+			},
+			"PL": {
+				"text": "Cel na dziś: Być tak produktywnym jak fundusz naftowy, ale tak spokojnym jak niedziela w Tromsø."
+			},
+			"RO": {
+				"text": "Obiectivul zilei: Să fii la fel de productiv ca fondul petrolier, dar la fel de relaxat ca o duminică în Tromsø."
+			},
+			"RU": {
+				"text": "Цель на сегодня: быть таким же продуктивным, как нефтяной фонд, но таким же расслабленным, как воскресенье в Тромсё."
+			},
+			"SE": {
+				"text": "Otná mihttomearri: Leat seammá buvttadeaddji go oljofoanda, muhto seammá chill go sotnabeaivi Romssas."
+			},
+			"SR": {
+				"text": "Данашњи циљ: Бити продуктиван као нафтни фонд, али опуштен као недеља у Тромсеу."
+			},
+			"SH": {
+				"text": "Данашњи циљ: Бити продуктиван као нафтни фонд, али опуштен као недеља у Тромсеу."
+			},
+			"SK": {
+				"text": "Dnešný cieľ: Byť produktívny ako ropný fond, ale zároveň pohodový ako nedeľa v Tromsø."
+			},
+			"SL": {
+				"text": "Današnji cilj: Biti tako produktiven kot naftni sklad, a hkrati tako sproščen kot nedelja v Tromsøju."
+			},
+			"SV": {
+				"text": "Dagens mål: Vara lika produktiv som oljefonden, men lika avslappnad som en söndag i Tromsø."
+			},
+			"TH": {
+				"text": "เป้าหมายของวันนี้: มีประสิทธิผลเท่ากับกองทุนน้ำมัน แต่ก็ผ่อนคลายเหมือนวันอาทิตย์ในเมืองทรอมโซ"
+			},
+			"TR": {
+				"text": "Bugünün Hedefi: Petrol fonu kadar üretken, ama Tromsø'deki bir pazar günü kadar sakin olmak."
+			},
+			"UK": {
+				"text": "Мета на сьогодні: Бути таким же продуктивним, як нафтовий фонд, але таким же спокійним, як неділя в Тромсе."
+			},
+			"VI": {
+				"text": "Mục tiêu hôm nay: Làm việc hiệu quả như quỹ dầu mỏ, nhưng vẫn thoải mái như một ngày Chủ Nhật ở Tromsø."
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q3",
+			"text": "Please maintain a 5-meter social distance from your monitor. It's not a virus thing, it's just Norwegian culture.",
+			"EN": {
+				"text": "Please maintain a 5-meter social distance from your monitor. It's not a virus thing, it's just Norwegian culture."
+			},
+			"type": "XTXT",
+			"id": "e8fa6f93-f650-4f2d-f5bf-4237ace6112a",
+			"AR": {
+				"text": "يرجى الحفاظ على مسافة خمسة أمتار بينك وبين شاشتك. الأمر ليس متعلقًا بفيروس، بل هو جزء من الثقافة النرويجية."
+			},
+			"FR": {
+				"text": "Veuillez maintenir une distance de 5 mètres avec votre écran. Ce n'est pas lié au virus, c'est simplement une coutume norvégienne."
+			},
+			"DE": {
+				"text": "Bitte halten Sie einen Abstand von 5 Metern zu Ihrem Monitor ein. Das hat nichts mit dem Virus zu tun, sondern ist einfach Teil der norwegischen Kultur."
+			},
+			"ES": {
+				"text": "Por favor, mantenga una distancia social de 5 metros con su monitor. No es un virus, es simplemente la cultura noruega."
+			},
+			"PT": {
+				"text": "Por favor, mantenha uma distância de 5 metros do seu monitor. Não é uma questão de vírus, é apenas um costume norueguês."
+			},
+			"NO": {
+				"text": "Vennligst hold 5 meters avstand til skjermen din. Det er ikke et virusproblem, det er bare norsk kultur."
+			},
+			"AZ": {
+				"text": "Zəhmət olmasa monitorunuzla 5 metrlik sosial məsafə saxlayın. Bu, virus deyil, sadəcə Norveç mədəniyyətidir."
+			},
+			"BG": {
+				"text": "Моля, спазвайте 5-метрова социална дистанция от монитора си. Това не е свързано с вирус, а просто с норвежката култура."
+			},
+			"ZH": {
+				"text": "请与显示器保持5米社交距离。这并非出于防疫考虑，而是挪威的文化习俗。"
+			},
+			"ZF": {
+				"text": "請與顯示器保持5米社交距離。這並非出於防疫考慮，而是挪威的文化習俗。"
+			},
+			"HR": {
+				"text": "Molimo vas da držite socijalnu distancu od 5 metara od svog monitora. Nije stvar u virusu, to je jednostavno norveška kultura."
+			},
+			"CS": {
+				"text": "Dodržujte prosím pětimetrový odstup od monitoru. Není to kvůli viru, je to prostě norská kultura."
+			},
+			"DA": {
+				"text": "Hold venligst 5 meters afstand til din skærm. Det er ikke en virus-ting, det er bare norsk kultur."
+			},
+			"NL": {
+				"text": "Houd 5 meter afstand van je monitor. Het is geen virusprobleem, het is gewoon de Noorse cultuur."
+			},
+			"ET": {
+				"text": "Palun hoidke monitorist 5-meetrist sotsiaalset distantsi. See pole viiruse asi, see on lihtsalt Norra kultuur."
+			},
+			"FI": {
+				"text": "Pidäthän viiden metrin turvavälin näyttöön. Kyse ei ole viruksesta, vaan norjalaisesta kulttuurista."
+			},
+			"EL": {
+				"text": "Παρακαλώ διατηρήστε κοινωνική απόσταση 5 μέτρων από την οθόνη σας. Δεν είναι θέμα ιού, είναι απλώς η νορβηγική κουλτούρα."
+			},
+			"HE": {
+				"text": "אנא שמרו על מרחק חברתי של 5 מטרים מהמסך שלכם. זה לא עניין של וירוס, זו פשוט התרבות הנורווגית."
+			},
+			"HU": {
+				"text": "Kérjük, tartson 5 méteres távolságot a monitorától. Ez nem vírus, ez csak a norvég kultúra része."
+			},
+			"IS": {
+				"text": "Vinsamlegast haldið 5 metra fjarlægð frá skjánum ykkar. Þetta er ekki vegna veiru, þetta er bara norsk menning."
+			},
+			"ID": {
+				"text": "Mohon jaga jarak sosial 5 meter dari monitor Anda. Ini bukan virus, ini hanya budaya Norwegia."
+			},
+			"IT": {
+				"text": "Si prega di mantenere una distanza sociale di 5 metri dal monitor. Non è una questione di virus, è solo la cultura norvegese."
+			},
+			"JA": {
+				"text": "モニターから5メートルの社会的距離を保ってください。これはウイルスの問題ではなく、ノルウェーの文化です。"
+			},
+			"KO": {
+				"text": "모니터에서 5미터 거리를 유지해 주세요. 바이러스 문제가 아니라 노르웨이 문화일 뿐입니다."
+			},
+			"LV": {
+				"text": "Lūdzu, ievērojiet 5 metru sociālo distanci no monitora. Tas nav vīruss, tā ir vienkārši norvēģu kultūra."
+			},
+			"LT": {
+				"text": "Prašome laikytis 5 metrų socialinio atstumo nuo monitoriaus. Tai ne viruso problema, tai tiesiog Norvegijos kultūros dalis."
+			},
+			"MS": {
+				"text": "Sila kekalkan jarak sosial 5 meter dari monitor anda. Ia bukan perkara virus, ia hanya budaya Norway."
+			},
+			"PL": {
+				"text": "Proszę zachować 5-metrowy dystans społeczny od monitora. To nie kwestia wirusa, to po prostu norweska kultura."
+			},
+			"RO": {
+				"text": "Vă rugăm să păstrați o distanță socială de 5 metri față de monitor. Nu este vorba de un virus, este doar cultura norvegiană."
+			},
+			"RU": {
+				"text": "Пожалуйста, соблюдайте социальную дистанцию в 5 метров от монитора. Это не вирус, это просто норвежская культура."
+			},
+			"SE": {
+				"text": "Doala 5 mehtera sosiála gaskka čuovggas. Dat ii leat virusášši, dat lea dušše norgga kultuvra."
+			},
+			"SR": {
+				"text": "Молимо вас да одржавате дистанцу од 5 метара од свог монитора. То није ствар вируса, то је једноставно норвешка култура."
+			},
+			"SH": {
+				"text": "Молимо вас да одржавате социјалну дистанцу од 5 метара од свог монитора. То није ствар вируса, то је једноставно норвешка култура."
+			},
+			"SK": {
+				"text": "Prosím, dodržiavajte 5-metrový odstup od monitora. Nie je to vírusová záležitosť, je to jednoducho nórska kultúra."
+			},
+			"SL": {
+				"text": "Prosimo, ohranjajte 5-metrsko razdaljo od monitorja. To ni stvar virusa, ampak norveška kultura."
+			},
+			"SV": {
+				"text": "Vänligen håll 5 meters avstånd från din skärm. Det är inte ett virusproblem, det är bara norsk kultur."
+			},
+			"TH": {
+				"text": "โปรดรักษาระยะห่างทางสังคม 5 เมตรจากหน้าจอของคุณ ไม่ใช่เรื่องไวรัสหรอก มันเป็นแค่วัฒนธรรมนอร์เวย์"
+			},
+			"TR": {
+				"text": "Lütfen monitörünüzle aranızda 5 metrelik sosyal mesafeyi koruyun. Bu bir virüs meselesi değil, sadece Norveç kültürü."
+			},
+			"UK": {
+				"text": "Будь ласка, дотримуйтесь 5-метрової соціальної дистанції від вашого монітора. Це не проблема вірусу, це просто норвезька культура."
+			},
+			"VI": {
+				"text": "Vui lòng giữ khoảng cách xã hội 5 mét với màn hình. Đây không phải là vấn đề liên quan đến virus, mà chỉ là văn hóa Na Uy."
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q4",
+			"text": "Your inbox is currently fuller than a bus in Oslo during rush hour. (And just as silent).",
+			"EN": {
+				"text": "Your inbox is currently fuller than a bus in Oslo during rush hour. (And just as silent)."
+			},
+			"type": "XTXT",
+			"id": "11cdc359-c8bf-402d-ebe5-b35dbc91ed59",
+			"AR": {
+				"text": "صندوق الوارد الخاص بك الآن ممتلئ أكثر من حافلة في أوسلو خلال ساعة الذروة. (وصامت تمامًا)."
+			},
+			"FR": {
+				"text": "Votre boîte de réception est actuellement plus pleine qu'un bus à Oslo aux heures de pointe. (Et tout aussi silencieuse)."
+			},
+			"DE": {
+				"text": "Ihr Posteingang ist momentan voller als ein Bus in Oslo zur Hauptverkehrszeit. (Und genauso still.)"
+			},
+			"ES": {
+				"text": "Tu bandeja de entrada está ahora mismo más llena que un autobús en Oslo en hora punta. (Y tan silenciosa como siempre)."
+			},
+			"PT": {
+				"text": "Sua caixa de entrada está mais cheia que um ônibus em Oslo na hora do rush. (E tão silenciosa quanto)."
+			},
+			"NO": {
+				"text": "Innboksen din er for øyeblikket fullere enn en buss i Oslo i rushtiden. (Og like stille)."
+			},
+			"AZ": {
+				"text": "Gələnlər qutunuz hazırda pik saatlarda Osloda avtobusdan daha doludur. (Və eynilə səssiz)."
+			},
+			"BG": {
+				"text": "В момента входящата ви поща е по-пълна от автобус в Осло по време на пиков час. (И също толкова тиха)."
+			},
+			"ZH": {
+				"text": "您的收件箱现在比奥斯陆高峰期的公交车还要拥挤。（而且同样寂静无声）"
+			},
+			"ZF": {
+				"text": "您的收件匣現在比奧斯陸高峰期的公車還要擁擠。 （而且同樣寂靜無聲）"
+			},
+			"HR": {
+				"text": "Vaš inbox je trenutno puniji od autobusa u Oslu tijekom špice. (I jednako tih)."
+			},
+			"CS": {
+				"text": "Vaše schránka je momentálně plnější než autobus v Oslu během dopravní špičky. (A stejně tichá)."
+			},
+			"DA": {
+				"text": "Din indbakke er lige nu fyldt op end en bus i Oslo i myldretiden. (Og lige så stille)."
+			},
+			"NL": {
+				"text": "Je inbox is momenteel voller dan een bus in Oslo tijdens de spits. (En net zo stil)."
+			},
+			"ET": {
+				"text": "Su postkast on hetkel täis kui Oslos tipptunnil buss. (Ja sama vaikne.)"
+			},
+			"FI": {
+				"text": "Sähköpostilaatikkosi on tällä hetkellä täynnä kuin bussi Oslossa ruuhka-aikaan. (Ja aivan yhtä hiljainen.)"
+			},
+			"EL": {
+				"text": "Τα εισερχόμενά σας είναι αυτήν τη στιγμή πιο γεμάτα από ένα λεωφορείο στο Όσλο κατά την ώρα αιχμής. (Και εξίσου αθόρυβα)."
+			},
+			"HE": {
+				"text": "תיבת הדואר הנכנס שלך מלאה כרגע יותר מאוטובוס באוסלו בשעות העומס. (ובדיוק באותה שקטה)."
+			},
+			"HU": {
+				"text": "A postaládád jelenleg teltebb, mint egy busz Oslóban csúcsforgalomban. (És ugyanolyan csendes.)"
+			},
+			"IS": {
+				"text": "Pósthólfið þitt er núna stútfyllra en strætisvagn í Ósló á annatímum. (Og alveg jafn hljóðlátt)."
+			},
+			"ID": {
+				"text": "Kotak masuk Anda saat ini lebih penuh daripada bus di Oslo pada jam sibuk. (Dan sama sunyinya)."
+			},
+			"IT": {
+				"text": "La tua casella di posta è attualmente più piena di un autobus a Oslo nell'ora di punta. (E altrettanto silenziosa)."
+			},
+			"JA": {
+				"text": "あなたの受信トレイは現在、オスロのラッシュアワーのバスよりもいっぱいです。（そして、同じように静かです。）"
+			},
+			"KO": {
+				"text": "현재 귀하의 받은 편지함은 오슬로의 러시아워 버스보다 더 가득 차 있습니다. (그리고 마찬가지로 조용합니다.)"
+			},
+			"LV": {
+				"text": "Jūsu iesūtne pašlaik ir pilnāka nekā autobuss Oslo sastrēgumstundā. (Un tikpat klusa.)"
+			},
+			"LT": {
+				"text": "Jūsų pašto dėžutė šiuo metu pilnesnė nei autobusas Osle piko valandomis. (Ir tokia pat tyli.)"
+			},
+			"MS": {
+				"text": "Peti masuk anda pada masa ini lebih penuh daripada bas di Oslo semasa waktu sibuk. (Dan sama senyap)."
+			},
+			"PL": {
+				"text": "Twoja skrzynka odbiorcza jest obecnie bardziej przepełniona niż autobus w Oslo w godzinach szczytu. (I równie cicha)."
+			},
+			"RO": {
+				"text": "Inbox-ul tău este în prezent mai plin decât un autobuz din Oslo în timpul orelor de vârf. (Și la fel de silențios)."
+			},
+			"RU": {
+				"text": "В настоящее время ваш почтовый ящик заполнен больше, чем автобус в Осло в час пик. (И так же тихо)."
+			},
+			"SE": {
+				"text": "Du sisaboahtinboksa lea dál dievvat go busse Oslos ruškesáiggis. (Ja seamma hilgut)."
+			},
+			"SR": {
+				"text": "Ваше пријемно сандуче је тренутно пуније него аутобус у Ослу током шпица. (И подједнако тихо)."
+			},
+			"SH": {
+				"text": "Ваше пријемно сандуче је тренутно пуније него аутобус у Ослу током шпица. (И подједнако тихо)."
+			},
+			"SK": {
+				"text": "Vaša schránka je momentálne plnšia ako autobus v Osle počas dopravnej špičky. (A rovnako tichá)."
+			},
+			"SL": {
+				"text": "Vaš nabiralnik je trenutno bolj poln kot avtobus v Oslu med prometno konico. (In prav tako tih)."
+			},
+			"SV": {
+				"text": "Din inkorg är just nu fullare än en buss i Oslo under rusningstid. (Och lika tyst)."
+			},
+			"TH": {
+				"text": "ขณะนี้กล่องจดหมายของคุณเต็มไปหมด ยิ่งกว่ารถเมล์ในออสโลในช่วงชั่วโมงเร่งด่วนเสียอีก (และเงียบสนิทไม่แพ้กัน)"
+			},
+			"TR": {
+				"text": "Şu anda gelen kutunuz, Oslo'daki yoğun saatlerdeki bir otobüsten daha dolu. (Ve bir o kadar da sessiz)."
+			},
+			"UK": {
+				"text": "Ваша поштова скринька зараз переповнена, ніж автобус в Осло в годину пік. (І така ж тиха)."
+			},
+			"VI": {
+				"text": "Hộp thư đến của bạn hiện tại còn đầy hơn cả một chiếc xe buýt ở Oslo vào giờ cao điểm. (Và cũng im lặng không kém)."
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q5",
+			"text": "Warning: The price of coffee in the breakroom is reasonable. The price of a beer after work will require a loan application.",
+			"EN": {
+				"text": "Warning: The price of coffee in the breakroom is reasonable. The price of a beer after work will require a loan application."
+			},
+			"type": "XTXT",
+			"id": "6fd89254-0b9f-4a42-8428-5d1bb7acb08b",
+			"AR": {
+				"text": "تحذير: سعر القهوة في غرفة الاستراحة معقول. سعر البيرة بعد العمل يتطلب تقديم طلب قرض."
+			},
+			"FR": {
+				"text": "Attention : le prix du café à la pause est raisonnable. Quant au prix d’une bière après le travail, il vous faudra faire une demande de prêt."
+			},
+			"DE": {
+				"text": "Achtung: Der Kaffee im Pausenraum ist günstig. Für ein Bier nach der Arbeit braucht man allerdings einen Kredit."
+			},
+			"ES": {
+				"text": "Advertencia: El precio del café en la sala de descanso es razonable. Para comprar una cerveza después del trabajo, se requiere una solicitud de préstamo."
+			},
+			"PT": {
+				"text": "Atenção: O preço do café na sala de descanso é razoável. Já o preço de uma cerveja depois do expediente exigirá um pedido de empréstimo."
+			},
+			"NO": {
+				"text": "Advarsel: Prisen på kaffe i pauserommet er rimelig. Prisen på en øl etter jobb krever en lånesøknad."
+			},
+			"AZ": {
+				"text": "Xəbərdarlıq: İstirahət otağında qəhvənin qiyməti münasibdir. İşdən sonra pivənin qiyməti kredit müraciəti tələb edəcək."
+			},
+			"BG": {
+				"text": "Внимание: Цената на кафето в стаята за почивка е разумна. Цената на бира след работа ще изисква кандидатстване за заем."
+			},
+			"ZH": {
+				"text": "警告：休息室里的咖啡价格合理。下班后想喝杯啤酒，价格可能高得吓人，需要贷款才能负担得起。"
+			},
+			"ZF": {
+				"text": "警告：休息室裡的咖啡價格合理。下班後想喝杯啤酒，價格可能高得嚇人，需要貸款才能負擔得起。"
+			},
+			"HR": {
+				"text": "Upozorenje: Cijena kave u dnevnoj sobi je razumna. Za cijenu piva nakon posla potreban je zahtjev za kredit."
+			},
+			"CS": {
+				"text": "Varování: Cena kávy v odpočívárně je rozumná. Cena piva po práci vyžaduje žádost o půjčku."
+			},
+			"DA": {
+				"text": "Advarsel: Prisen på kaffe i pauserummet er rimelig. Prisen på en øl efter arbejde kræver en låneansøgning."
+			},
+			"NL": {
+				"text": "Let op: de prijs van koffie in de koffiekamer is redelijk. Voor een biertje na het werk is een leningaanvraag vereist."
+			},
+			"ET": {
+				"text": "Hoiatus: Kohvi hind puhkeruumis on mõistlik. Õlle hinna saamiseks pärast tööd on vaja laenutaotlust."
+			},
+			"FI": {
+				"text": "Varoitus: Taukohuoneen kahvin hinta on kohtuullinen. Työpäivän jälkeisen oluen hinta edellyttää lainahakemusta."
+			},
+			"EL": {
+				"text": "Προειδοποίηση: Η τιμή του καφέ στο διάλειμμα είναι λογική. Η τιμή μιας μπύρας μετά τη δουλειά θα απαιτήσει αίτηση δανείου."
+			},
+			"HE": {
+				"text": "אזהרה: מחיר הקפה בחדר ההפסקה סביר. מחיר בירה אחרי העבודה ידרוש הגשת בקשה להלוואה."
+			},
+			"HU": {
+				"text": "Figyelem: A pihenőhelyiségben a kávé ára elfogadható. A munka utáni sör árához hitelkérelem szükséges."
+			},
+			"IS": {
+				"text": "Viðvörun: Verð á kaffi í kaffistofunni er sanngjarnt. Verð á bjór eftir vinnu krefst lánsumsóknar."
+			},
+			"ID": {
+				"text": "Peringatan: Harga kopi di ruang istirahat terjangkau. Harga bir setelah bekerja memerlukan pengajuan pinjaman."
+			},
+			"IT": {
+				"text": "Attenzione: il prezzo del caffè in sala relax è ragionevole. Per una birra dopo il lavoro sarà necessario richiedere un prestito."
+			},
+			"JA": {
+				"text": "注意：休憩室のコーヒーはお手頃価格です。仕事帰りにビールを飲むには、ローンを組む必要があります。"
+			},
+			"KO": {
+				"text": "주의: 휴게실 커피 가격은 적당합니다. 퇴근 후 맥주 한 잔을 드시려면 대출 신청이 필요합니다."
+			},
+			"LV": {
+				"text": "Brīdinājums: Kafijas cena atpūtas telpā ir saprātīga. Alus cenai pēc darba būs nepieciešams aizdevuma pieteikums."
+			},
+			"LT": {
+				"text": "Įspėjimas: kavos kaina poilsio kambaryje yra priimtina. Alaus kainai po darbo reikės pateikti paskolos paraišką."
+			},
+			"MS": {
+				"text": "Amaran: Harga kopi di bilik rehat adalah berpatutan. Harga bir selepas bekerja akan memerlukan permohonan pinjaman."
+			},
+			"PL": {
+				"text": "Uwaga: Cena kawy w pokoju socjalnym jest rozsądna. Cena piwa po pracy będzie wymagała wniosku o pożyczkę."
+			},
+			"RO": {
+				"text": "Atenție: Prețul cafelei în sala de pauză este rezonabil. Prețul unei beri după muncă necesită o cerere de împrumut."
+			},
+			"RU": {
+				"text": "Внимание: цена кофе в комнате отдыха разумная. Чтобы оплатить пиво после работы, потребуется оформить кредит."
+			},
+			"SE": {
+				"text": "Váruhus: Gáfe haddi idjadanlanjas lea dohkálaš. Bierggu haddi maŋŋel barggu gáibida loatnaohcama."
+			},
+			"SR": {
+				"text": "Упозорење: Цена кафе у просторији за одмор је разумна. За цену пива после посла биће потребан захтев за кредит."
+			},
+			"SH": {
+				"text": "Упозорење: Цена кафе у соби за одмор је разумна. За цену пива после посла биће потребан захтев за кредит."
+			},
+			"SK": {
+				"text": "Upozornenie: Cena kávy v oddychovej miestnosti je rozumná. Cena piva po práci si vyžaduje žiadosť o pôžičku."
+			},
+			"SL": {
+				"text": "Opozorilo: Cena kave v sobi za odmor je razumna. Za ceno piva po delu bo potrebna vloga za posojilo."
+			},
+			"SV": {
+				"text": "Varning: Priset på kaffe i fikarummet är rimligt. Priset på en öl efter jobbet kräver en låneansökan."
+			},
+			"TH": {
+				"text": "คำเตือน: ราคากาแฟในห้องพักผ่อนสมเหตุสมผล ส่วนเบียร์หลังเลิกงานต้องขอสินเชื่อก่อน"
+			},
+			"TR": {
+				"text": "Uyarı: Mola odasındaki kahvenin fiyatı makul. İş çıkışı biranın fiyatı için kredi başvurusunda bulunmanız gerekecektir."
+			},
+			"UK": {
+				"text": "Увага: Ціна на каву в кімнаті відпочинку помірна. Щоб купити пиво після роботи, потрібно буде подавати заявку на кредит."
+			},
+			"VI": {
+				"text": "Lưu ý: Giá cà phê trong phòng nghỉ khá hợp lý. Giá bia sau giờ làm việc sẽ yêu cầu bạn phải đăng ký vay."
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q6",
+			"text": "Channel your inner Viking today: Pillage your To-Do list, but please leave the village (HR) alone.",
+			"EN": {
+				"text": "Channel your inner Viking today: Pillage your To-Do list, but please leave the village (HR) alone."
+			},
+			"type": "XTXT",
+			"id": "3d6ae884-7838-4414-d6e2-2b1906f2709c",
+			"AR": {
+				"text": "استخدم مهاراتك الفايكنجية اليوم: قم بتنفيذ قائمة المهام الخاصة بك، ولكن من فضلك اترك القرية (HR) بمفردها."
+			},
+			"FR": {
+				"text": "Libérez le Viking qui est en vous aujourd'hui : pillez votre liste de tâches, mais laissez le village (les RH) tranquille."
+			},
+			"DE": {
+				"text": "Lass heute deinen inneren Wikinger raus: Plündere deine To-Do-Liste, aber lass bitte das Dorf (HR) in Ruhe."
+			},
+			"ES": {
+				"text": "Canaliza a tu vikingo interior hoy: saquea tu lista de cosas por hacer, pero por favor deja al pueblo (RR.HH.) en paz."
+			},
+			"PT": {
+				"text": "Liberte o viking que há em você hoje: Saqueie sua lista de tarefas, mas, por favor, deixe a vila (RH) em paz."
+			},
+			"NO": {
+				"text": "Slipp løs din indre viking i dag: Plyndre gjøremålslisten din, men vær så snill å la landsbyen (HR) være i fred."
+			},
+			"AZ": {
+				"text": "Daxili Vikinqinizi bu gün kanallaşdırın: Görüləcəklər siyahınızı qarət edin, ancaq kəndi (HR) tək buraxın."
+			},
+			"BG": {
+				"text": "Канализирайте вътрешния си викинг днес: Ограбете списъка си със задачи, но, моля, оставете селото (HR) на мира."
+			},
+			"ZH": {
+				"text": "今天就释放你内心的维京精神吧：尽情完成你的待办事项清单，但请不要打扰村庄（人力资源部）。"
+			},
+			"ZF": {
+				"text": "今天就釋放你內心的維京精神：盡情完成你的待辦事項清單，但請不要打擾村莊（人力資源部）。"
+			},
+			"HR": {
+				"text": "Kanalizirajte svog unutarnjeg Vikinga danas: Opljačkajte svoj popis obaveza, ali molim vas, ostavite selo (HR) na miru."
+			},
+			"CS": {
+				"text": "Probuďte dnes svého vnitřního Vikinga: Vypleňte svůj seznam úkolů, ale prosím, nechte vesnici (HR) na pokoji."
+			},
+			"DA": {
+				"text": "Slip din indre viking i dag: Plyndr din to-do-liste, men lad venligst landsbyen (HR) være i fred."
+			},
+			"NL": {
+				"text": "Laat vandaag uw innerlijke Viking spreken: plunder uw to-dolijst, maar laat het dorp (HR) met rust."
+			},
+			"ET": {
+				"text": "Kanalda oma sisemist viikingit juba täna: rüüsta oma ülesannete nimekirja, aga palun jäta küla (HR) rahule."
+			},
+			"FI": {
+				"text": "Kanavoi sisäinen viikinkisusi tänään: Ryöstä tehtävälistasi, mutta jätä kylä (HR) rauhaan."
+			},
+			"EL": {
+				"text": "Διοχετεύστε τον Βίκινγκ που κρύβετε μέσα σας σήμερα: Λεηλατήστε τη λίστα υποχρεώσεών σας, αλλά παρακαλώ αφήστε το χωριό (HR) ήσυχο."
+			},
+			"HE": {
+				"text": "תעלו את הוויקינג הפנימי שלכם היום: בזזו את רשימת המטלות שלכם, אבל בבקשה עזבו את הכפר (משאבי אנוש) בשקט."
+			},
+			"HU": {
+				"text": "Engedd szabadjára a benned rejlő vikinget még ma: Fosztogasd ki a teendőid listáját, de kérlek, hagyd békén a falut (HR)."
+			},
+			"IS": {
+				"text": "Leyfðu innri víkingnum þínum að njóta sín í dag: Rændu verkefnalistann þinn, en vinsamlegast láttu þorpið (HR) í friði."
+			},
+			"ID": {
+				"text": "Salurkan jiwa Viking Anda hari ini: Rampok daftar tugas Anda, tetapi jangan ganggu desa (SDM)."
+			},
+			"IT": {
+				"text": "Dai sfogo al vichingo che è in te oggi stesso: saccheggia la tua lista di cose da fare, ma per favore lascia stare il villaggio (HR)."
+			},
+			"JA": {
+				"text": "今日はあなたの内なるバイキングを呼び起こしてください。ToDo リストを略奪してください。ただし、村 (HR) には手を出さないでください。"
+			},
+			"KO": {
+				"text": "오늘 당신 안에 숨겨진 바이킹을 깨우세요. 할 일 목록을 정리하되, 마을(HR)은 그대로 두세요."
+			},
+			"LV": {
+				"text": "Atklāj sevī iekšējo vikingu jau šodien: izlaupiet savu darāmo lietu sarakstu, bet, lūdzu, atstājiet ciematu (HR) mierā."
+			},
+			"LT": {
+				"text": "Šiandien pažadinkite savyje vidinį vikingą: ištuštinkite savo darbų sąrašą, bet palikite kaimą (HR) ramybėje."
+			},
+			"MS": {
+				"text": "Salurkan Viking dalaman anda hari ini: Rompak senarai Tugasan anda, tetapi sila tinggalkan kampung (HR) sahaja."
+			},
+			"PL": {
+				"text": "Obudź w sobie dziś wewnętrznego Wikinga: Zrealizuj wszystkie zadania z listy, ale zostaw wioskę (HR) w spokoju."
+			},
+			"RO": {
+				"text": "Dă frâu liber vikingului din tine astăzi: Jefuiește-ți lista de activități, dar te rog lasă satul (HR) în pace."
+			},
+			"RU": {
+				"text": "Пробудите сегодня своего внутреннего викинга: разграбьте свой список дел, но, пожалуйста, оставьте деревню (HR) в покое."
+			},
+			"SE": {
+				"text": "Kanálisere iežat siskkáldas Vikinga odne: Rievdat iežat bargolisttu, muhto bivdit gili (HR) eret."
+			},
+			"SR": {
+				"text": "Каналишите свог унутрашњег Викинга данас: Опљачкајте своју листу обавеза, али молим вас оставите село (СР) на миру."
+			},
+			"SH": {
+				"text": "Каналишите свог унутрашњег Викинга данас: Опљачкајте своју листу обавеза, али молим вас оставите село (СР) на миру."
+			},
+			"SK": {
+				"text": "Prebuďte dnes svojho vnútorného Vikinga: Vypliente svoj zoznam úloh, ale prosím, nechajte dedinu (HR) na pokoji."
+			},
+			"SL": {
+				"text": "Prebudite svojega notranjega Vikinga še danes: Izropajte svoj seznam opravil, vendar vas (HR) prosim pustite pri miru."
+			},
+			"SV": {
+				"text": "Släpp loss din inre viking idag: Plundra din att-göra-lista, men lämna byn (HR) ifred."
+			},
+			"TH": {
+				"text": "ปลดปล่อยความเป็นไวกิ้งในตัวคุณวันนี้: ปล้นสะดมรายการสิ่งที่ต้องทำของคุณ แต่โปรดปล่อยให้หมู่บ้าน (HR) อยู่ตามลำพัง"
+			},
+			"TR": {
+				"text": "İçinizdeki Viking'i bugün ortaya çıkarın: Yapılacaklar listenizi yağmalayın, ancak lütfen köyü (HR) rahat bırakın."
+			},
+			"UK": {
+				"text": "Пробудіть свого внутрішнього вікінга сьогодні: Розграбуйте свій список справ, але, будь ласка, залиште село (HR) у спокої."
+			},
+			"VI": {
+				"text": "Hãy thể hiện bản chất Viking của bạn ngay hôm nay: Dọn dẹp danh sách việc cần làm, nhưng đừng đụng đến ngôi làng (HR)."
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q7",
+			"text": "Did you bring your Brunost (Brown Cheese)? No? Then this meeting could have been an email.",
+			"EN": {
+				"text": "Did you bring your Brunost (Brown Cheese)? No? Then this meeting could have been an email."
+			},
+			"type": "XTXT",
+			"id": "b5203500-58ae-4cff-d273-9e15aff85b20",
+			"AR": {
+				"text": "هل أحضرتَ معك جبنة \"برونوست\"؟ لا؟ إذًا، كان من الممكن أن يكون هذا الاجتماع بريدًا إلكترونيًا."
+			},
+			"FR": {
+				"text": "Avez-vous apporté votre Brunost (fromage brun) ? Non ? Alors cette réunion aurait pu se dérouler par courriel."
+			},
+			"DE": {
+				"text": "Hast du deinen Brunost (Braunkäse) mitgebracht? Nein? Dann hätte dieses Treffen auch per E-Mail stattfinden können."
+			},
+			"ES": {
+				"text": "¿Trajiste tu Brunost (queso integral)? ¿No? Entonces esta reunión podría haber sido un correo electrónico."
+			},
+			"PT": {
+				"text": "Você trouxe seu Brunost (queijo marrom)? Não? Então esta reunião poderia ter sido um e-mail."
+			},
+			"NO": {
+				"text": "Tok du med deg Brunosten din? Ikke sant? Da kunne dette møtet ha vært en e-post."
+			},
+			"AZ": {
+				"text": "Brunost (Qəhvəyi Pendir) gətirmisiniz? yox? Onda bu görüş e-poçt ola bilərdi."
+			},
+			"BG": {
+				"text": "Донесе ли си Бруност (кафяво сирене)? Не? Тогава тази среща можеше да бъде имейл."
+			},
+			"ZH": {
+				"text": "你带了布鲁诺斯特奶酪（棕色奶酪）吗？没有？那这次会议完全可以用邮件解决。"
+			},
+			"ZF": {
+				"text": "你帶了布魯諾斯特起司（棕色起司）嗎？沒有？那這次會議完全可以用郵件解決。"
+			},
+			"HR": {
+				"text": "Jesi li donio/la svoj Brunost (smeđi sir)? Ne? Onda je ovaj sastanak mogao biti putem e-maila."
+			},
+			"CS": {
+				"text": "Přinesl sis Brunost (hnědý sýr)? Ne? Pak se tato schůzka mohla odehrát přes e-mail."
+			},
+			"DA": {
+				"text": "Har du medbragt din brunost? Nej? Så kunne mødet have været en e-mail."
+			},
+			"NL": {
+				"text": "Heb je je Brunost (bruine kaas) meegenomen? Nee? Dan had deze vergadering net zo goed via e-mail kunnen verlopen."
+			},
+			"ET": {
+				"text": "Kas sa tõid oma Brunosti (pruuni juustu) kaasa? Ei? Siis oleks see kohtumine võinud olla ka e-kiri."
+			},
+			"FI": {
+				"text": "Toitko Brunostisi (ruskeaa juustoa) mukanasi? Etkö? Silloin tämä tapaaminen olisi voinut olla sähköposti."
+			},
+			"EL": {
+				"text": "Έφερες το Brunost (καφέ τυρί); Όχι; Τότε αυτή η συνάντηση θα μπορούσε να ήταν μέσω email."
+			},
+			"HE": {
+				"text": "הבאת את הברונוסט שלך (גבינה חומה)? לא? אז הפגישה הזו יכלה להיות אימייל."
+			},
+			"HU": {
+				"text": "Elhoztad a Brunostodat (barna sajtodat)? Nem? Akkor ez a találkozó akár egy e-mail is lehetett volna."
+			},
+			"IS": {
+				"text": "Komstu með brúnostinn þinn? Nei? Þá hefði þessi fundur getað verið tölvupóstur."
+			},
+			"ID": {
+				"text": "Kamu bawa Brunost (Keju Cokelat)? Enggak, kan? Kalau begitu, pertemuan ini bisa jadi email."
+			},
+			"IT": {
+				"text": "Hai portato il tuo Brunost (formaggio bruno)? No? Allora questo incontro avrebbe potuto svolgersi tramite email."
+			},
+			"JA": {
+				"text": "ブルーノスト（ブラウンチーズ）は持ってきましたか？ 持ってきていない？ だったらこの打ち合わせはメールで済ませられたのに。"
+			},
+			"KO": {
+				"text": "브루노스트(브라운 치즈) 가져왔어? 아니? 그럼 이 회의는 이메일로 진행됐을 텐데."
+			},
+			"LV": {
+				"text": "Vai atnesi savu Brunost (brūno sieru)? Nē? Tad šī tikšanās varēja būt e-pasts."
+			},
+			"LT": {
+				"text": "Ar atsinešei savo „Brunost“ (rudąjį sūrį)? Ne? Tuomet šis susitikimas galėjo būti el. laiškas."
+			},
+			"MS": {
+				"text": "Adakah anda membawa Brunost (Keju Coklat) anda? Tidak? Kemudian mesyuarat ini boleh jadi e-mel."
+			},
+			"PL": {
+				"text": "Przyniosłeś swój Brunost (brązowy ser)? Nie? W takim razie to spotkanie mogłoby być e-mailem."
+			},
+			"RO": {
+				"text": "Ți-ai adus Brunost-ul (brânză brună)? Nu? Atunci întâlnirea asta ar fi putut fi un e-mail."
+			},
+			"RU": {
+				"text": "Вы брюност (коричневый сыр) принесли? Нет? Тогда эта встреча могла бы быть по электронной почте."
+			},
+			"SE": {
+				"text": "Leat go váldán mielde iežat Brunost (ruškes oastta)? Ii? Dalle dát čoahkkin livččii sáhttán leat e-poasta."
+			},
+			"SR": {
+				"text": "Јеси ли понео/ла свој Бруност (браон сир)? Ниси? Онда је овај састанак могао бити путем имејла."
+			},
+			"SH": {
+				"text": "Јеси ли понео/ла свој Бруност (браон сир)? Ниси? Онда је овај састанак могао бити путем имејла."
+			},
+			"SK": {
+				"text": "Priniesol si si Brunost (hnedý syr)? Nie? Potom by toto stretnutie mohlo byť prostredníctvom e-mailu."
+			},
+			"SL": {
+				"text": "Si prinesel/a svoj Brunost (rjavi sir)? Ne? Potem bi se ta sestanek lahko končal po e-pošti."
+			},
+			"SV": {
+				"text": "Tog du med dig din brunost? Nej? Då kunde det här mötet ha varit ett mejl."
+			},
+			"TH": {
+				"text": "คุณเอาบรูโนสต์ (บราวน์ชีส) มาด้วยเหรอ? ไม่เอาเหรอ? งั้นการประชุมครั้งนี้ก็อาจจะเป็นอีเมลก็ได้"
+			},
+			"TR": {
+				"text": "Brunost'unuzu (Esmer Peynir) getirdiniz mi? Hayır mı? O zaman bu toplantı bir e-posta olabilirdi."
+			},
+			"UK": {
+				"text": "Ви принесли свій Бруност (коричневий сир)? Ні? Тоді ця зустріч могла б бути електронною поштою."
+			},
+			"VI": {
+				"text": "Bạn có mang theo Brunost (Phô mai nâu) không? Không à? Vậy thì cuộc họp này có thể chỉ là một email."
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q8",
+			"text": "The sun might set at 3 PM today, but your synergy must shine forever.",
+			"EN": {
+				"text": "The sun might set at 3 PM today, but your synergy must shine forever."
+			},
+			"type": "XTXT",
+			"id": "0d651eb5-db72-47eb-ddec-5fb59b5e1137",
+			"AR": {
+				"text": "قد تغرب الشمس في الساعة الثالثة بعد الظهر اليوم، لكن تآزرك يجب أن يظل متألقًا إلى الأبد."
+			},
+			"FR": {
+				"text": "Le soleil se couchera peut-être à 15h aujourd'hui, mais votre synergie doit briller éternellement."
+			},
+			"DE": {
+				"text": "Die Sonne mag heute um 15 Uhr untergehen, aber eure Synergie muss ewig leuchten."
+			},
+			"ES": {
+				"text": "Puede que el sol se ponga hoy a las 3 de la tarde, pero su sinergia debe brillar para siempre."
+			},
+			"PT": {
+				"text": "O sol pode se pôr às 15h hoje, mas sua sinergia deve brilhar para sempre."
+			},
+			"NO": {
+				"text": "Solen går kanskje ned klokken 15 i dag, men synergien din må skinne for alltid."
+			},
+			"AZ": {
+				"text": "Günəş bu gün saat 15:00-da qürub edə bilər, lakin sinerjiniz əbədi olaraq parlamalıdır."
+			},
+			"BG": {
+				"text": "Слънцето може да залезе в 15:00 часа днес, но вашата синергия трябва да свети вечно."
+			},
+			"ZH": {
+				"text": "今天太阳可能下午3点就落山了，但你们的合作光芒必将永存。"
+			},
+			"ZF": {
+				"text": "今天太陽可能下午3點就下山了，但你們的合作光芒必將永存。"
+			},
+			"HR": {
+				"text": "Sunce možda zalazi danas u 15 sati, ali vaša sinergija mora sjati zauvijek."
+			},
+			"CS": {
+				"text": "Slunce dnes možná zapadne ve 15 hodin, ale vaše synergie musí zářit navždy."
+			},
+			"DA": {
+				"text": "Solen går måske ned klokken 15 i dag, men din synergi skal skinne for evigt."
+			},
+			"NL": {
+				"text": "De zon gaat vandaag misschien pas om 15.00 uur onder, maar jouw synergie moet voor altijd schijnen."
+			},
+			"ET": {
+				"text": "Päike võib küll täna kell 15 loojuda, aga teie sünergia peab särama igavesti."
+			},
+			"FI": {
+				"text": "Aurinko saattaa laskea tänään kello 15, mutta synergianne täytyy loistaa ikuisesti."
+			},
+			"EL": {
+				"text": "Ο ήλιος μπορεί να δύει στις 3 μ.μ. σήμερα, αλλά η συνέργειά σας πρέπει να λάμπει για πάντα."
+			},
+			"HE": {
+				"text": "השמש אולי שוקעת היום בשעה 15:00, אבל הסינרגיה שלכם חייבת לזרוח לנצח."
+			},
+			"HU": {
+				"text": "Lehet, hogy a nap ma délután 3-kor nyugszik le, de az együttérzéseteknek örökké ragyognia kell."
+			},
+			"IS": {
+				"text": "Sólin kann að setjast klukkan þrjú í dag, en samverkun ykkar verður að skína að eilífu."
+			},
+			"ID": {
+				"text": "Matahari mungkin terbenam pukul 3 sore hari ini, tetapi sinergi Anda harus bersinar selamanya."
+			},
+			"IT": {
+				"text": "Oggi il sole potrebbe tramontare alle 15:00, ma la vostra sinergia deve brillare per sempre."
+			},
+			"JA": {
+				"text": "今日は午後3時に太陽が沈むかもしれませんが、あなたの相乗効果は永遠に輝き続けるはずです。"
+			},
+			"KO": {
+				"text": "오늘은 해가 오후 3시에 지더라도, 여러분의 시너지는 영원히 빛나야 합니다."
+			},
+			"LV": {
+				"text": "Saule šodien varbūt norietēs pulksten 15:00, bet jūsu sinerģijai ir jāspīd mūžīgi."
+			},
+			"LT": {
+				"text": "Saulė šiandien gali leistis 15 val., bet jūsų sinergija turi šviesti amžinai."
+			},
+			"MS": {
+				"text": "Matahari mungkin terbenam pada pukul 3 petang hari ini, tetapi sinergi anda mesti bersinar selama-lamanya."
+			},
+			"PL": {
+				"text": "Słońce może zajść dziś o 15:00, ale Twoja synergia musi trwać wiecznie."
+			},
+			"RO": {
+				"text": "Soarele s-ar putea să apuna astăzi la ora 15:00, dar sinergia voastră trebuie să strălucească pentru totdeauna."
+			},
+			"RU": {
+				"text": "Сегодня солнце может зайти в 15:00, но ваша синергия должна сиять вечно."
+			},
+			"SE": {
+				"text": "Beaivváš soaitá gahččat diibmu 15 odne, muhto du ovttasbargu ferte čuovgat agálaččat."
+			},
+			"SR": {
+				"text": "Сунце можда залази данас у 15 часова, али ваша синергија мора сијати заувек."
+			},
+			"SH": {
+				"text": "Сунце можда залази данас у 15 часова, али ваша синергија мора сијати заувек."
+			},
+			"SK": {
+				"text": "Slnko dnes síce môže zapadnúť o 15:00, ale vaša synergia musí svietiť navždy."
+			},
+			"SL": {
+				"text": "Sonce morda danes zaide ob 15. uri, toda vaša sinergija mora sijati večno."
+			},
+			"SV": {
+				"text": "Solen kanske går ner klockan 15.00 idag, men er synergi måste lysa för evigt."
+			},
+			"TH": {
+				"text": "วันนี้ดวงอาทิตย์อาจตกเวลา 15.00 น. แต่พลังร่วมของคุณจะต้องส่องสว่างตลอดไป"
+			},
+			"TR": {
+				"text": "Bugün güneş saat 15:00'te batabilir ama sinerjiniz sonsuza dek parlayacak."
+			},
+			"UK": {
+				"text": "Сонце може й зайти сьогодні о 15:00, але ваша синергія має сяяти вічно."
+			},
+			"VI": {
+				"text": "Mặt trời có thể lặn lúc 3 giờ chiều hôm nay, nhưng sự hợp tác của bạn phải mãi mãi tỏa sáng."
+			}
+		},
+		{
+			"parent": "viking.quotes",
+			"parentId": "42d7f213-9597-4a8d-aa88-d9327f5e8131",
+			"name": "viking.quotes.q9",
+			"text": "If you feel cold, just remember: Electricity prices are high, so type faster to generate body heat.",
+			"EN": {
+				"text": "If you feel cold, just remember: Electricity prices are high, so type faster to generate body heat."
+			},
+			"type": "XTXT",
+			"id": "964199ed-3c4e-45ec-acb9-db229c02ab85",
+			"AR": {
+				"text": "إذا كنت تشعر بالبرد، تذكر فقط: أسعار الكهرباء مرتفعة، لذا اكتب بشكل أسرع لتوليد حرارة الجسم."
+			},
+			"FR": {
+				"text": "Si vous avez froid, souvenez-vous : l'électricité coûte cher, alors tapez plus vite pour générer de la chaleur corporelle."
+			},
+			"DE": {
+				"text": "Wenn Ihnen kalt ist, denken Sie einfach daran: Die Strompreise sind hoch, also tippen Sie schneller, um Körperwärme zu erzeugen."
+			},
+			"ES": {
+				"text": "Si sientes frío, recuerda: los precios de la electricidad son altos, así que escribe más rápido para generar calor corporal."
+			},
+			"PT": {
+				"text": "Se você sentir frio, lembre-se: os preços da eletricidade estão altos, então digite mais rápido para gerar calor corporal."
+			},
+			"NO": {
+				"text": "Hvis du fryser, husk: Strømprisene er høye, så skriv raskere for å generere kroppsvarme."
+			},
+			"AZ": {
+				"text": "Əgər özünüzü soyuq hiss edirsinizsə, unutmayın: Elektrik qiymətləri yüksəkdir, ona görə də bədən istiliyini yaratmaq üçün daha tez yazın."
+			},
+			"BG": {
+				"text": "Ако ви е студено, просто не забравяйте: Цените на електроенергията са високи, така че пишете по-бързо, за да генерирате телесна топлина."
+			},
+			"ZH": {
+				"text": "如果你觉得冷，记住：电费很高，所以加快打字速度来产生体温。"
+			},
+			"ZF": {
+				"text": "如果你覺得冷，記住：電費很高，所以加快打字速度來產生體溫。"
+			},
+			"HR": {
+				"text": "Ako vam je hladno, samo zapamtite: Cijene električne energije su visoke, pa tipkajte brže kako biste generirali toplinu tijela."
+			},
+			"CS": {
+				"text": "Pokud vám je zima, nezapomeňte: Ceny elektřiny jsou vysoké, proto pište rychleji, abyste si vytvořili tělesné teplo."
+			},
+			"DA": {
+				"text": "Hvis du fryser, så husk blot: Elpriserne er høje, så skriv hurtigere for at generere kropsvarme."
+			},
+			"NL": {
+				"text": "Als u het koud heeft, bedenk dan dat de elektriciteitsprijzen hoog zijn, dus typ sneller om lichaamswarmte te genereren."
+			},
+			"ET": {
+				"text": "Kui tunned külma, siis pea meeles: elektrihinnad on kõrged, seega kirjuta kiiremini, et kehasoojust tekitada."
+			},
+			"FI": {
+				"text": "Jos tunnet olosi palelevaksi, muista: Sähkön hinta on korkea, joten kirjoita nopeammin tuottaaksesi kehollesi lämpöä."
+			},
+			"EL": {
+				"text": "Αν νιώθετε κρύο, απλώς θυμηθείτε: Οι τιμές του ηλεκτρικού ρεύματος είναι υψηλές, γι' αυτό πληκτρολογήστε πιο γρήγορα για να παράγετε θερμότητα από το σώμα σας."
+			},
+			"HE": {
+				"text": "אם קר לכם, זכרו: מחירי החשמל גבוהים, אז הקלידו מהר יותר כדי לייצר חום גוף."
+			},
+			"HU": {
+				"text": "Ha fázol, ne feledd: Az áram ára magas, ezért gépelj gyorsabban, hogy tested melegét termeld."
+			},
+			"IS": {
+				"text": "Ef þér er kalt skaltu bara muna: Rafmagnsverð er hátt, svo skrifaðu hraðar til að mynda líkamshita."
+			},
+			"ID": {
+				"text": "Jika Anda merasa kedinginan, ingatlah: Harga listrik tinggi, jadi ketik lebih cepat untuk menghasilkan panas tubuh."
+			},
+			"IT": {
+				"text": "Se hai freddo, ricorda: i prezzi dell'elettricità sono alti, quindi scrivi più velocemente per generare calore corporeo."
+			},
+			"JA": {
+				"text": "寒さを感じたら、電気代が高いことを思い出してください。体温を上げるために、より速くタイピングしてください。"
+			},
+			"KO": {
+				"text": "추위를 느낀다면, 전기 요금이 비싸다는 점을 기억하세요. 체온을 올리기 위해 더 빨리 타이핑하세요."
+			},
+			"LV": {
+				"text": "Ja jūtat aukstumu, atcerieties: elektrības cenas ir augstas, tāpēc rakstiet ātrāk, lai radītu ķermeņa siltumu."
+			},
+			"LT": {
+				"text": "Jei jaučiatės šaltai, tiesiog nepamirškite: elektros kainos yra didelės, todėl spausdinkite greičiau, kad sušildytumėte kūną."
+			},
+			"MS": {
+				"text": "Jika anda rasa sejuk, ingat sahaja: Harga elektrik tinggi, jadi taip lebih cepat untuk menjana haba badan."
+			},
+			"PL": {
+				"text": "Jeśli jest ci zimno, pamiętaj: ceny prądu są wysokie, więc pisz szybciej, aby wytworzyć ciepło."
+			},
+			"RO": {
+				"text": "Dacă ți se face frig, amintește-ți: prețurile la electricitate sunt mari, așa că tastează mai repede pentru a genera căldură corporală."
+			},
+			"RU": {
+				"text": "Если вам холодно, помните: цены на электроэнергию высоки, поэтому печатайте быстрее, чтобы вырабатывать тепло."
+			},
+			"SE": {
+				"text": "Jus dovddat čoaskkisvuođa, de muitte: Elrávnnji haddi lea allat, nu ahte čále jođáneappot vai oaččut rupmaša lieggasa."
+			},
+			"SR": {
+				"text": "Ако вам је хладно, само запамтите: Цене струје су високе, зато куцајте брже да бисте генерисали телесну топлоту."
+			},
+			"SH": {
+				"text": "Ако вам је хладно, само запамтите: Цене струје су високе, зато куцајте брже да бисте генерисали телесну топлоту."
+			},
+			"SK": {
+				"text": "Ak vám je zima, nezabudnite: Ceny elektriny sú vysoké, preto píšte rýchlejšie, aby ste si vytvorili telesné teplo."
+			},
+			"SL": {
+				"text": "Če vam je hladno, ne pozabite: Cene elektrike so visoke, zato tipkajte hitreje, da ustvarite telesno toploto."
+			},
+			"SV": {
+				"text": "Om du fryser, kom ihåg: Elpriserna är höga, så skriv snabbare för att generera kroppsvärme."
+			},
+			"TH": {
+				"text": "หากคุณรู้สึกหนาว โปรดจำไว้ว่า ค่าไฟฟ้าแพง ดังนั้นควรพิมพ์เร็วขึ้นเพื่อสร้างความร้อนในร่างกาย"
+			},
+			"TR": {
+				"text": "Eğer üşüyorsanız şunu unutmayın: Elektrik fiyatları yüksek, bu yüzden vücut ısınızı artırmak için daha hızlı yazın."
+			},
+			"UK": {
+				"text": "Якщо вам холодно, пам’ятайте: ціни на електроенергію високі, тому друкуйте швидше, щоб зігріти тіло."
+			},
+			"VI": {
+				"text": "Nếu bạn cảm thấy lạnh, hãy nhớ rằng: Giá điện rất cao, vì vậy hãy gõ nhanh hơn để tạo nhiệt cho cơ thể."
+			}
 		}
 	],
 	"locales": [
@@ -4667,7 +6752,7 @@
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.11.26.1459",
+	"ver": "25.11.27.1022",
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"active": true,
 	"deleted": false,
@@ -4685,7 +6770,7 @@
 			"id": "06969351-39b7-42e9-9c19-7e26a3ebf10a",
 			"application": "prom_i18n_formatter",
 			"title": "",
-			"ver": "25.11.27.0150"
+			"ver": "25.11.27.0950"
 		}
 	]
 }
