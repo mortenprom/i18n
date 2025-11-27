@@ -74,7 +74,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.11.27.1013",
+	"ver": "25.11.27.2234",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -89,7 +89,7 @@
 	"imageTabletHeight": null,
 	"imageHeight": null,
 	"name": "prom-i18n",
-	"cardContentWidth": null,
+	"cardContentWidth": "Medium",
 	"cardContentAlign": null,
 	"cardPerRow": null,
 	"cardStyle": null,
@@ -138,7 +138,12 @@
 	"FIORI_STYLE": null,
 	"roles": [],
 	"lightGroupLayouts": [],
-	"darkGroupLayouts": [],
+	"darkGroupLayouts": [
+		{
+			"id": "d7a96150-2386-438a-a73e-cc92db89b6df",
+			"ver": "25.11.27.2235"
+		}
+	],
 	"lightTileLayouts": [],
 	"darkTileLayouts": [],
 	"tiles": [
