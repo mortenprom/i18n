@@ -131,7 +131,7 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.11.27.2033",
+	"ver": "25.11.28.0926",
 	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
@@ -140,8 +140,8 @@
 	"pwa_desktopScreenshotNarrow": null,
 	"pwa_displayMode": null,
 	"pwa_themeColor": "rgb(255,255,255)",
-	"layout_light": null,
-	"layout_dark": "a417d522-6eef-4314-be86-84691adbe72f",
+	"layout_light": "e0ff2b95-6ed0-436f-a135-524306fd33c0",
+	"layout_dark": "122cbe90-ebe7-4006-8125-aba369350a21",
 	"layout_preference": 0,
 	"pwa_backgroundColor": "rgb(255,255,255)",
 	"passwordResetEmail": null,
@@ -154,7 +154,7 @@
 			"id": "a79e1269-ce68-4758-b631-8d0bdfbc012c",
 			"name": "prom-i18n",
 			"title": "{i18n.promi18n>tilegroupTitle}",
-			"ver": "25.11.27.2234"
+			"ver": "25.11.28.0921"
 		}
 	],
 	"roles": [],
