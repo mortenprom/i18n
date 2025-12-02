@@ -35,55 +35,55 @@
 				"ISOCODE": "1S",
 				"LOCALE": "es-AR",
 				"NAME": "Spanish Argentina",
-				"FALLBACK": ""
+				"FALLBACK": "ES"
 			},
 			{
 				"ISOCODE": "AR",
 				"LOCALE": "ar,ar-SA",
 				"NAME": "Arabic",
-				"FALLBACK": ""
+				"FALLBACK": "AR"
 			},
 			{
 				"ISOCODE": "DA",
 				"LOCALE": "da",
 				"NAME": "Danish",
-				"FALLBACK": ""
+				"FALLBACK": "DA"
 			},
 			{
 				"ISOCODE": "DE",
 				"LOCALE": "de,de-DE",
 				"NAME": "German",
-				"FALLBACK": ""
+				"FALLBACK": "DE"
 			},
 			{
 				"ISOCODE": "EN",
 				"LOCALE": "en,en-US",
 				"NAME": "English",
-				"FALLBACK": ""
+				"FALLBACK": "EN"
 			},
 			{
 				"ISOCODE": "ES",
 				"LOCALE": "es,es-ES",
 				"NAME": "Spanish",
-				"FALLBACK": ""
+				"FALLBACK": "ES"
 			},
 			{
 				"ISOCODE": "FR",
 				"LOCALE": "fr,fr-FR",
 				"NAME": "French",
-				"FALLBACK": ""
+				"FALLBACK": "FR"
 			},
 			{
 				"ISOCODE": "NO",
 				"LOCALE": "no,no-NO,nb,nb-NO",
 				"NAME": "Norwegian",
-				"FALLBACK": ""
+				"FALLBACK": "NO"
 			},
 			{
 				"ISOCODE": "PT",
 				"LOCALE": "pt,pt-BR",
 				"NAME": "Portuguese",
-				"FALLBACK": ""
+				"FALLBACK": "PT"
 			}
 		],
 		"enhancement": [
@@ -96,7 +96,7 @@
 		"loginTitle": "{i18n.promi18n>launchpadLoginTitle}",
 		"loginSubTitle": "{i18n.promi18n>launchpadLoginSubtitle}",
 		"autolock": 0,
-		"pincode": true,
+		"pincode": false,
 		"pincodeTries": 5,
 		"pincodeLength": 4,
 		"pincodeKeyIterations": 40000,
@@ -128,8 +128,8 @@
 	"customLogo": null,
 	"launchpadApp": "",
 	"hideSidemenu": false,
-	"ui5Version": "customCDN",
-	"ui5Url": "https://openui5.hana.ondemand.com/1.136/resources/sap-ui-core.js",
+	"ui5Version": "1.136",
+	"ui5Url": "",
 	"ui5Theme": "sap_horizon",
 	"header": "",
 	"customTheme": null,
@@ -153,8 +153,8 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.12.02.2029",
-	"pwa_enable": true,
+	"ver": "25.12.03.0030",
+	"pwa_enable": false,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
 	"pwa_customImageAndroidNew": null,
