@@ -3378,131 +3378,131 @@
 		},
 		{
 			"name": "tileIcon",
-			"text": "sap-icon://nep/adaptive-designer",
+			"text": "sap-icon://nep/banner",
 			"EN": {
-				"text": "sap-icon://nep/adaptive-designer"
+				"text": "sap-icon://nep/banner"
 			},
-			"type": "NOTR",
+			"type": "XTXT",
 			"id": "94f26b62-023d-43f0-a0ea-eea5871d56e3",
 			"AR": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"FR": {
-				"text": ""
+				"text": "sap-icon://nep/bannière"
 			},
 			"DE": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"ES": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"PT": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"NO": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"AZ": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"BG": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"ZH": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"ZF": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"HR": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"CS": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"DA": {
-				"text": ""
+				"text": "sap-ikon://nep/banner"
 			},
 			"NL": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"ET": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"FI": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"EL": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"HE": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"HU": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"IS": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"ID": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"IT": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"JA": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"KO": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"LV": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"LT": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"MS": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"PL": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"RO": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"RU": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"SE": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"SR": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"SH": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"SK": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"SL": {
-				"text": ""
+				"text": "isap-icon://nep/banner"
 			},
 			"SV": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"TH": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"TR": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"UK": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			},
 			"VI": {
-				"text": ""
+				"text": "sap-icon://nep/banner"
 			}
 		},
 		{
@@ -3764,6 +3764,135 @@
 			}
 		},
 		{
+			"name": "tileSubtitleFormatted",
+			"text": "Translated by Experts",
+			"EN": {
+				"text": "Translated by Experts"
+			},
+			"type": "XTXT",
+			"id": "464dde6c-80a3-4115-dcba-b68054467c85",
+			"AR": {
+				"text": "تمت الترجمة بواسطة خبراء"
+			},
+			"AZ": {
+				"text": "Mütəxəssislər tərəfindən tərcümə edilmişdir"
+			},
+			"BG": {
+				"text": "Преведено от експерти"
+			},
+			"CS": {
+				"text": "Přeloženo odborníky"
+			},
+			"DA": {
+				"text": "Oversat af eksperter"
+			},
+			"DE": {
+				"text": "Übersetzt von Experten"
+			},
+			"EL": {
+				"text": "Μεταφρασμένο από ειδικούς"
+			},
+			"ES": {
+				"text": "Traducido por expertos"
+			},
+			"ET": {
+				"text": "Ekspertide poolt tõlgitud"
+			},
+			"FI": {
+				"text": "Asiantuntijoiden kääntämä"
+			},
+			"FR": {
+				"text": "Traduit par des experts"
+			},
+			"HE": {
+				"text": "תורגם על ידי מומחים"
+			},
+			"HR": {
+				"text": "Preveli stručnjaci"
+			},
+			"HU": {
+				"text": "Szakértők fordították"
+			},
+			"ID": {
+				"text": "Diterjemahkan oleh Para Ahli"
+			},
+			"IS": {
+				"text": "Þýtt af sérfræðingum"
+			},
+			"IT": {
+				"text": "Tradotto da esperti"
+			},
+			"JA": {
+				"text": "専門家による翻訳"
+			},
+			"KO": {
+				"text": "전문가가 번역함"
+			},
+			"LT": {
+				"text": "Išvertė ekspertai"
+			},
+			"LV": {
+				"text": "Ekspertu tulkojums"
+			},
+			"MS": {
+				"text": "Diterjemah oleh Pakar"
+			},
+			"NL": {
+				"text": "Vertaald door experts"
+			},
+			"NO": {
+				"text": "Oversatt av eksperter"
+			},
+			"PL": {
+				"text": "Przetłumaczone przez ekspertów"
+			},
+			"PT": {
+				"text": "Traduzido por especialistas"
+			},
+			"RO": {
+				"text": "Tradus de experți"
+			},
+			"RU": {
+				"text": "Перевод экспертов"
+			},
+			"SE": {
+				"text": "Áššedovdit leat jorgalan"
+			},
+			"SH": {
+				"text": "Превели стручњаци"
+			},
+			"SK": {
+				"text": "Preložené odborníkmi"
+			},
+			"SL": {
+				"text": "Prevedli strokovnjaki"
+			},
+			"SR": {
+				"text": "Превели стручњаци"
+			},
+			"SV": {
+				"text": "Översatt av experter"
+			},
+			"TH": {
+				"text": "แปลโดยผู้เชี่ยวชาญ"
+			},
+			"TR": {
+				"text": "Uzmanlar Tarafından Tercüme Edildi"
+			},
+			"UK": {
+				"text": "Перекладено експертами"
+			},
+			"VI": {
+				"text": "Được dịch bởi các chuyên gia"
+			},
+			"ZF": {
+				"text": "由專家翻譯"
+			},
+			"ZH": {
+				"text": "由专家翻译"
+			}
+		},
+		{
 			"name": "tileText",
 			"text": "<h4>My Text</h4><p>What a cool text.</p>",
 			"EN": {
@@ -3893,135 +4022,6 @@
 			}
 		},
 		{
-			"name": "tileTileFormatter",
-			"text": "Formatted Text",
-			"EN": {
-				"text": "Formatted Text"
-			},
-			"type": "XTXT",
-			"id": "5f864330-3575-4264-b085-edbe36f14b0f",
-			"AR": {
-				"text": "نص منسق"
-			},
-			"FR": {
-				"text": "Texte formaté"
-			},
-			"DE": {
-				"text": "Formatierter Text"
-			},
-			"ES": {
-				"text": "Texto formateado"
-			},
-			"PT": {
-				"text": "Texto formatado"
-			},
-			"NO": {
-				"text": "Formatert tekst"
-			},
-			"AZ": {
-				"text": "Formatlaşdırılmış Mətn"
-			},
-			"BG": {
-				"text": "Форматиран текст"
-			},
-			"ZH": {
-				"text": "格式化文本"
-			},
-			"ZF": {
-				"text": "格式化文字"
-			},
-			"HR": {
-				"text": "Formatirani tekst"
-			},
-			"CS": {
-				"text": "Formátovaný text"
-			},
-			"DA": {
-				"text": "Formateret tekst"
-			},
-			"NL": {
-				"text": "Geformatteerde tekst"
-			},
-			"ET": {
-				"text": "Vormindatud tekst"
-			},
-			"FI": {
-				"text": "Muotoiltu teksti"
-			},
-			"EL": {
-				"text": "Μορφοποιημένο κείμενο"
-			},
-			"HE": {
-				"text": "טקסט מעוצב"
-			},
-			"HU": {
-				"text": "Formázott szöveg"
-			},
-			"IS": {
-				"text": "Sniðinn texti"
-			},
-			"ID": {
-				"text": "Teks yang Diformat"
-			},
-			"IT": {
-				"text": "Testo formattato"
-			},
-			"JA": {
-				"text": "書式設定されたテキスト"
-			},
-			"KO": {
-				"text": "서식이 지정된 텍스트"
-			},
-			"LV": {
-				"text": "Formatēts teksts"
-			},
-			"LT": {
-				"text": "Formatuotas tekstas"
-			},
-			"MS": {
-				"text": "Teks Berformat"
-			},
-			"PL": {
-				"text": "Sformatowany tekst"
-			},
-			"RO": {
-				"text": "Text formatat"
-			},
-			"RU": {
-				"text": "Форматированный текст"
-			},
-			"SE": {
-				"text": "Formáhta teaksta"
-			},
-			"SR": {
-				"text": "Форматирани текст"
-			},
-			"SH": {
-				"text": "Форматирани текст"
-			},
-			"SK": {
-				"text": "Formátovaný text"
-			},
-			"SL": {
-				"text": "Oblikovano besedilo"
-			},
-			"SV": {
-				"text": "Formaterad text"
-			},
-			"TH": {
-				"text": "ข้อความที่จัดรูปแบบ"
-			},
-			"TR": {
-				"text": "Biçimlendirilmiş Metin"
-			},
-			"UK": {
-				"text": "Форматований текст"
-			},
-			"VI": {
-				"text": "Văn bản được định dạng"
-			}
-		},
-		{
 			"name": "tileTitle",
 			"text": "My Tile Title",
 			"EN": {
@@ -4148,6 +4148,135 @@
 			},
 			"VI": {
 				"text": "Tiêu đề ô của tôi"
+			}
+		},
+		{
+			"name": "tileTitleFormatted",
+			"text": "Formatted Text",
+			"EN": {
+				"text": "Formatted Text"
+			},
+			"type": "XTXT",
+			"id": "5f864330-3575-4264-b085-edbe36f14b0f",
+			"AR": {
+				"text": "نص منسق"
+			},
+			"FR": {
+				"text": "Texte formaté"
+			},
+			"DE": {
+				"text": "Formatierter Text"
+			},
+			"ES": {
+				"text": "Texto formateado"
+			},
+			"PT": {
+				"text": "Texto formatado"
+			},
+			"NO": {
+				"text": "Formatert tekst"
+			},
+			"AZ": {
+				"text": "Formatlaşdırılmış Mətn"
+			},
+			"BG": {
+				"text": "Форматиран текст"
+			},
+			"ZH": {
+				"text": "格式化文本"
+			},
+			"ZF": {
+				"text": "格式化文字"
+			},
+			"HR": {
+				"text": "Formatirani tekst"
+			},
+			"CS": {
+				"text": "Formátovaný text"
+			},
+			"DA": {
+				"text": "Formateret tekst"
+			},
+			"NL": {
+				"text": "Geformatteerde tekst"
+			},
+			"ET": {
+				"text": "Vormindatud tekst"
+			},
+			"FI": {
+				"text": "Muotoiltu teksti"
+			},
+			"EL": {
+				"text": "Μορφοποιημένο κείμενο"
+			},
+			"HE": {
+				"text": "טקסט מעוצב"
+			},
+			"HU": {
+				"text": "Formázott szöveg"
+			},
+			"IS": {
+				"text": "Sniðinn texti"
+			},
+			"ID": {
+				"text": "Teks yang Diformat"
+			},
+			"IT": {
+				"text": "Testo formattato"
+			},
+			"JA": {
+				"text": "書式設定されたテキスト"
+			},
+			"KO": {
+				"text": "서식이 지정된 텍스트"
+			},
+			"LV": {
+				"text": "Formatēts teksts"
+			},
+			"LT": {
+				"text": "Formatuotas tekstas"
+			},
+			"MS": {
+				"text": "Teks Berformat"
+			},
+			"PL": {
+				"text": "Sformatowany tekst"
+			},
+			"RO": {
+				"text": "Text formatat"
+			},
+			"RU": {
+				"text": "Форматированный текст"
+			},
+			"SE": {
+				"text": "Formáhta teaksta"
+			},
+			"SR": {
+				"text": "Форматирани текст"
+			},
+			"SH": {
+				"text": "Форматирани текст"
+			},
+			"SK": {
+				"text": "Formátovaný text"
+			},
+			"SL": {
+				"text": "Oblikovano besedilo"
+			},
+			"SV": {
+				"text": "Formaterad text"
+			},
+			"TH": {
+				"text": "ข้อความที่จัดรูปแบบ"
+			},
+			"TR": {
+				"text": "Biçimlendirilmiş Metin"
+			},
+			"UK": {
+				"text": "Форматований текст"
+			},
+			"VI": {
+				"text": "Văn bản được định dạng"
 			}
 		},
 		{
@@ -6752,7 +6881,7 @@
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.11.27.1022",
+	"ver": "25.12.02.2113",
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"active": true,
 	"deleted": false,

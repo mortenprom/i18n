@@ -11,7 +11,7 @@
 	"STYLECLASS": null,
 	"GRID_WIDTH": null,
 	"GRID_ALIGN": null,
-	"GRID_MARGIN_SHORTHAND": "1.25rem",
+	"GRID_MARGIN_SHORTHAND": "0rem",
 	"GRID_MARGIN_START": null,
 	"GRID_MARGIN_END": null,
 	"GRID_MARGIN_TOP": null,
@@ -63,6 +63,6 @@
 	"BACK_IMAGE_MOB": null,
 	"TILES_PR_ROW": null,
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
-	"ver": "25.11.28.0918",
+	"ver": "25.11.29.1614",
 	"LAYOUT_HIERARCHY": []
 }

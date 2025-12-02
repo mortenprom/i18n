@@ -9,8 +9,8 @@
 			"id": ""
 		}
 	},
-	"title": "{i18n.promi18n>tileTileFormatter}",
-	"subTitle": "",
+	"title": "{i18n.promi18n>tileTitleFormatted}",
+	"subTitle": "{i18n.promi18n>tileSubtitleFormatted}",
 	"description": null,
 	"descriptionFormatter": null,
 	"categoryID": null,
@@ -27,7 +27,7 @@
 	"type": null,
 	"image": null,
 	"imageDark": null,
-	"icon": "sap-icon://nep/formatter",
+	"icon": "sap-icon://nep/avatar-group",
 	"backgroundType": null,
 	"backgroundColor": null,
 	"tileLayoutLight": null,
@@ -64,9 +64,9 @@
 	"helpText": null,
 	"helpEnabled": false,
 	"openClickTile": false,
-	"ver": "25.11.23.1757",
+	"ver": "25.12.02.2052",
 	"actionWebApp": "",
-	"name": "prom-i18n-formatter",
+	"name": "prom-i18n-formatted",
 	"cardWidth": null,
 	"cardHeight": null,
 	"cardHeightFit": false,
@@ -102,7 +102,7 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.27.1022"
+			"ver": "25.12.02.2113"
 		}
 	]
 }

@@ -20,48 +20,70 @@
 			"NO",
 			"PT",
 			"ES",
-			"DA"
+			"DA",
+			"1S",
+			"0S"
 		],
 		"locales": [
 			{
+				"ISOCODE": "0S",
+				"LOCALE": "es-CO",
+				"NAME": "Spanish Columbia",
+				"FALLBACK": "ES"
+			},
+			{
+				"ISOCODE": "1S",
+				"LOCALE": "es-AR",
+				"NAME": "Spanish Argentina",
+				"FALLBACK": ""
+			},
+			{
 				"ISOCODE": "AR",
 				"LOCALE": "ar,ar-SA",
-				"NAME": "Arabic"
+				"NAME": "Arabic",
+				"FALLBACK": ""
 			},
 			{
 				"ISOCODE": "DA",
 				"LOCALE": "da",
-				"NAME": "Danish"
+				"NAME": "Danish",
+				"FALLBACK": ""
 			},
 			{
 				"ISOCODE": "DE",
 				"LOCALE": "de,de-DE",
-				"NAME": "German"
+				"NAME": "German",
+				"FALLBACK": ""
 			},
 			{
 				"ISOCODE": "EN",
 				"LOCALE": "en,en-US",
-				"NAME": "English"
+				"NAME": "English",
+				"FALLBACK": ""
 			},
 			{
 				"ISOCODE": "ES",
 				"LOCALE": "es,es-ES",
-				"NAME": "Spanish"
+				"NAME": "Spanish",
+				"FALLBACK": ""
 			},
 			{
 				"ISOCODE": "FR",
 				"LOCALE": "fr,fr-FR",
-				"NAME": "French"
+				"NAME": "French",
+				"FALLBACK": ""
 			},
 			{
 				"ISOCODE": "NO",
 				"LOCALE": "no,no-NO,nb,nb-NO",
-				"NAME": "Norwegian"
+				"NAME": "Norwegian",
+				"FALLBACK": ""
 			},
 			{
 				"ISOCODE": "PT",
 				"LOCALE": "pt,pt-BR",
-				"NAME": "Portuguese"
+				"NAME": "Portuguese",
+				"FALLBACK": ""
 			}
 		],
 		"enhancement": [
@@ -74,7 +96,7 @@
 		"loginTitle": "{i18n.promi18n>launchpadLoginTitle}",
 		"loginSubTitle": "{i18n.promi18n>launchpadLoginSubtitle}",
 		"autolock": 0,
-		"pincode": false,
+		"pincode": true,
 		"pincodeTries": 5,
 		"pincodeLength": 4,
 		"pincodeKeyIterations": 40000,
@@ -106,8 +128,8 @@
 	"customLogo": null,
 	"launchpadApp": "",
 	"hideSidemenu": false,
-	"ui5Version": "",
-	"ui5Url": null,
+	"ui5Version": "customCDN",
+	"ui5Url": "https://openui5.hana.ondemand.com/1.136/resources/sap-ui-core.js",
 	"ui5Theme": "sap_horizon",
 	"header": "",
 	"customTheme": null,
@@ -131,8 +153,8 @@
 	"searchEnableShadeCalc": null,
 	"usedEnableShadeCalc": null,
 	"enableTrace": false,
-	"ver": "25.11.28.0926",
-	"pwa_enable": false,
+	"ver": "25.12.02.2029",
+	"pwa_enable": true,
 	"pwa_customImageIos": null,
 	"pwa_customImageAndroidOld": null,
 	"pwa_customImageAndroidNew": null,
@@ -154,7 +176,7 @@
 			"id": "a79e1269-ce68-4758-b631-8d0bdfbc012c",
 			"name": "prom-i18n",
 			"title": "{i18n.promi18n>tilegroupTitle}",
-			"ver": "25.11.28.0921"
+			"ver": "25.12.02.2105"
 		}
 	],
 	"roles": [],
@@ -163,7 +185,7 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.27.1022"
+			"ver": "25.12.02.2113"
 		}
 	]
 }

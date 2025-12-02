@@ -74,7 +74,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.11.28.0921",
+	"ver": "25.12.02.2105",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -89,7 +89,7 @@
 	"imageTabletHeight": null,
 	"imageHeight": null,
 	"name": "prom-i18n",
-	"cardContentWidth": "",
+	"cardContentWidth": "Medium",
 	"cardContentAlign": null,
 	"cardPerRow": null,
 	"cardStyle": null,
@@ -141,10 +141,15 @@
 	"darkGroupLayouts": [
 		{
 			"id": "d7a96150-2386-438a-a73e-cc92db89b6df",
-			"ver": "25.11.28.0918"
+			"ver": "25.11.29.1614"
 		}
 	],
-	"lightTileLayouts": [],
+	"lightTileLayouts": [
+		{
+			"id": "71a6c59c-06da-4abe-9b69-07f798a9fd7b",
+			"ver": "25.12.02.2104"
+		}
+	],
 	"darkTileLayouts": [],
 	"tiles": [
 		{
@@ -155,15 +160,15 @@
 		},
 		{
 			"id": "a417a0c7-340b-454d-9126-e5183930b7a4",
-			"name": "prom-i18n-formatter",
-			"title": "{i18n.promi18n>tileTileFormatter}",
-			"ver": "25.11.23.1757"
+			"name": "prom-i18n-formatted",
+			"title": "{i18n.promi18n>tileTitleFormatted}",
+			"ver": "25.12.02.2052"
 		},
 		{
 			"id": "78fd7ae8-8829-4914-a599-1b4f0f9904c1",
 			"name": "prom-i18n",
 			"title": "{i18n.promi18n>tileTitle}",
-			"ver": "25.11.13.1216"
+			"ver": "25.12.02.2113"
 		}
 	],
 	"tilegroups": [],
@@ -174,7 +179,7 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.11.27.1022"
+			"ver": "25.12.02.2113"
 		}
 	]
 }

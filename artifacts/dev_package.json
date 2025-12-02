@@ -8,7 +8,7 @@
 	},
 	"name": "prom-i18n",
 	"description": null,
-	"ver": "25.11.28.0954",
+	"ver": "25.11.28.1005",
 	"enableCICD": true,
 	"internalReadOnly": false,
 	"oeVersion": null,
@@ -61,7 +61,7 @@
 		{
 			"id": "a417a0c7-340b-454d-9126-e5183930b7a4",
 			"description": null,
-			"name": "prom-i18n-formatter"
+			"name": "prom-i18n-formatted"
 		},
 		{
 			"id": "78fd7ae8-8829-4914-a599-1b4f0f9904c1",
@@ -69,7 +69,16 @@
 			"name": "prom-i18n"
 		}
 	],
-	"tile_layout": [],
+	"tile_layout": [
+		{
+			"id": "71a6c59c-06da-4abe-9b69-07f798a9fd7b",
+			"NAME": "prom-i18n-margin"
+		},
+		{
+			"id": "3701766c-2424-4750-b82d-9a03aae10991",
+			"NAME": "prom-i18n-icon-inline-right"
+		}
+	],
 	"category": [
 		{
 			"id": "a79e1269-ce68-4758-b631-8d0bdfbc012c",
