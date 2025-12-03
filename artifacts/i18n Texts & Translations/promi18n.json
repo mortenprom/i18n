@@ -130,6 +130,9 @@
 			},
 			"VI": {
 				"text": "Tên nhân viên"
+			},
+			"0S": {
+				"text": "Nombre del empleado"
 			}
 		},
 		{
@@ -259,6 +262,9 @@
 			},
 			"VI": {
 				"text": "Số nhân viên"
+			},
+			"0S": {
+				"text": "Número de empleado"
 			}
 		},
 		{
@@ -388,6 +394,9 @@
 			},
 			"VI": {
 				"text": "Tổng quan về nhân viên"
+			},
+			"0S": {
+				"text": "Descripción general del empleado"
 			}
 		},
 		{
@@ -516,6 +525,9 @@
 				"text": ""
 			},
 			"VI": {
+				"text": ""
+			},
+			"0S": {
 				"text": ""
 			}
 		},
@@ -648,6 +660,9 @@
 			},
 			"VI": {
 				"text": "Đoạn văn đầu tiên của tôi. Nó rất hay."
+			},
+			"0S": {
+				"text": "Mi primer párrafo. Es bueno."
 			}
 		},
 		{
@@ -779,6 +794,9 @@
 			},
 			"VI": {
 				"text": "Đoạn thứ hai của tôi. Bạn có thể là người phán xét, còn gì tuyệt hơn nữa?"
+			},
+			"0S": {
+				"text": "Mi segundo párrafo. Puedes juzgarlo tú mismo. ¿Es aún mejor?"
 			}
 		},
 		{
@@ -910,6 +928,9 @@
 			},
 			"VI": {
 				"text": "Tiêu đề thứ hai của tôi"
+			},
+			"0S": {
+				"text": "Mi segundo título"
 			}
 		},
 		{
@@ -1041,6 +1062,9 @@
 			},
 			"VI": {
 				"text": "Tiêu đề hàng đầu"
+			},
+			"0S": {
+				"text": "Título superior"
 			}
 		},
 		{
@@ -1170,6 +1194,9 @@
 			},
 			"VI": {
 				"text": "Mô tả Launchpad của tôi"
+			},
+			"0S": {
+				"text": "Descripción de mi Launchpad"
 			}
 		},
 		{
@@ -1299,6 +1326,9 @@
 			},
 			"VI": {
 				"text": "Phụ đề đăng nhập của tôi"
+			},
+			"0S": {
+				"text": "Subtítulo de mi inicio de sesión"
 			}
 		},
 		{
@@ -1428,6 +1458,9 @@
 			},
 			"VI": {
 				"text": "Tiêu đề đăng nhập của tôi"
+			},
+			"0S": {
+				"text": "Mi título de inicio de sesión"
 			}
 		},
 		{
@@ -1557,6 +1590,9 @@
 			},
 			"VI": {
 				"text": "Bệ phóng của tôi"
+			},
+			"0S": {
+				"text": "Mi Launchpad"
 			}
 		},
 		{
@@ -1682,6 +1718,9 @@
 				"text": ""
 			},
 			"VI": {
+				"text": ""
+			},
+			"0S": {
 				"text": ""
 			}
 		},
@@ -1810,6 +1849,9 @@
 				"text": ""
 			},
 			"VI": {
+				"text": ""
+			},
+			"0S": {
 				"text": ""
 			}
 		},
@@ -1942,6 +1984,9 @@
 			},
 			"VI": {
 				"text": "Nội dung của tôi"
+			},
+			"0S": {
+				"text": "Mi contenido"
 			}
 		},
 		{
@@ -2073,6 +2118,406 @@
 			},
 			"VI": {
 				"text": "<h2>Tiêu đề của tôi</h2><p>Văn bản đầu tiên của tôi</p>"
+			},
+			"0S": {
+				"text": "<h2>Mi título</h2><p>Mi primer texto</p>"
+			}
+		},
+		{
+			"name": "popcorn",
+			"EN": {},
+			"type": "NOTR",
+			"id": "7240be51-c2f1-4d92-8cb3-d6a1af867e48",
+			"0S": {
+				"text": ""
+			},
+			"AR": {
+				"text": ""
+			},
+			"FR": {
+				"text": ""
+			},
+			"DE": {
+				"text": ""
+			},
+			"ES": {
+				"text": ""
+			},
+			"PT": {
+				"text": ""
+			},
+			"NO": {
+				"text": ""
+			},
+			"AZ": {
+				"text": ""
+			},
+			"BG": {
+				"text": ""
+			},
+			"ZH": {
+				"text": ""
+			},
+			"ZF": {
+				"text": ""
+			},
+			"HR": {
+				"text": ""
+			},
+			"CS": {
+				"text": ""
+			},
+			"DA": {
+				"text": ""
+			},
+			"NL": {
+				"text": ""
+			},
+			"ET": {
+				"text": ""
+			},
+			"FI": {
+				"text": ""
+			},
+			"EL": {
+				"text": ""
+			},
+			"HE": {
+				"text": ""
+			},
+			"HU": {
+				"text": ""
+			},
+			"IS": {
+				"text": ""
+			},
+			"ID": {
+				"text": ""
+			},
+			"IT": {
+				"text": ""
+			},
+			"JA": {
+				"text": ""
+			},
+			"KO": {
+				"text": ""
+			},
+			"LV": {
+				"text": ""
+			},
+			"LT": {
+				"text": ""
+			},
+			"MS": {
+				"text": ""
+			},
+			"PL": {
+				"text": ""
+			},
+			"RO": {
+				"text": ""
+			},
+			"RU": {
+				"text": ""
+			},
+			"SE": {
+				"text": ""
+			},
+			"SR": {
+				"text": ""
+			},
+			"SH": {
+				"text": ""
+			},
+			"SK": {
+				"text": ""
+			},
+			"SL": {
+				"text": ""
+			},
+			"SV": {
+				"text": ""
+			},
+			"TH": {
+				"text": ""
+			},
+			"TR": {
+				"text": ""
+			},
+			"UK": {
+				"text": ""
+			},
+			"VI": {
+				"text": ""
+			}
+		},
+		{
+			"parent": "popcorn",
+			"parentId": "7240be51-c2f1-4d92-8cb3-d6a1af867e48",
+			"name": "popcorn.subtitle",
+			"text": "Popcorn really is the best",
+			"EN": {
+				"text": "Popcorn really is the best"
+			},
+			"type": "XTXT",
+			"id": "cdb959b2-2cae-451a-ab64-69e0d978a7dd",
+			"0S": {
+				"text": "Las palomitas de maíz son realmente lo mejor"
+			},
+			"AR": {
+				"text": "الفشار هو الأفضل حقا"
+			},
+			"FR": {
+				"text": "Le popcorn est vraiment le meilleur"
+			},
+			"DE": {
+				"text": "Popcorn ist wirklich das Beste"
+			},
+			"ES": {
+				"text": "Las palomitas de maíz son realmente lo mejor"
+			},
+			"PT": {
+				"text": "Pipoca é realmente a melhor"
+			},
+			"NO": {
+				"text": "Popcorn er virkelig det beste"
+			},
+			"AZ": {
+				"text": "Popkorn həqiqətən ən yaxşısıdır"
+			},
+			"BG": {
+				"text": "Пуканките наистина са най-добрите"
+			},
+			"ZH": {
+				"text": "爆米花真是太棒了！"
+			},
+			"ZF": {
+				"text": "爆米花真是太棒了！"
+			},
+			"HR": {
+				"text": "Kokice su stvarno najbolje"
+			},
+			"CS": {
+				"text": "Popcorn je opravdu nejlepší"
+			},
+			"DA": {
+				"text": "Popcorn er virkelig det bedste"
+			},
+			"NL": {
+				"text": "Popcorn is echt het beste"
+			},
+			"ET": {
+				"text": "Popkorn on tõesti parim"
+			},
+			"FI": {
+				"text": "Popcorn on oikeesti parasta"
+			},
+			"EL": {
+				"text": "Τα ποπ κορν είναι πραγματικά τα καλύτερα"
+			},
+			"HE": {
+				"text": "פופקורן באמת הכי טוב"
+			},
+			"HU": {
+				"text": "A pattogatott kukorica tényleg a legjobb"
+			},
+			"IS": {
+				"text": "Poppkorn er í alvöru best"
+			},
+			"ID": {
+				"text": "Popcorn memang yang terbaik"
+			},
+			"IT": {
+				"text": "Il popcorn è davvero il migliore"
+			},
+			"JA": {
+				"text": "ポップコーンは本当に最高だ"
+			},
+			"KO": {
+				"text": "팝콘은 정말 최고예요"
+			},
+			"LV": {
+				"text": "Popkorns tiešām ir labākais"
+			},
+			"LT": {
+				"text": "Spragėsiai tikrai yra geriausi"
+			},
+			"MS": {
+				"text": "Popcorn memang terbaik"
+			},
+			"PL": {
+				"text": "Popcorn naprawdę jest najlepszy"
+			},
+			"RO": {
+				"text": "Popcornul este într-adevăr cel mai bun"
+			},
+			"RU": {
+				"text": "Попкорн действительно лучший"
+			},
+			"SE": {
+				"text": "Popcorn lea duođaid dat buoremus"
+			},
+			"SR": {
+				"text": "Кокице су стварно најбоље"
+			},
+			"SH": {
+				"text": "Кокице су стварно најбоље"
+			},
+			"SK": {
+				"text": "Popcorn je naozaj najlepší"
+			},
+			"SL": {
+				"text": "Kokice so res najboljše"
+			},
+			"SV": {
+				"text": "Popcorn är verkligen bäst"
+			},
+			"TH": {
+				"text": "ป๊อปคอร์นนี่สุดยอดจริงๆ"
+			},
+			"TR": {
+				"text": "Patlamış mısır gerçekten en iyisi"
+			},
+			"UK": {
+				"text": "Попкорн справді найкращий"
+			},
+			"VI": {
+				"text": "Bỏng ngô thực sự là tốt nhất"
+			}
+		},
+		{
+			"parent": "popcorn",
+			"parentId": "7240be51-c2f1-4d92-8cb3-d6a1af867e48",
+			"name": "popcorn.title",
+			"text": "Grab the Popcorn",
+			"EN": {
+				"text": "Grab the Popcorn"
+			},
+			"type": "XTXT",
+			"id": "71bc876e-06b2-45f6-8b0d-136835ebc265",
+			"0S": {
+				"text": "Coge las crispetas"
+			},
+			"AR": {
+				"text": "احصل على الفشار"
+			},
+			"FR": {
+				"text": "Prenez le pop-corn"
+			},
+			"DE": {
+				"text": "Schnappt euch das Popcorn!"
+			},
+			"ES": {
+				"text": "Coge las palomitas de maíz"
+			},
+			"PT": {
+				"text": "Pegue a pipoca!"
+			},
+			"NO": {
+				"text": "Ta med popcornen"
+			},
+			"AZ": {
+				"text": "Popkorn götürün"
+			},
+			"BG": {
+				"text": "Грабни пуканките"
+			},
+			"ZH": {
+				"text": "拿爆米花来！"
+			},
+			"ZF": {
+				"text": "拿爆米花來！"
+			},
+			"HR": {
+				"text": "Uzmi kokice"
+			},
+			"CS": {
+				"text": "Vezměte si popcorn"
+			},
+			"DA": {
+				"text": "Grib popcornen"
+			},
+			"NL": {
+				"text": "Pak de popcorn"
+			},
+			"ET": {
+				"text": "Haara popkorn"
+			},
+			"FI": {
+				"text": "Nappaa popcornit"
+			},
+			"EL": {
+				"text": "Πάρε τα ποπ κορν"
+			},
+			"HE": {
+				"text": "תפוס את הפופקורן"
+			},
+			"HU": {
+				"text": "Ragadd meg a pattogatott kukoricát"
+			},
+			"IS": {
+				"text": "Náðu í poppkornið"
+			},
+			"ID": {
+				"text": "Ambil Popcornnya"
+			},
+			"IT": {
+				"text": "Prendi i popcorn"
+			},
+			"JA": {
+				"text": "ポップコーンを手に取って"
+			},
+			"KO": {
+				"text": "팝콘을 가져가세요"
+			},
+			"LV": {
+				"text": "Paķer popkornu"
+			},
+			"LT": {
+				"text": "Griebkite spragėsius"
+			},
+			"MS": {
+				"text": "Dapatkan Popcorn"
+			},
+			"PL": {
+				"text": "Weź popcorn"
+			},
+			"RO": {
+				"text": "Ia floricelele de porumb"
+			},
+			"RU": {
+				"text": "Запасайтесь попкорном"
+			},
+			"SE": {
+				"text": "Váldde popkorna"
+			},
+			"SR": {
+				"text": "Узми кокице"
+			},
+			"SH": {
+				"text": "Узми кокице"
+			},
+			"SK": {
+				"text": "Chyť popcorn"
+			},
+			"SL": {
+				"text": "Zgrabi kokice"
+			},
+			"SV": {
+				"text": "Ta popcornen"
+			},
+			"TH": {
+				"text": "คว้าป๊อปคอร์น"
+			},
+			"TR": {
+				"text": "Patlamış mısırı al"
+			},
+			"UK": {
+				"text": "Хапай попкорн"
+			},
+			"VI": {
+				"text": "Lấy bỏng ngô"
 			}
 		},
 		{
@@ -2198,6 +2643,9 @@
 				"text": ""
 			},
 			"VI": {
+				"text": ""
+			},
+			"0S": {
 				"text": ""
 			}
 		},
@@ -2330,6 +2778,9 @@
 			},
 			"VI": {
 				"text": "Giải thưởng"
+			},
+			"0S": {
+				"text": "El premio"
 			}
 		},
 		{
@@ -2461,6 +2912,9 @@
 			},
 			"VI": {
 				"text": "Kết quả"
+			},
+			"0S": {
+				"text": "El resultado"
 			}
 		},
 		{
@@ -2592,6 +3046,9 @@
 			},
 			"VI": {
 				"text": "Barnaby tìm thấy một cành cây to gấp ba lần mình. Nó hiên ngang bước xuống vỉa hè, buộc hàng xóm phải xô đẩy gỗ của nó."
+			},
+			"0S": {
+				"text": "Barnaby encontró una rama tres veces más grande que él. Marchó con orgullo por la acera, obligando a los vecinos a saltarle la madera."
 			}
 		},
 		{
@@ -2723,6 +3180,9 @@
 			},
 			"VI": {
 				"text": "Cổng vườn thì hẹp, còn cây gậy thì không. Một tiếng động lớn vang lên, cành cây kẹt lại, hất con chó sục ngã ngửa ra sau."
+			},
+			"0S": {
+				"text": "La puerta del jardín era estrecha; el palo no. Con un golpe sordo, la rama se atascó, lanzando al terrier hacia atrás."
 			}
 		},
 		{
@@ -2854,6 +3314,9 @@
 			},
 			"VI": {
 				"text": "Đây thực sự là một tình huống khó xử."
+			},
+			"0S": {
+				"text": "Fue realmente una situación complicada."
 			}
 		},
 		{
@@ -2985,6 +3448,9 @@
 			},
 			"VI": {
 				"text": "Chó Husky"
+			},
+			"0S": {
+				"text": "perros esquimales"
 			}
 		},
 		{
@@ -3116,6 +3582,9 @@
 			},
 			"VI": {
 				"text": "Giọng nói khàn khàn là giọng trầm và khàn"
+			},
+			"0S": {
+				"text": "Una voz ronca es baja y áspera."
 			}
 		},
 		{
@@ -3244,6 +3713,9 @@
 				"text": ""
 			},
 			"VI": {
+				"text": ""
+			},
+			"0S": {
 				"text": ""
 			}
 		},
@@ -3374,6 +3846,9 @@
 			},
 			"VI": {
 				"text": "Nút của tôi"
+			},
+			"0S": {
+				"text": "Mi botón"
 			}
 		},
 		{
@@ -3502,6 +3977,9 @@
 				"text": "sap-icon://nep/banner"
 			},
 			"VI": {
+				"text": "sap-icon://nep/banner"
+			},
+			"0S": {
 				"text": "sap-icon://nep/banner"
 			}
 		},
@@ -3632,6 +4110,9 @@
 			},
 			"VI": {
 				"text": "Trạng thái ô của tôi"
+			},
+			"0S": {
+				"text": "Mi estado de mosaico"
 			}
 		},
 		{
@@ -3761,6 +4242,9 @@
 			},
 			"VI": {
 				"text": "Phụ đề Tile của tôi"
+			},
+			"0S": {
+				"text": "Subtítulo de mi mosaico"
 			}
 		},
 		{
@@ -3890,6 +4374,9 @@
 			},
 			"ZH": {
 				"text": "由专家翻译"
+			},
+			"0S": {
+				"text": "Traducido por expertos"
 			}
 		},
 		{
@@ -4019,6 +4506,9 @@
 			},
 			"VI": {
 				"text": "<h4>Văn bản của tôi</h4><p>Thật là một văn bản tuyệt vời.</p>"
+			},
+			"0S": {
+				"text": "<h4>Mi texto</h4><p>Qué texto más genial.</p>"
 			}
 		},
 		{
@@ -4148,6 +4638,9 @@
 			},
 			"VI": {
 				"text": "Tiêu đề ô của tôi"
+			},
+			"0S": {
+				"text": "Título de mi mosaico"
 			}
 		},
 		{
@@ -4277,6 +4770,9 @@
 			},
 			"VI": {
 				"text": "Văn bản được định dạng"
+			},
+			"0S": {
+				"text": "Texto formateado"
 			}
 		},
 		{
@@ -4406,6 +4902,9 @@
 			},
 			"VI": {
 				"text": "THỰC ĐƠN CỦA TÔI"
+			},
+			"0S": {
+				"text": "MI MENÚ"
 			}
 		},
 		{
@@ -4535,6 +5034,9 @@
 			},
 			"VI": {
 				"text": "Phụ đề nhóm My Tile"
+			},
+			"0S": {
+				"text": "Subtítulo de mi grupo de mosaicos"
 			}
 		},
 		{
@@ -4664,6 +5166,9 @@
 			},
 			"VI": {
 				"text": "Tiêu đề nhóm gạch của tôi"
+			},
+			"0S": {
+				"text": "Título de mi grupo de mosaicos"
 			}
 		},
 		{
@@ -4789,6 +5294,9 @@
 				"text": ""
 			},
 			"VI": {
+				"text": ""
+			},
+			"0S": {
 				"text": ""
 			}
 		},
@@ -4917,6 +5425,9 @@
 				"text": ""
 			},
 			"VI": {
+				"text": ""
+			},
+			"0S": {
 				"text": ""
 			}
 		},
@@ -5049,6 +5560,9 @@
 			},
 			"VI": {
 				"text": "Chào buổi chiều"
+			},
+			"0S": {
+				"text": "Buenas tardes"
 			}
 		},
 		{
@@ -5180,6 +5694,9 @@
 			},
 			"VI": {
 				"text": "Buổi tối vui vẻ"
+			},
+			"0S": {
+				"text": "Buenas noches"
 			}
 		},
 		{
@@ -5311,6 +5828,9 @@
 			},
 			"VI": {
 				"text": "Chào buổi sáng"
+			},
+			"0S": {
+				"text": "Buen día"
 			}
 		},
 		{
@@ -5438,6 +5958,9 @@
 				"text": ""
 			},
 			"VI": {
+				"text": ""
+			},
+			"0S": {
 				"text": ""
 			}
 		},
@@ -5570,6 +6093,9 @@
 			},
 			"VI": {
 				"text": "Thành công giống như một vịnh hẹp: Sâu, lạnh và tốt nhất nên chiêm ngưỡng từ một khoảng cách an toàn."
+			},
+			"0S": {
+				"text": "El éxito es como un fiordo: profundo, frío y se admira mejor desde una distancia segura."
 			}
 		},
 		{
@@ -5701,6 +6227,9 @@
 			},
 			"VI": {
 				"text": "Hãy nhớ: Không có mã xấu, chỉ có quần áo xấu."
+			},
+			"0S": {
+				"text": "Recuerda: no existe código malo, solo mala ropa."
 			}
 		},
 		{
@@ -5832,6 +6361,9 @@
 			},
 			"VI": {
 				"text": "Mục tiêu hôm nay: Làm việc hiệu quả như quỹ dầu mỏ, nhưng vẫn thoải mái như một ngày Chủ Nhật ở Tromsø."
+			},
+			"0S": {
+				"text": "El objetivo de hoy: Ser tan productivo como el fondo petrolero, pero tan tranquilo como un domingo en Tromsø."
 			}
 		},
 		{
@@ -5963,6 +6495,9 @@
 			},
 			"VI": {
 				"text": "Vui lòng giữ khoảng cách xã hội 5 mét với màn hình. Đây không phải là vấn đề liên quan đến virus, mà chỉ là văn hóa Na Uy."
+			},
+			"0S": {
+				"text": "Por favor, mantenga una distancia social de 5 metros con su monitor. No es un virus, es simplemente la cultura noruega."
 			}
 		},
 		{
@@ -6094,6 +6629,9 @@
 			},
 			"VI": {
 				"text": "Hộp thư đến của bạn hiện tại còn đầy hơn cả một chiếc xe buýt ở Oslo vào giờ cao điểm. (Và cũng im lặng không kém)."
+			},
+			"0S": {
+				"text": "Tu bandeja de entrada está ahora mismo más llena que un autobús en Oslo en hora punta. (Y tan silenciosa como siempre)."
 			}
 		},
 		{
@@ -6225,6 +6763,9 @@
 			},
 			"VI": {
 				"text": "Lưu ý: Giá cà phê trong phòng nghỉ khá hợp lý. Giá bia sau giờ làm việc sẽ yêu cầu bạn phải đăng ký vay."
+			},
+			"0S": {
+				"text": "Advertencia: El precio del café en la sala de descanso es razonable. Para comprar una cerveza después del trabajo, se requiere una solicitud de préstamo."
 			}
 		},
 		{
@@ -6356,6 +6897,9 @@
 			},
 			"VI": {
 				"text": "Hãy thể hiện bản chất Viking của bạn ngay hôm nay: Dọn dẹp danh sách việc cần làm, nhưng đừng đụng đến ngôi làng (HR)."
+			},
+			"0S": {
+				"text": "Canaliza a tu vikingo interior hoy: saquea tu lista de cosas por hacer, pero por favor deja al pueblo (RR.HH.) en paz."
 			}
 		},
 		{
@@ -6487,6 +7031,9 @@
 			},
 			"VI": {
 				"text": "Bạn có mang theo Brunost (Phô mai nâu) không? Không à? Vậy thì cuộc họp này có thể chỉ là một email."
+			},
+			"0S": {
+				"text": "¿Trajiste tu Brunost (queso integral)? ¿No? Entonces esta reunión podría haber sido un correo electrónico."
 			}
 		},
 		{
@@ -6618,6 +7165,9 @@
 			},
 			"VI": {
 				"text": "Mặt trời có thể lặn lúc 3 giờ chiều hôm nay, nhưng sự hợp tác của bạn phải mãi mãi tỏa sáng."
+			},
+			"0S": {
+				"text": "Puede que el sol se ponga hoy a las 3 de la tarde, pero su sinergia debe brillar para siempre."
 			}
 		},
 		{
@@ -6749,6 +7299,9 @@
 			},
 			"VI": {
 				"text": "Nếu bạn cảm thấy lạnh, hãy nhớ rằng: Giá điện rất cao, vì vậy hãy gõ nhanh hơn để tạo nhiệt cho cơ thể."
+			},
+			"0S": {
+				"text": "Si sientes frío, recuerda: los precios de la electricidad son altos, así que escribe más rápido para generar calor corporal."
 			}
 		}
 	],
@@ -6875,13 +7428,16 @@
 		},
 		{
 			"isoCode": "VI"
+		},
+		{
+			"isoCode": "0S"
 		}
 	],
 	"name": "promi18n",
 	"description": null,
 	"fallbackLocale": "EN",
 	"application": null,
-	"ver": "25.12.02.2113",
+	"ver": "25.12.03.1214",
 	"package": "77007e49-7826-43c8-8c73-2d6e26d728ba",
 	"active": true,
 	"deleted": false,

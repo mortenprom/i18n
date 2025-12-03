@@ -64,6 +64,11 @@
 			"name": "prom-i18n-formatted"
 		},
 		{
+			"id": "a2fb67a3-6ca0-47ee-9612-4e8a768b57e2",
+			"description": null,
+			"name": "prom-i18n-popcorn"
+		},
+		{
 			"id": "78fd7ae8-8829-4914-a599-1b4f0f9904c1",
 			"description": null,
 			"name": "prom-i18n"

@@ -6,7 +6,8 @@
 	"tilesOrder": [
 		"d4b660d6-eae3-4244-a4e4-7c503dafe04d",
 		"78fd7ae8-8829-4914-a599-1b4f0f9904c1",
-		"a417a0c7-340b-454d-9126-e5183930b7a4"
+		"a417a0c7-340b-454d-9126-e5183930b7a4",
+		"a2fb67a3-6ca0-47ee-9612-4e8a768b57e2"
 	],
 	"tilegroupsOrder": [],
 	"configMessage": {
@@ -74,7 +75,7 @@
 	"enableShadeCalc": false,
 	"numTiles": null,
 	"enableMessage": true,
-	"ver": "25.12.02.2105",
+	"ver": "25.12.03.1215",
 	"headColor": null,
 	"headTxtClr": null,
 	"subheadTxtClr": null,
@@ -165,6 +166,12 @@
 			"ver": "25.12.02.2052"
 		},
 		{
+			"id": "a2fb67a3-6ca0-47ee-9612-4e8a768b57e2",
+			"name": "prom-i18n-popcorn",
+			"title": "{i18n.promi18n>popcorn.title}",
+			"ver": "25.12.03.1215"
+		},
+		{
 			"id": "78fd7ae8-8829-4914-a599-1b4f0f9904c1",
 			"name": "prom-i18n",
 			"title": "{i18n.promi18n>tileTitle}",
@@ -179,7 +186,7 @@
 			"id": "894f663e-384f-45bf-a716-3267184b3178",
 			"name": "promi18n",
 			"application": null,
-			"ver": "25.12.02.2113"
+			"ver": "25.12.03.1214"
 		}
 	]
 }
